@@ -1,0 +1,3722 @@
+[
+  {
+    "id": "health-heart-outline-1",
+    "name": "Heart Outline",
+    "category": "health",
+    "keywords": [
+      "heart",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "heart",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 347,
+    "views": 1772
+  },
+  {
+    "id": "health-heart-bold-1",
+    "name": "Heart Bold",
+    "category": "health",
+    "keywords": [
+      "heart",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "heart",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 956,
+    "views": 3510
+  },
+  {
+    "id": "health-heart-bulk-1",
+    "name": "Heart Bulk",
+    "category": "health",
+    "keywords": [
+      "heart",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "heart",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 906,
+    "views": 3011
+  },
+  {
+    "id": "health-heart-linear-1",
+    "name": "Heart Linear",
+    "category": "health",
+    "keywords": [
+      "heart",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "heart",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 107,
+    "views": 1844
+  },
+  {
+    "id": "health-pulse-outline-2",
+    "name": "Pulse Outline",
+    "category": "health",
+    "keywords": [
+      "pulse",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "pulse",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 89,
+    "views": 1257
+  },
+  {
+    "id": "health-pulse-bold-2",
+    "name": "Pulse Bold",
+    "category": "health",
+    "keywords": [
+      "pulse",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "pulse",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 780,
+    "views": 3620
+  },
+  {
+    "id": "health-pulse-bulk-2",
+    "name": "Pulse Bulk",
+    "category": "health",
+    "keywords": [
+      "pulse",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "pulse",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 955,
+    "views": 4940
+  },
+  {
+    "id": "health-pulse-linear-2",
+    "name": "Pulse Linear",
+    "category": "health",
+    "keywords": [
+      "pulse",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "pulse",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 805,
+    "views": 4682
+  },
+  {
+    "id": "health-blood-outline-3",
+    "name": "Blood Outline",
+    "category": "health",
+    "keywords": [
+      "blood",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "blood",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 137,
+    "views": 81
+  },
+  {
+    "id": "health-blood-bold-3",
+    "name": "Blood Bold",
+    "category": "health",
+    "keywords": [
+      "blood",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "blood",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 666,
+    "views": 4950
+  },
+  {
+    "id": "health-blood-bulk-3",
+    "name": "Blood Bulk",
+    "category": "health",
+    "keywords": [
+      "blood",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "blood",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 296,
+    "views": 4349
+  },
+  {
+    "id": "health-blood-linear-3",
+    "name": "Blood Linear",
+    "category": "health",
+    "keywords": [
+      "blood",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "blood",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 238,
+    "views": 3947
+  },
+  {
+    "id": "health-medicine-outline-4",
+    "name": "Medicine Outline",
+    "category": "health",
+    "keywords": [
+      "medicine",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "medicine",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 661,
+    "views": 1902
+  },
+  {
+    "id": "health-medicine-bold-4",
+    "name": "Medicine Bold",
+    "category": "health",
+    "keywords": [
+      "medicine",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "medicine",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 617,
+    "views": 3328
+  },
+  {
+    "id": "health-medicine-bulk-4",
+    "name": "Medicine Bulk",
+    "category": "health",
+    "keywords": [
+      "medicine",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "medicine",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 360,
+    "views": 2359
+  },
+  {
+    "id": "health-medicine-linear-4",
+    "name": "Medicine Linear",
+    "category": "health",
+    "keywords": [
+      "medicine",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "medicine",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 129,
+    "views": 175
+  },
+  {
+    "id": "health-pill-outline-5",
+    "name": "Pill Outline",
+    "category": "health",
+    "keywords": [
+      "pill",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.5 10.5a2.5 2.5 0 0 1 0-3.5l3-3a2.5 2.5 0 0 1 3.5 0l3 3a2.5 2.5 0 0 1 0 3.5l-3 3a2.5 2.5 0 0 1-3.5 0l-3-3z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "pill",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 884,
+    "views": 3999
+  },
+  {
+    "id": "health-pill-bold-5",
+    "name": "Pill Bold",
+    "category": "health",
+    "keywords": [
+      "pill",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.5 10.5a2.5 2.5 0 0 1 0-3.5l3-3a2.5 2.5 0 0 1 3.5 0l3 3a2.5 2.5 0 0 1 0 3.5l-3 3a2.5 2.5 0 0 1-3.5 0l-3-3z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "pill",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 663,
+    "views": 3474
+  },
+  {
+    "id": "health-pill-bulk-5",
+    "name": "Pill Bulk",
+    "category": "health",
+    "keywords": [
+      "pill",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.5 10.5a2.5 2.5 0 0 1 0-3.5l3-3a2.5 2.5 0 0 1 3.5 0l3 3a2.5 2.5 0 0 1 0 3.5l-3 3a2.5 2.5 0 0 1-3.5 0l-3-3z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "pill",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 899,
+    "views": 1330
+  },
+  {
+    "id": "health-pill-linear-5",
+    "name": "Pill Linear",
+    "category": "health",
+    "keywords": [
+      "pill",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.5 10.5a2.5 2.5 0 0 1 0-3.5l3-3a2.5 2.5 0 0 1 3.5 0l3 3a2.5 2.5 0 0 1 0 3.5l-3 3a2.5 2.5 0 0 1-3.5 0l-3-3z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "pill",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 694,
+    "views": 4176
+  },
+  {
+    "id": "health-syringe-outline-6",
+    "name": "Syringe Outline",
+    "category": "health",
+    "keywords": [
+      "syringe",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "syringe",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 663,
+    "views": 3613
+  },
+  {
+    "id": "health-syringe-bold-6",
+    "name": "Syringe Bold",
+    "category": "health",
+    "keywords": [
+      "syringe",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "syringe",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 282,
+    "views": 628
+  },
+  {
+    "id": "health-syringe-bulk-6",
+    "name": "Syringe Bulk",
+    "category": "health",
+    "keywords": [
+      "syringe",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "syringe",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 430,
+    "views": 2476
+  },
+  {
+    "id": "health-syringe-linear-6",
+    "name": "Syringe Linear",
+    "category": "health",
+    "keywords": [
+      "syringe",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "syringe",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 545,
+    "views": 1901
+  },
+  {
+    "id": "health-injection-outline-7",
+    "name": "Injection Outline",
+    "category": "health",
+    "keywords": [
+      "injection",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "injection",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 117,
+    "views": 1819
+  },
+  {
+    "id": "health-injection-bold-7",
+    "name": "Injection Bold",
+    "category": "health",
+    "keywords": [
+      "injection",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "injection",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 534,
+    "views": 4550
+  },
+  {
+    "id": "health-injection-bulk-7",
+    "name": "Injection Bulk",
+    "category": "health",
+    "keywords": [
+      "injection",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "injection",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 737,
+    "views": 4782
+  },
+  {
+    "id": "health-injection-linear-7",
+    "name": "Injection Linear",
+    "category": "health",
+    "keywords": [
+      "injection",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "injection",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 141,
+    "views": 331
+  },
+  {
+    "id": "health-hospital-outline-8",
+    "name": "Hospital Outline",
+    "category": "health",
+    "keywords": [
+      "hospital",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "hospital",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 555,
+    "views": 365
+  },
+  {
+    "id": "health-hospital-bold-8",
+    "name": "Hospital Bold",
+    "category": "health",
+    "keywords": [
+      "hospital",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "hospital",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 741,
+    "views": 1200
+  },
+  {
+    "id": "health-hospital-bulk-8",
+    "name": "Hospital Bulk",
+    "category": "health",
+    "keywords": [
+      "hospital",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "hospital",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 825,
+    "views": 4918
+  },
+  {
+    "id": "health-hospital-linear-8",
+    "name": "Hospital Linear",
+    "category": "health",
+    "keywords": [
+      "hospital",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "hospital",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 729,
+    "views": 4790
+  },
+  {
+    "id": "health-clinic-outline-9",
+    "name": "Clinic Outline",
+    "category": "health",
+    "keywords": [
+      "clinic",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "clinic",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 124,
+    "views": 2929
+  },
+  {
+    "id": "health-clinic-bold-9",
+    "name": "Clinic Bold",
+    "category": "health",
+    "keywords": [
+      "clinic",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "clinic",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 77,
+    "views": 2990
+  },
+  {
+    "id": "health-clinic-bulk-9",
+    "name": "Clinic Bulk",
+    "category": "health",
+    "keywords": [
+      "clinic",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "clinic",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 565,
+    "views": 2925
+  },
+  {
+    "id": "health-clinic-linear-9",
+    "name": "Clinic Linear",
+    "category": "health",
+    "keywords": [
+      "clinic",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "clinic",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 870,
+    "views": 0
+  },
+  {
+    "id": "health-doctor-outline-10",
+    "name": "Doctor Outline",
+    "category": "health",
+    "keywords": [
+      "doctor",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "doctor",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 44,
+    "views": 1686
+  },
+  {
+    "id": "health-doctor-bold-10",
+    "name": "Doctor Bold",
+    "category": "health",
+    "keywords": [
+      "doctor",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "doctor",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 692,
+    "views": 1210
+  },
+  {
+    "id": "health-doctor-bulk-10",
+    "name": "Doctor Bulk",
+    "category": "health",
+    "keywords": [
+      "doctor",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "doctor",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 979,
+    "views": 2539
+  },
+  {
+    "id": "health-doctor-linear-10",
+    "name": "Doctor Linear",
+    "category": "health",
+    "keywords": [
+      "doctor",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "doctor",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 433,
+    "views": 3208
+  },
+  {
+    "id": "health-nurse-outline-11",
+    "name": "Nurse Outline",
+    "category": "health",
+    "keywords": [
+      "nurse",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "nurse",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 67,
+    "views": 830
+  },
+  {
+    "id": "health-nurse-bold-11",
+    "name": "Nurse Bold",
+    "category": "health",
+    "keywords": [
+      "nurse",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "nurse",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 714,
+    "views": 3372
+  },
+  {
+    "id": "health-nurse-bulk-11",
+    "name": "Nurse Bulk",
+    "category": "health",
+    "keywords": [
+      "nurse",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "nurse",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 100,
+    "views": 2695
+  },
+  {
+    "id": "health-nurse-linear-11",
+    "name": "Nurse Linear",
+    "category": "health",
+    "keywords": [
+      "nurse",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "nurse",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 981,
+    "views": 1728
+  },
+  {
+    "id": "health-patient-outline-12",
+    "name": "Patient Outline",
+    "category": "health",
+    "keywords": [
+      "patient",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "patient",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 939,
+    "views": 3807
+  },
+  {
+    "id": "health-patient-bold-12",
+    "name": "Patient Bold",
+    "category": "health",
+    "keywords": [
+      "patient",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "patient",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 509,
+    "views": 82
+  },
+  {
+    "id": "health-patient-bulk-12",
+    "name": "Patient Bulk",
+    "category": "health",
+    "keywords": [
+      "patient",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "patient",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 786,
+    "views": 807
+  },
+  {
+    "id": "health-patient-linear-12",
+    "name": "Patient Linear",
+    "category": "health",
+    "keywords": [
+      "patient",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "patient",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 544,
+    "views": 1019
+  },
+  {
+    "id": "health-bed-outline-13",
+    "name": "Bed Outline",
+    "category": "health",
+    "keywords": [
+      "bed",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "bed",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 479,
+    "views": 3838
+  },
+  {
+    "id": "health-bed-bold-13",
+    "name": "Bed Bold",
+    "category": "health",
+    "keywords": [
+      "bed",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "bed",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 793,
+    "views": 1079
+  },
+  {
+    "id": "health-bed-bulk-13",
+    "name": "Bed Bulk",
+    "category": "health",
+    "keywords": [
+      "bed",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "bed",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 867,
+    "views": 952
+  },
+  {
+    "id": "health-bed-linear-13",
+    "name": "Bed Linear",
+    "category": "health",
+    "keywords": [
+      "bed",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "bed",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 65,
+    "views": 4510
+  },
+  {
+    "id": "health-bandage-outline-14",
+    "name": "Bandage Outline",
+    "category": "health",
+    "keywords": [
+      "bandage",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "bandage",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 128,
+    "views": 334
+  },
+  {
+    "id": "health-bandage-bold-14",
+    "name": "Bandage Bold",
+    "category": "health",
+    "keywords": [
+      "bandage",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "bandage",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 232,
+    "views": 4469
+  },
+  {
+    "id": "health-bandage-bulk-14",
+    "name": "Bandage Bulk",
+    "category": "health",
+    "keywords": [
+      "bandage",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "bandage",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 223,
+    "views": 3630
+  },
+  {
+    "id": "health-bandage-linear-14",
+    "name": "Bandage Linear",
+    "category": "health",
+    "keywords": [
+      "bandage",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "bandage",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 707,
+    "views": 4199
+  },
+  {
+    "id": "health-band-aid-outline-15",
+    "name": "Band-aid Outline",
+    "category": "health",
+    "keywords": [
+      "band-aid",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "band-aid",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 281,
+    "views": 3296
+  },
+  {
+    "id": "health-band-aid-bold-15",
+    "name": "Band-aid Bold",
+    "category": "health",
+    "keywords": [
+      "band-aid",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "band-aid",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 454,
+    "views": 2883
+  },
+  {
+    "id": "health-band-aid-bulk-15",
+    "name": "Band-aid Bulk",
+    "category": "health",
+    "keywords": [
+      "band-aid",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "band-aid",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 998,
+    "views": 173
+  },
+  {
+    "id": "health-band-aid-linear-15",
+    "name": "Band-aid Linear",
+    "category": "health",
+    "keywords": [
+      "band-aid",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "band-aid",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 290,
+    "views": 3837
+  },
+  {
+    "id": "health-thermometer-outline-16",
+    "name": "Thermometer Outline",
+    "category": "health",
+    "keywords": [
+      "thermometer",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "thermometer",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 614,
+    "views": 3146
+  },
+  {
+    "id": "health-thermometer-bold-16",
+    "name": "Thermometer Bold",
+    "category": "health",
+    "keywords": [
+      "thermometer",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "thermometer",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 876,
+    "views": 2475
+  },
+  {
+    "id": "health-thermometer-bulk-16",
+    "name": "Thermometer Bulk",
+    "category": "health",
+    "keywords": [
+      "thermometer",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "thermometer",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 666,
+    "views": 3157
+  },
+  {
+    "id": "health-thermometer-linear-16",
+    "name": "Thermometer Linear",
+    "category": "health",
+    "keywords": [
+      "thermometer",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "thermometer",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 775,
+    "views": 3549
+  },
+  {
+    "id": "health-stethoscope-outline-17",
+    "name": "Stethoscope Outline",
+    "category": "health",
+    "keywords": [
+      "stethoscope",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "stethoscope",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 449,
+    "views": 372
+  },
+  {
+    "id": "health-stethoscope-bold-17",
+    "name": "Stethoscope Bold",
+    "category": "health",
+    "keywords": [
+      "stethoscope",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "stethoscope",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 12,
+    "views": 3406
+  },
+  {
+    "id": "health-stethoscope-bulk-17",
+    "name": "Stethoscope Bulk",
+    "category": "health",
+    "keywords": [
+      "stethoscope",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "stethoscope",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 291,
+    "views": 3369
+  },
+  {
+    "id": "health-stethoscope-linear-17",
+    "name": "Stethoscope Linear",
+    "category": "health",
+    "keywords": [
+      "stethoscope",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "stethoscope",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 732,
+    "views": 1165
+  },
+  {
+    "id": "health-x-ray-outline-18",
+    "name": "X-ray Outline",
+    "category": "health",
+    "keywords": [
+      "x-ray",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "x-ray",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 754,
+    "views": 4315
+  },
+  {
+    "id": "health-x-ray-bold-18",
+    "name": "X-ray Bold",
+    "category": "health",
+    "keywords": [
+      "x-ray",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "x-ray",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 290,
+    "views": 3719
+  },
+  {
+    "id": "health-x-ray-bulk-18",
+    "name": "X-ray Bulk",
+    "category": "health",
+    "keywords": [
+      "x-ray",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "x-ray",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 157,
+    "views": 551
+  },
+  {
+    "id": "health-x-ray-linear-18",
+    "name": "X-ray Linear",
+    "category": "health",
+    "keywords": [
+      "x-ray",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "x-ray",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 132,
+    "views": 813
+  },
+  {
+    "id": "health-ambulance-outline-19",
+    "name": "Ambulance Outline",
+    "category": "health",
+    "keywords": [
+      "ambulance",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "ambulance",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 594,
+    "views": 1661
+  },
+  {
+    "id": "health-ambulance-bold-19",
+    "name": "Ambulance Bold",
+    "category": "health",
+    "keywords": [
+      "ambulance",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "ambulance",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 970,
+    "views": 926
+  },
+  {
+    "id": "health-ambulance-bulk-19",
+    "name": "Ambulance Bulk",
+    "category": "health",
+    "keywords": [
+      "ambulance",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "ambulance",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 233,
+    "views": 2377
+  },
+  {
+    "id": "health-ambulance-linear-19",
+    "name": "Ambulance Linear",
+    "category": "health",
+    "keywords": [
+      "ambulance",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "ambulance",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 734,
+    "views": 4958
+  },
+  {
+    "id": "health-emergency-outline-20",
+    "name": "Emergency Outline",
+    "category": "health",
+    "keywords": [
+      "emergency",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "emergency",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 922,
+    "views": 2497
+  },
+  {
+    "id": "health-emergency-bold-20",
+    "name": "Emergency Bold",
+    "category": "health",
+    "keywords": [
+      "emergency",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "emergency",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 417,
+    "views": 1306
+  },
+  {
+    "id": "health-emergency-bulk-20",
+    "name": "Emergency Bulk",
+    "category": "health",
+    "keywords": [
+      "emergency",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "emergency",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 942,
+    "views": 2957
+  },
+  {
+    "id": "health-emergency-linear-20",
+    "name": "Emergency Linear",
+    "category": "health",
+    "keywords": [
+      "emergency",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "emergency",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 9,
+    "views": 689
+  },
+  {
+    "id": "health-first-aid-outline-21",
+    "name": "First-aid Outline",
+    "category": "health",
+    "keywords": [
+      "first-aid",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "first-aid",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 14,
+    "views": 3998
+  },
+  {
+    "id": "health-first-aid-bold-21",
+    "name": "First-aid Bold",
+    "category": "health",
+    "keywords": [
+      "first-aid",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "first-aid",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 585,
+    "views": 3998
+  },
+  {
+    "id": "health-first-aid-bulk-21",
+    "name": "First-aid Bulk",
+    "category": "health",
+    "keywords": [
+      "first-aid",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "first-aid",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 506,
+    "views": 875
+  },
+  {
+    "id": "health-first-aid-linear-21",
+    "name": "First-aid Linear",
+    "category": "health",
+    "keywords": [
+      "first-aid",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "first-aid",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 604,
+    "views": 4265
+  },
+  {
+    "id": "health-health-outline-22",
+    "name": "Health Outline",
+    "category": "health",
+    "keywords": [
+      "health",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "health",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 312,
+    "views": 2874
+  },
+  {
+    "id": "health-health-bold-22",
+    "name": "Health Bold",
+    "category": "health",
+    "keywords": [
+      "health",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "health",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 627,
+    "views": 1987
+  },
+  {
+    "id": "health-health-bulk-22",
+    "name": "Health Bulk",
+    "category": "health",
+    "keywords": [
+      "health",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "health",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 135,
+    "views": 1455
+  },
+  {
+    "id": "health-health-linear-22",
+    "name": "Health Linear",
+    "category": "health",
+    "keywords": [
+      "health",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "health",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 886,
+    "views": 1618
+  },
+  {
+    "id": "health-wellness-outline-23",
+    "name": "Wellness Outline",
+    "category": "health",
+    "keywords": [
+      "wellness",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "wellness",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 19,
+    "views": 4822
+  },
+  {
+    "id": "health-wellness-bold-23",
+    "name": "Wellness Bold",
+    "category": "health",
+    "keywords": [
+      "wellness",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "wellness",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 141,
+    "views": 419
+  },
+  {
+    "id": "health-wellness-bulk-23",
+    "name": "Wellness Bulk",
+    "category": "health",
+    "keywords": [
+      "wellness",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "wellness",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 704,
+    "views": 914
+  },
+  {
+    "id": "health-wellness-linear-23",
+    "name": "Wellness Linear",
+    "category": "health",
+    "keywords": [
+      "wellness",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "wellness",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 919,
+    "views": 2921
+  },
+  {
+    "id": "health-fitness-outline-24",
+    "name": "Fitness Outline",
+    "category": "health",
+    "keywords": [
+      "fitness",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "fitness",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 837,
+    "views": 2539
+  },
+  {
+    "id": "health-fitness-bold-24",
+    "name": "Fitness Bold",
+    "category": "health",
+    "keywords": [
+      "fitness",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "fitness",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 382,
+    "views": 1606
+  },
+  {
+    "id": "health-fitness-bulk-24",
+    "name": "Fitness Bulk",
+    "category": "health",
+    "keywords": [
+      "fitness",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "fitness",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 928,
+    "views": 3694
+  },
+  {
+    "id": "health-fitness-linear-24",
+    "name": "Fitness Linear",
+    "category": "health",
+    "keywords": [
+      "fitness",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "fitness",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 242,
+    "views": 4911
+  },
+  {
+    "id": "health-dental-outline-25",
+    "name": "Dental Outline",
+    "category": "health",
+    "keywords": [
+      "dental",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "dental",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 816,
+    "views": 2173
+  },
+  {
+    "id": "health-dental-bold-25",
+    "name": "Dental Bold",
+    "category": "health",
+    "keywords": [
+      "dental",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "dental",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 486,
+    "views": 4060
+  },
+  {
+    "id": "health-dental-bulk-25",
+    "name": "Dental Bulk",
+    "category": "health",
+    "keywords": [
+      "dental",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "dental",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 649,
+    "views": 1108
+  },
+  {
+    "id": "health-dental-linear-25",
+    "name": "Dental Linear",
+    "category": "health",
+    "keywords": [
+      "dental",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "dental",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 718,
+    "views": 259
+  },
+  {
+    "id": "health-tooth-outline-26",
+    "name": "Tooth Outline",
+    "category": "health",
+    "keywords": [
+      "tooth",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "tooth",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 191,
+    "views": 1860
+  },
+  {
+    "id": "health-tooth-bold-26",
+    "name": "Tooth Bold",
+    "category": "health",
+    "keywords": [
+      "tooth",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "tooth",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 762,
+    "views": 1331
+  },
+  {
+    "id": "health-tooth-bulk-26",
+    "name": "Tooth Bulk",
+    "category": "health",
+    "keywords": [
+      "tooth",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "tooth",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 322,
+    "views": 1617
+  },
+  {
+    "id": "health-tooth-linear-26",
+    "name": "Tooth Linear",
+    "category": "health",
+    "keywords": [
+      "tooth",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "tooth",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 674,
+    "views": 1508
+  },
+  {
+    "id": "health-smile-outline-27",
+    "name": "Smile Outline",
+    "category": "health",
+    "keywords": [
+      "smile",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 14s1.5 2 4 2 4-2 4-2\"/><line x1=\"9\" y1=\"9\" x2=\"9.01\" y2=\"9\"/><line x1=\"15\" y1=\"9\" x2=\"15.01\" y2=\"9\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "smile",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 299,
+    "views": 1210
+  },
+  {
+    "id": "health-smile-bold-27",
+    "name": "Smile Bold",
+    "category": "health",
+    "keywords": [
+      "smile",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 14s1.5 2 4 2 4-2 4-2\"/><line x1=\"9\" y1=\"9\" x2=\"9.01\" y2=\"9\"/><line x1=\"15\" y1=\"9\" x2=\"15.01\" y2=\"9\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "smile",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 118,
+    "views": 4482
+  },
+  {
+    "id": "health-smile-bulk-27",
+    "name": "Smile Bulk",
+    "category": "health",
+    "keywords": [
+      "smile",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 14s1.5 2 4 2 4-2 4-2\"/><line x1=\"9\" y1=\"9\" x2=\"9.01\" y2=\"9\"/><line x1=\"15\" y1=\"9\" x2=\"15.01\" y2=\"9\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "smile",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 517,
+    "views": 3921
+  },
+  {
+    "id": "health-smile-linear-27",
+    "name": "Smile Linear",
+    "category": "health",
+    "keywords": [
+      "smile",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 14s1.5 2 4 2 4-2 4-2\"/><line x1=\"9\" y1=\"9\" x2=\"9.01\" y2=\"9\"/><line x1=\"15\" y1=\"9\" x2=\"15.01\" y2=\"9\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "smile",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 426,
+    "views": 2790
+  },
+  {
+    "id": "health-hygiene-outline-28",
+    "name": "Hygiene Outline",
+    "category": "health",
+    "keywords": [
+      "hygiene",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "hygiene",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 888,
+    "views": 26
+  },
+  {
+    "id": "health-hygiene-bold-28",
+    "name": "Hygiene Bold",
+    "category": "health",
+    "keywords": [
+      "hygiene",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "hygiene",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 401,
+    "views": 487
+  },
+  {
+    "id": "health-hygiene-bulk-28",
+    "name": "Hygiene Bulk",
+    "category": "health",
+    "keywords": [
+      "hygiene",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "hygiene",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 544,
+    "views": 3520
+  },
+  {
+    "id": "health-hygiene-linear-28",
+    "name": "Hygiene Linear",
+    "category": "health",
+    "keywords": [
+      "hygiene",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "hygiene",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 464,
+    "views": 4266
+  },
+  {
+    "id": "health-clean-outline-29",
+    "name": "Clean Outline",
+    "category": "health",
+    "keywords": [
+      "clean",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "clean",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 770,
+    "views": 853
+  },
+  {
+    "id": "health-clean-bold-29",
+    "name": "Clean Bold",
+    "category": "health",
+    "keywords": [
+      "clean",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "clean",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 435,
+    "views": 4651
+  },
+  {
+    "id": "health-clean-bulk-29",
+    "name": "Clean Bulk",
+    "category": "health",
+    "keywords": [
+      "clean",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "clean",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 293,
+    "views": 518
+  },
+  {
+    "id": "health-clean-linear-29",
+    "name": "Clean Linear",
+    "category": "health",
+    "keywords": [
+      "clean",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "clean",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 168,
+    "views": 2698
+  },
+  {
+    "id": "health-wash-outline-30",
+    "name": "Wash Outline",
+    "category": "health",
+    "keywords": [
+      "wash",
+      "health",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "wash",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 265,
+    "views": 614
+  },
+  {
+    "id": "health-wash-bold-30",
+    "name": "Wash Bold",
+    "category": "health",
+    "keywords": [
+      "wash",
+      "health",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "wash",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 672,
+    "views": 4810
+  },
+  {
+    "id": "health-wash-bulk-30",
+    "name": "Wash Bulk",
+    "category": "health",
+    "keywords": [
+      "wash",
+      "health",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "wash",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 631,
+    "views": 3852
+  },
+  {
+    "id": "health-wash-linear-30",
+    "name": "Wash Linear",
+    "category": "health",
+    "keywords": [
+      "wash",
+      "health",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "health",
+      "wash",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 644,
+    "views": 1684
+  }
+]

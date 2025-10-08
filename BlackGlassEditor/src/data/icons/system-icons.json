@@ -1,0 +1,4714 @@
+[
+  {
+    "id": "system-settings-outline-1",
+    "name": "Settings Outline",
+    "category": "system",
+    "keywords": [
+      "settings",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1 1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "settings",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 816,
+    "views": 3917
+  },
+  {
+    "id": "system-settings-bold-1",
+    "name": "Settings Bold",
+    "category": "system",
+    "keywords": [
+      "settings",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1 1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "settings",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 807,
+    "views": 3398
+  },
+  {
+    "id": "system-settings-bulk-1",
+    "name": "Settings Bulk",
+    "category": "system",
+    "keywords": [
+      "settings",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1 1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "settings",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 710,
+    "views": 4415
+  },
+  {
+    "id": "system-settings-linear-1",
+    "name": "Settings Linear",
+    "category": "system",
+    "keywords": [
+      "settings",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1 1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "settings",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 63,
+    "views": 456
+  },
+  {
+    "id": "system-gear-outline-2",
+    "name": "Gear Outline",
+    "category": "system",
+    "keywords": [
+      "gear",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "gear",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 444,
+    "views": 4876
+  },
+  {
+    "id": "system-gear-bold-2",
+    "name": "Gear Bold",
+    "category": "system",
+    "keywords": [
+      "gear",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "gear",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 916,
+    "views": 890
+  },
+  {
+    "id": "system-gear-bulk-2",
+    "name": "Gear Bulk",
+    "category": "system",
+    "keywords": [
+      "gear",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "gear",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 526,
+    "views": 901
+  },
+  {
+    "id": "system-gear-linear-2",
+    "name": "Gear Linear",
+    "category": "system",
+    "keywords": [
+      "gear",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "gear",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 159,
+    "views": 3023
+  },
+  {
+    "id": "system-cog-outline-3",
+    "name": "Cog Outline",
+    "category": "system",
+    "keywords": [
+      "cog",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "cog",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 925,
+    "views": 4920
+  },
+  {
+    "id": "system-cog-bold-3",
+    "name": "Cog Bold",
+    "category": "system",
+    "keywords": [
+      "cog",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "cog",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 951,
+    "views": 4126
+  },
+  {
+    "id": "system-cog-bulk-3",
+    "name": "Cog Bulk",
+    "category": "system",
+    "keywords": [
+      "cog",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "cog",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 410,
+    "views": 1288
+  },
+  {
+    "id": "system-cog-linear-3",
+    "name": "Cog Linear",
+    "category": "system",
+    "keywords": [
+      "cog",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "cog",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 73,
+    "views": 2345
+  },
+  {
+    "id": "system-configuration-outline-4",
+    "name": "Configuration Outline",
+    "category": "system",
+    "keywords": [
+      "configuration",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "configuration",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 668,
+    "views": 1873
+  },
+  {
+    "id": "system-configuration-bold-4",
+    "name": "Configuration Bold",
+    "category": "system",
+    "keywords": [
+      "configuration",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "configuration",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 378,
+    "views": 4827
+  },
+  {
+    "id": "system-configuration-bulk-4",
+    "name": "Configuration Bulk",
+    "category": "system",
+    "keywords": [
+      "configuration",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "configuration",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 403,
+    "views": 1612
+  },
+  {
+    "id": "system-configuration-linear-4",
+    "name": "Configuration Linear",
+    "category": "system",
+    "keywords": [
+      "configuration",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "configuration",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 44,
+    "views": 315
+  },
+  {
+    "id": "system-preferences-outline-5",
+    "name": "Preferences Outline",
+    "category": "system",
+    "keywords": [
+      "preferences",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "preferences",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 346,
+    "views": 4883
+  },
+  {
+    "id": "system-preferences-bold-5",
+    "name": "Preferences Bold",
+    "category": "system",
+    "keywords": [
+      "preferences",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "preferences",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 334,
+    "views": 3123
+  },
+  {
+    "id": "system-preferences-bulk-5",
+    "name": "Preferences Bulk",
+    "category": "system",
+    "keywords": [
+      "preferences",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "preferences",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 430,
+    "views": 1895
+  },
+  {
+    "id": "system-preferences-linear-5",
+    "name": "Preferences Linear",
+    "category": "system",
+    "keywords": [
+      "preferences",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "preferences",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 130,
+    "views": 2856
+  },
+  {
+    "id": "system-options-outline-6",
+    "name": "Options Outline",
+    "category": "system",
+    "keywords": [
+      "options",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "options",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 746,
+    "views": 4988
+  },
+  {
+    "id": "system-options-bold-6",
+    "name": "Options Bold",
+    "category": "system",
+    "keywords": [
+      "options",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "options",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 102,
+    "views": 1382
+  },
+  {
+    "id": "system-options-bulk-6",
+    "name": "Options Bulk",
+    "category": "system",
+    "keywords": [
+      "options",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "options",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 713,
+    "views": 1950
+  },
+  {
+    "id": "system-options-linear-6",
+    "name": "Options Linear",
+    "category": "system",
+    "keywords": [
+      "options",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "options",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 811,
+    "views": 4111
+  },
+  {
+    "id": "system-wifi-outline-7",
+    "name": "Wifi Outline",
+    "category": "system",
+    "keywords": [
+      "wifi",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M5 12.55a11 11 0 0 1 14.08 0\"/><path d=\"M1.42 9a16 16 0 0 1 21.16 0\"/><path d=\"M8.53 16.11a6 6 0 0 1 6.95 0\"/><line x1=\"12\" y1=\"20\" x2=\"12.01\" y2=\"20\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "wifi",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 690,
+    "views": 956
+  },
+  {
+    "id": "system-wifi-bold-7",
+    "name": "Wifi Bold",
+    "category": "system",
+    "keywords": [
+      "wifi",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M5 12.55a11 11 0 0 1 14.08 0\"/><path d=\"M1.42 9a16 16 0 0 1 21.16 0\"/><path d=\"M8.53 16.11a6 6 0 0 1 6.95 0\"/><line x1=\"12\" y1=\"20\" x2=\"12.01\" y2=\"20\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "wifi",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 531,
+    "views": 1527
+  },
+  {
+    "id": "system-wifi-bulk-7",
+    "name": "Wifi Bulk",
+    "category": "system",
+    "keywords": [
+      "wifi",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M5 12.55a11 11 0 0 1 14.08 0\"/><path d=\"M1.42 9a16 16 0 0 1 21.16 0\"/><path d=\"M8.53 16.11a6 6 0 0 1 6.95 0\"/><line x1=\"12\" y1=\"20\" x2=\"12.01\" y2=\"20\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "wifi",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 193,
+    "views": 4141
+  },
+  {
+    "id": "system-wifi-linear-7",
+    "name": "Wifi Linear",
+    "category": "system",
+    "keywords": [
+      "wifi",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M5 12.55a11 11 0 0 1 14.08 0\"/><path d=\"M1.42 9a16 16 0 0 1 21.16 0\"/><path d=\"M8.53 16.11a6 6 0 0 1 6.95 0\"/><line x1=\"12\" y1=\"20\" x2=\"12.01\" y2=\"20\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "wifi",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 296,
+    "views": 1952
+  },
+  {
+    "id": "system-bluetooth-outline-8",
+    "name": "Bluetooth Outline",
+    "category": "system",
+    "keywords": [
+      "bluetooth",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "bluetooth",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 413,
+    "views": 2088
+  },
+  {
+    "id": "system-bluetooth-bold-8",
+    "name": "Bluetooth Bold",
+    "category": "system",
+    "keywords": [
+      "bluetooth",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "bluetooth",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 564,
+    "views": 984
+  },
+  {
+    "id": "system-bluetooth-bulk-8",
+    "name": "Bluetooth Bulk",
+    "category": "system",
+    "keywords": [
+      "bluetooth",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "bluetooth",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 386,
+    "views": 3460
+  },
+  {
+    "id": "system-bluetooth-linear-8",
+    "name": "Bluetooth Linear",
+    "category": "system",
+    "keywords": [
+      "bluetooth",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "bluetooth",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 868,
+    "views": 4906
+  },
+  {
+    "id": "system-network-outline-9",
+    "name": "Network Outline",
+    "category": "system",
+    "keywords": [
+      "network",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "network",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 318,
+    "views": 1943
+  },
+  {
+    "id": "system-network-bold-9",
+    "name": "Network Bold",
+    "category": "system",
+    "keywords": [
+      "network",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "network",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 968,
+    "views": 2783
+  },
+  {
+    "id": "system-network-bulk-9",
+    "name": "Network Bulk",
+    "category": "system",
+    "keywords": [
+      "network",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "network",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 172,
+    "views": 3447
+  },
+  {
+    "id": "system-network-linear-9",
+    "name": "Network Linear",
+    "category": "system",
+    "keywords": [
+      "network",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "network",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 276,
+    "views": 4968
+  },
+  {
+    "id": "system-connection-outline-10",
+    "name": "Connection Outline",
+    "category": "system",
+    "keywords": [
+      "connection",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "connection",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 532,
+    "views": 3841
+  },
+  {
+    "id": "system-connection-bold-10",
+    "name": "Connection Bold",
+    "category": "system",
+    "keywords": [
+      "connection",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "connection",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 301,
+    "views": 9
+  },
+  {
+    "id": "system-connection-bulk-10",
+    "name": "Connection Bulk",
+    "category": "system",
+    "keywords": [
+      "connection",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "connection",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 350,
+    "views": 2495
+  },
+  {
+    "id": "system-connection-linear-10",
+    "name": "Connection Linear",
+    "category": "system",
+    "keywords": [
+      "connection",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "connection",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 951,
+    "views": 1524
+  },
+  {
+    "id": "system-signal-outline-11",
+    "name": "Signal Outline",
+    "category": "system",
+    "keywords": [
+      "signal",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "signal",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 734,
+    "views": 1431
+  },
+  {
+    "id": "system-signal-bold-11",
+    "name": "Signal Bold",
+    "category": "system",
+    "keywords": [
+      "signal",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "signal",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 511,
+    "views": 4456
+  },
+  {
+    "id": "system-signal-bulk-11",
+    "name": "Signal Bulk",
+    "category": "system",
+    "keywords": [
+      "signal",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "signal",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 891,
+    "views": 3223
+  },
+  {
+    "id": "system-signal-linear-11",
+    "name": "Signal Linear",
+    "category": "system",
+    "keywords": [
+      "signal",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "signal",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 522,
+    "views": 2275
+  },
+  {
+    "id": "system-antenna-outline-12",
+    "name": "Antenna Outline",
+    "category": "system",
+    "keywords": [
+      "antenna",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "antenna",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 580,
+    "views": 1381
+  },
+  {
+    "id": "system-antenna-bold-12",
+    "name": "Antenna Bold",
+    "category": "system",
+    "keywords": [
+      "antenna",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "antenna",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 887,
+    "views": 1605
+  },
+  {
+    "id": "system-antenna-bulk-12",
+    "name": "Antenna Bulk",
+    "category": "system",
+    "keywords": [
+      "antenna",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "antenna",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 27,
+    "views": 3258
+  },
+  {
+    "id": "system-antenna-linear-12",
+    "name": "Antenna Linear",
+    "category": "system",
+    "keywords": [
+      "antenna",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "antenna",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 986,
+    "views": 1555
+  },
+  {
+    "id": "system-battery-outline-13",
+    "name": "Battery Outline",
+    "category": "system",
+    "keywords": [
+      "battery",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"1\" y=\"6\" width=\"18\" height=\"10\" rx=\"2\" ry=\"2\"/><line x1=\"23\" y1=\"13\" x2=\"23\" y2=\"11\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "battery",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 768,
+    "views": 3901
+  },
+  {
+    "id": "system-battery-bold-13",
+    "name": "Battery Bold",
+    "category": "system",
+    "keywords": [
+      "battery",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"1\" y=\"6\" width=\"18\" height=\"10\" rx=\"2\" ry=\"2\"/><line x1=\"23\" y1=\"13\" x2=\"23\" y2=\"11\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "battery",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 681,
+    "views": 4202
+  },
+  {
+    "id": "system-battery-bulk-13",
+    "name": "Battery Bulk",
+    "category": "system",
+    "keywords": [
+      "battery",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"1\" y=\"6\" width=\"18\" height=\"10\" rx=\"2\" ry=\"2\"/><line x1=\"23\" y1=\"13\" x2=\"23\" y2=\"11\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "battery",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 211,
+    "views": 4167
+  },
+  {
+    "id": "system-battery-linear-13",
+    "name": "Battery Linear",
+    "category": "system",
+    "keywords": [
+      "battery",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"1\" y=\"6\" width=\"18\" height=\"10\" rx=\"2\" ry=\"2\"/><line x1=\"23\" y1=\"13\" x2=\"23\" y2=\"11\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "battery",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 235,
+    "views": 3976
+  },
+  {
+    "id": "system-power-outline-14",
+    "name": "Power Outline",
+    "category": "system",
+    "keywords": [
+      "power",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "power",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 949,
+    "views": 4885
+  },
+  {
+    "id": "system-power-bold-14",
+    "name": "Power Bold",
+    "category": "system",
+    "keywords": [
+      "power",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "power",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 149,
+    "views": 3488
+  },
+  {
+    "id": "system-power-bulk-14",
+    "name": "Power Bulk",
+    "category": "system",
+    "keywords": [
+      "power",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "power",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 844,
+    "views": 4851
+  },
+  {
+    "id": "system-power-linear-14",
+    "name": "Power Linear",
+    "category": "system",
+    "keywords": [
+      "power",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "power",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 188,
+    "views": 1436
+  },
+  {
+    "id": "system-energy-outline-15",
+    "name": "Energy Outline",
+    "category": "system",
+    "keywords": [
+      "energy",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "energy",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 412,
+    "views": 4622
+  },
+  {
+    "id": "system-energy-bold-15",
+    "name": "Energy Bold",
+    "category": "system",
+    "keywords": [
+      "energy",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "energy",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 7,
+    "views": 4294
+  },
+  {
+    "id": "system-energy-bulk-15",
+    "name": "Energy Bulk",
+    "category": "system",
+    "keywords": [
+      "energy",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "energy",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 953,
+    "views": 1583
+  },
+  {
+    "id": "system-energy-linear-15",
+    "name": "Energy Linear",
+    "category": "system",
+    "keywords": [
+      "energy",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "energy",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 769,
+    "views": 322
+  },
+  {
+    "id": "system-charge-outline-16",
+    "name": "Charge Outline",
+    "category": "system",
+    "keywords": [
+      "charge",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "charge",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 288,
+    "views": 1332
+  },
+  {
+    "id": "system-charge-bold-16",
+    "name": "Charge Bold",
+    "category": "system",
+    "keywords": [
+      "charge",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "charge",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 805,
+    "views": 4597
+  },
+  {
+    "id": "system-charge-bulk-16",
+    "name": "Charge Bulk",
+    "category": "system",
+    "keywords": [
+      "charge",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "charge",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 758,
+    "views": 3064
+  },
+  {
+    "id": "system-charge-linear-16",
+    "name": "Charge Linear",
+    "category": "system",
+    "keywords": [
+      "charge",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "charge",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 25,
+    "views": 2136
+  },
+  {
+    "id": "system-plug-outline-17",
+    "name": "Plug Outline",
+    "category": "system",
+    "keywords": [
+      "plug",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "plug",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 270,
+    "views": 2473
+  },
+  {
+    "id": "system-plug-bold-17",
+    "name": "Plug Bold",
+    "category": "system",
+    "keywords": [
+      "plug",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "plug",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 333,
+    "views": 1243
+  },
+  {
+    "id": "system-plug-bulk-17",
+    "name": "Plug Bulk",
+    "category": "system",
+    "keywords": [
+      "plug",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "plug",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 180,
+    "views": 1608
+  },
+  {
+    "id": "system-plug-linear-17",
+    "name": "Plug Linear",
+    "category": "system",
+    "keywords": [
+      "plug",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "plug",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 117,
+    "views": 2566
+  },
+  {
+    "id": "system-socket-outline-18",
+    "name": "Socket Outline",
+    "category": "system",
+    "keywords": [
+      "socket",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "socket",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 974,
+    "views": 4738
+  },
+  {
+    "id": "system-socket-bold-18",
+    "name": "Socket Bold",
+    "category": "system",
+    "keywords": [
+      "socket",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "socket",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 795,
+    "views": 1040
+  },
+  {
+    "id": "system-socket-bulk-18",
+    "name": "Socket Bulk",
+    "category": "system",
+    "keywords": [
+      "socket",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "socket",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 663,
+    "views": 2283
+  },
+  {
+    "id": "system-socket-linear-18",
+    "name": "Socket Linear",
+    "category": "system",
+    "keywords": [
+      "socket",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "socket",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 442,
+    "views": 863
+  },
+  {
+    "id": "system-outlet-outline-19",
+    "name": "Outlet Outline",
+    "category": "system",
+    "keywords": [
+      "outlet",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "outlet",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 152,
+    "views": 3092
+  },
+  {
+    "id": "system-outlet-bold-19",
+    "name": "Outlet Bold",
+    "category": "system",
+    "keywords": [
+      "outlet",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "outlet",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 818,
+    "views": 4496
+  },
+  {
+    "id": "system-outlet-bulk-19",
+    "name": "Outlet Bulk",
+    "category": "system",
+    "keywords": [
+      "outlet",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "outlet",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 908,
+    "views": 4351
+  },
+  {
+    "id": "system-outlet-linear-19",
+    "name": "Outlet Linear",
+    "category": "system",
+    "keywords": [
+      "outlet",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "outlet",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 662,
+    "views": 4588
+  },
+  {
+    "id": "system-notification-outline-20",
+    "name": "Notification Outline",
+    "category": "system",
+    "keywords": [
+      "notification",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "notification",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 695,
+    "views": 1445
+  },
+  {
+    "id": "system-notification-bold-20",
+    "name": "Notification Bold",
+    "category": "system",
+    "keywords": [
+      "notification",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "notification",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 443,
+    "views": 3435
+  },
+  {
+    "id": "system-notification-bulk-20",
+    "name": "Notification Bulk",
+    "category": "system",
+    "keywords": [
+      "notification",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "notification",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 71,
+    "views": 1581
+  },
+  {
+    "id": "system-notification-linear-20",
+    "name": "Notification Linear",
+    "category": "system",
+    "keywords": [
+      "notification",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "notification",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 746,
+    "views": 1163
+  },
+  {
+    "id": "system-bell-outline-21",
+    "name": "Bell Outline",
+    "category": "system",
+    "keywords": [
+      "bell",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "bell",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 178,
+    "views": 2237
+  },
+  {
+    "id": "system-bell-bold-21",
+    "name": "Bell Bold",
+    "category": "system",
+    "keywords": [
+      "bell",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "bell",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 560,
+    "views": 585
+  },
+  {
+    "id": "system-bell-bulk-21",
+    "name": "Bell Bulk",
+    "category": "system",
+    "keywords": [
+      "bell",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "bell",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 389,
+    "views": 3522
+  },
+  {
+    "id": "system-bell-linear-21",
+    "name": "Bell Linear",
+    "category": "system",
+    "keywords": [
+      "bell",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "bell",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 630,
+    "views": 4997
+  },
+  {
+    "id": "system-alert-outline-22",
+    "name": "Alert Outline",
+    "category": "system",
+    "keywords": [
+      "alert",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "alert",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 390,
+    "views": 1839
+  },
+  {
+    "id": "system-alert-bold-22",
+    "name": "Alert Bold",
+    "category": "system",
+    "keywords": [
+      "alert",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "alert",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 546,
+    "views": 2400
+  },
+  {
+    "id": "system-alert-bulk-22",
+    "name": "Alert Bulk",
+    "category": "system",
+    "keywords": [
+      "alert",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "alert",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 935,
+    "views": 4403
+  },
+  {
+    "id": "system-alert-linear-22",
+    "name": "Alert Linear",
+    "category": "system",
+    "keywords": [
+      "alert",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "alert",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 296,
+    "views": 1983
+  },
+  {
+    "id": "system-warning-outline-23",
+    "name": "Warning Outline",
+    "category": "system",
+    "keywords": [
+      "warning",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "warning",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 99,
+    "views": 3973
+  },
+  {
+    "id": "system-warning-bold-23",
+    "name": "Warning Bold",
+    "category": "system",
+    "keywords": [
+      "warning",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "warning",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 770,
+    "views": 3913
+  },
+  {
+    "id": "system-warning-bulk-23",
+    "name": "Warning Bulk",
+    "category": "system",
+    "keywords": [
+      "warning",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "warning",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 95,
+    "views": 2079
+  },
+  {
+    "id": "system-warning-linear-23",
+    "name": "Warning Linear",
+    "category": "system",
+    "keywords": [
+      "warning",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "warning",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 751,
+    "views": 4391
+  },
+  {
+    "id": "system-info-outline-24",
+    "name": "Info Outline",
+    "category": "system",
+    "keywords": [
+      "info",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "info",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 632,
+    "views": 1844
+  },
+  {
+    "id": "system-info-bold-24",
+    "name": "Info Bold",
+    "category": "system",
+    "keywords": [
+      "info",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "info",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 307,
+    "views": 3462
+  },
+  {
+    "id": "system-info-bulk-24",
+    "name": "Info Bulk",
+    "category": "system",
+    "keywords": [
+      "info",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "info",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 529,
+    "views": 3552
+  },
+  {
+    "id": "system-info-linear-24",
+    "name": "Info Linear",
+    "category": "system",
+    "keywords": [
+      "info",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "info",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 613,
+    "views": 1245
+  },
+  {
+    "id": "system-message-outline-25",
+    "name": "Message Outline",
+    "category": "system",
+    "keywords": [
+      "message",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "message",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 300,
+    "views": 671
+  },
+  {
+    "id": "system-message-bold-25",
+    "name": "Message Bold",
+    "category": "system",
+    "keywords": [
+      "message",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "message",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 42,
+    "views": 648
+  },
+  {
+    "id": "system-message-bulk-25",
+    "name": "Message Bulk",
+    "category": "system",
+    "keywords": [
+      "message",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "message",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 534,
+    "views": 1096
+  },
+  {
+    "id": "system-message-linear-25",
+    "name": "Message Linear",
+    "category": "system",
+    "keywords": [
+      "message",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "message",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 30,
+    "views": 1870
+  },
+  {
+    "id": "system-search-outline-26",
+    "name": "Search Outline",
+    "category": "system",
+    "keywords": [
+      "search",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "search",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 534,
+    "views": 3103
+  },
+  {
+    "id": "system-search-bold-26",
+    "name": "Search Bold",
+    "category": "system",
+    "keywords": [
+      "search",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "search",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 705,
+    "views": 1807
+  },
+  {
+    "id": "system-search-bulk-26",
+    "name": "Search Bulk",
+    "category": "system",
+    "keywords": [
+      "search",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "search",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 951,
+    "views": 2178
+  },
+  {
+    "id": "system-search-linear-26",
+    "name": "Search Linear",
+    "category": "system",
+    "keywords": [
+      "search",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "search",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 124,
+    "views": 1356
+  },
+  {
+    "id": "system-find-outline-27",
+    "name": "Find Outline",
+    "category": "system",
+    "keywords": [
+      "find",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "find",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 250,
+    "views": 4382
+  },
+  {
+    "id": "system-find-bold-27",
+    "name": "Find Bold",
+    "category": "system",
+    "keywords": [
+      "find",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "find",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 481,
+    "views": 2232
+  },
+  {
+    "id": "system-find-bulk-27",
+    "name": "Find Bulk",
+    "category": "system",
+    "keywords": [
+      "find",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "find",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 170,
+    "views": 4425
+  },
+  {
+    "id": "system-find-linear-27",
+    "name": "Find Linear",
+    "category": "system",
+    "keywords": [
+      "find",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "find",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 965,
+    "views": 466
+  },
+  {
+    "id": "system-magnify-outline-28",
+    "name": "Magnify Outline",
+    "category": "system",
+    "keywords": [
+      "magnify",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "magnify",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 672,
+    "views": 967
+  },
+  {
+    "id": "system-magnify-bold-28",
+    "name": "Magnify Bold",
+    "category": "system",
+    "keywords": [
+      "magnify",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "magnify",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 712,
+    "views": 536
+  },
+  {
+    "id": "system-magnify-bulk-28",
+    "name": "Magnify Bulk",
+    "category": "system",
+    "keywords": [
+      "magnify",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "magnify",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 319,
+    "views": 1341
+  },
+  {
+    "id": "system-magnify-linear-28",
+    "name": "Magnify Linear",
+    "category": "system",
+    "keywords": [
+      "magnify",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "magnify",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 89,
+    "views": 4100
+  },
+  {
+    "id": "system-zoom-outline-29",
+    "name": "Zoom Outline",
+    "category": "system",
+    "keywords": [
+      "zoom",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "zoom",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 950,
+    "views": 4065
+  },
+  {
+    "id": "system-zoom-bold-29",
+    "name": "Zoom Bold",
+    "category": "system",
+    "keywords": [
+      "zoom",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "zoom",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 516,
+    "views": 2227
+  },
+  {
+    "id": "system-zoom-bulk-29",
+    "name": "Zoom Bulk",
+    "category": "system",
+    "keywords": [
+      "zoom",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "zoom",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 269,
+    "views": 4139
+  },
+  {
+    "id": "system-zoom-linear-29",
+    "name": "Zoom Linear",
+    "category": "system",
+    "keywords": [
+      "zoom",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "zoom",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 925,
+    "views": 950
+  },
+  {
+    "id": "system-filter-outline-30",
+    "name": "Filter Outline",
+    "category": "system",
+    "keywords": [
+      "filter",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "filter",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 719,
+    "views": 182
+  },
+  {
+    "id": "system-filter-bold-30",
+    "name": "Filter Bold",
+    "category": "system",
+    "keywords": [
+      "filter",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "filter",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 555,
+    "views": 3668
+  },
+  {
+    "id": "system-filter-bulk-30",
+    "name": "Filter Bulk",
+    "category": "system",
+    "keywords": [
+      "filter",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "filter",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 580,
+    "views": 1384
+  },
+  {
+    "id": "system-filter-linear-30",
+    "name": "Filter Linear",
+    "category": "system",
+    "keywords": [
+      "filter",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "filter",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 781,
+    "views": 2438
+  },
+  {
+    "id": "system-sort-outline-31",
+    "name": "Sort Outline",
+    "category": "system",
+    "keywords": [
+      "sort",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "sort",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 53,
+    "views": 1940
+  },
+  {
+    "id": "system-sort-bold-31",
+    "name": "Sort Bold",
+    "category": "system",
+    "keywords": [
+      "sort",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "sort",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 538,
+    "views": 4952
+  },
+  {
+    "id": "system-sort-bulk-31",
+    "name": "Sort Bulk",
+    "category": "system",
+    "keywords": [
+      "sort",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "sort",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 773,
+    "views": 4486
+  },
+  {
+    "id": "system-sort-linear-31",
+    "name": "Sort Linear",
+    "category": "system",
+    "keywords": [
+      "sort",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "sort",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 716,
+    "views": 770
+  },
+  {
+    "id": "system-list-outline-32",
+    "name": "List Outline",
+    "category": "system",
+    "keywords": [
+      "list",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "list",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 535,
+    "views": 3420
+  },
+  {
+    "id": "system-list-bold-32",
+    "name": "List Bold",
+    "category": "system",
+    "keywords": [
+      "list",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "list",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 839,
+    "views": 3945
+  },
+  {
+    "id": "system-list-bulk-32",
+    "name": "List Bulk",
+    "category": "system",
+    "keywords": [
+      "list",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "list",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 291,
+    "views": 3401
+  },
+  {
+    "id": "system-list-linear-32",
+    "name": "List Linear",
+    "category": "system",
+    "keywords": [
+      "list",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "list",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 568,
+    "views": 4166
+  },
+  {
+    "id": "system-computer-outline-33",
+    "name": "Computer Outline",
+    "category": "system",
+    "keywords": [
+      "computer",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"2\" y=\"3\" width=\"20\" height=\"14\" rx=\"2\" ry=\"2\"/><line x1=\"8\" y1=\"21\" x2=\"16\" y2=\"21\"/><line x1=\"12\" y1=\"17\" x2=\"12\" y2=\"21\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "computer",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 657,
+    "views": 2714
+  },
+  {
+    "id": "system-computer-bold-33",
+    "name": "Computer Bold",
+    "category": "system",
+    "keywords": [
+      "computer",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"2\" y=\"3\" width=\"20\" height=\"14\" rx=\"2\" ry=\"2\"/><line x1=\"8\" y1=\"21\" x2=\"16\" y2=\"21\"/><line x1=\"12\" y1=\"17\" x2=\"12\" y2=\"21\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "computer",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 930,
+    "views": 4450
+  },
+  {
+    "id": "system-computer-bulk-33",
+    "name": "Computer Bulk",
+    "category": "system",
+    "keywords": [
+      "computer",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"2\" y=\"3\" width=\"20\" height=\"14\" rx=\"2\" ry=\"2\"/><line x1=\"8\" y1=\"21\" x2=\"16\" y2=\"21\"/><line x1=\"12\" y1=\"17\" x2=\"12\" y2=\"21\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "computer",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 59,
+    "views": 1263
+  },
+  {
+    "id": "system-computer-linear-33",
+    "name": "Computer Linear",
+    "category": "system",
+    "keywords": [
+      "computer",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"2\" y=\"3\" width=\"20\" height=\"14\" rx=\"2\" ry=\"2\"/><line x1=\"8\" y1=\"21\" x2=\"16\" y2=\"21\"/><line x1=\"12\" y1=\"17\" x2=\"12\" y2=\"21\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "computer",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 809,
+    "views": 876
+  },
+  {
+    "id": "system-laptop-outline-34",
+    "name": "Laptop Outline",
+    "category": "system",
+    "keywords": [
+      "laptop",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "laptop",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 715,
+    "views": 1115
+  },
+  {
+    "id": "system-laptop-bold-34",
+    "name": "Laptop Bold",
+    "category": "system",
+    "keywords": [
+      "laptop",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "laptop",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 279,
+    "views": 3637
+  },
+  {
+    "id": "system-laptop-bulk-34",
+    "name": "Laptop Bulk",
+    "category": "system",
+    "keywords": [
+      "laptop",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "laptop",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 443,
+    "views": 2322
+  },
+  {
+    "id": "system-laptop-linear-34",
+    "name": "Laptop Linear",
+    "category": "system",
+    "keywords": [
+      "laptop",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "laptop",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 342,
+    "views": 916
+  },
+  {
+    "id": "system-phone-outline-35",
+    "name": "Phone Outline",
+    "category": "system",
+    "keywords": [
+      "phone",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "phone",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 15,
+    "views": 4919
+  },
+  {
+    "id": "system-phone-bold-35",
+    "name": "Phone Bold",
+    "category": "system",
+    "keywords": [
+      "phone",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "phone",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 254,
+    "views": 4836
+  },
+  {
+    "id": "system-phone-bulk-35",
+    "name": "Phone Bulk",
+    "category": "system",
+    "keywords": [
+      "phone",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "phone",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 25,
+    "views": 1193
+  },
+  {
+    "id": "system-phone-linear-35",
+    "name": "Phone Linear",
+    "category": "system",
+    "keywords": [
+      "phone",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "phone",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 282,
+    "views": 3180
+  },
+  {
+    "id": "system-tablet-outline-36",
+    "name": "Tablet Outline",
+    "category": "system",
+    "keywords": [
+      "tablet",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "tablet",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 13,
+    "views": 2874
+  },
+  {
+    "id": "system-tablet-bold-36",
+    "name": "Tablet Bold",
+    "category": "system",
+    "keywords": [
+      "tablet",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "tablet",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 308,
+    "views": 4491
+  },
+  {
+    "id": "system-tablet-bulk-36",
+    "name": "Tablet Bulk",
+    "category": "system",
+    "keywords": [
+      "tablet",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "tablet",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 746,
+    "views": 1379
+  },
+  {
+    "id": "system-tablet-linear-36",
+    "name": "Tablet Linear",
+    "category": "system",
+    "keywords": [
+      "tablet",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "tablet",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 984,
+    "views": 2322
+  },
+  {
+    "id": "system-device-outline-37",
+    "name": "Device Outline",
+    "category": "system",
+    "keywords": [
+      "device",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "device",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 362,
+    "views": 3631
+  },
+  {
+    "id": "system-device-bold-37",
+    "name": "Device Bold",
+    "category": "system",
+    "keywords": [
+      "device",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "device",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 385,
+    "views": 2418
+  },
+  {
+    "id": "system-device-bulk-37",
+    "name": "Device Bulk",
+    "category": "system",
+    "keywords": [
+      "device",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "device",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 828,
+    "views": 4855
+  },
+  {
+    "id": "system-device-linear-37",
+    "name": "Device Linear",
+    "category": "system",
+    "keywords": [
+      "device",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "device",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 295,
+    "views": 3776
+  },
+  {
+    "id": "system-gadget-outline-38",
+    "name": "Gadget Outline",
+    "category": "system",
+    "keywords": [
+      "gadget",
+      "system",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "gadget",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 107,
+    "views": 1272
+  },
+  {
+    "id": "system-gadget-bold-38",
+    "name": "Gadget Bold",
+    "category": "system",
+    "keywords": [
+      "gadget",
+      "system",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "gadget",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 448,
+    "views": 4177
+  },
+  {
+    "id": "system-gadget-bulk-38",
+    "name": "Gadget Bulk",
+    "category": "system",
+    "keywords": [
+      "gadget",
+      "system",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "gadget",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 895,
+    "views": 552
+  },
+  {
+    "id": "system-gadget-linear-38",
+    "name": "Gadget Linear",
+    "category": "system",
+    "keywords": [
+      "gadget",
+      "system",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "system",
+      "gadget",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 462,
+    "views": 4317
+  }
+]

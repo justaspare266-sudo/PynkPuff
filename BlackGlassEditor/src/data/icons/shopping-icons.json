@@ -1,0 +1,3970 @@
+[
+  {
+    "id": "shopping-cart-outline-1",
+    "name": "Cart Outline",
+    "category": "shopping",
+    "keywords": [
+      "cart",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"9\" cy=\"21\" r=\"1\"/><circle cx=\"20\" cy=\"21\" r=\"1\"/><path d=\"M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "cart",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 975,
+    "views": 831
+  },
+  {
+    "id": "shopping-cart-bold-1",
+    "name": "Cart Bold",
+    "category": "shopping",
+    "keywords": [
+      "cart",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"9\" cy=\"21\" r=\"1\"/><circle cx=\"20\" cy=\"21\" r=\"1\"/><path d=\"M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "cart",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 550,
+    "views": 2778
+  },
+  {
+    "id": "shopping-cart-bulk-1",
+    "name": "Cart Bulk",
+    "category": "shopping",
+    "keywords": [
+      "cart",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"9\" cy=\"21\" r=\"1\"/><circle cx=\"20\" cy=\"21\" r=\"1\"/><path d=\"M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "cart",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 785,
+    "views": 1305
+  },
+  {
+    "id": "shopping-cart-linear-1",
+    "name": "Cart Linear",
+    "category": "shopping",
+    "keywords": [
+      "cart",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"9\" cy=\"21\" r=\"1\"/><circle cx=\"20\" cy=\"21\" r=\"1\"/><path d=\"M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "cart",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 938,
+    "views": 156
+  },
+  {
+    "id": "shopping-basket-outline-2",
+    "name": "Basket Outline",
+    "category": "shopping",
+    "keywords": [
+      "basket",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "basket",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 77,
+    "views": 852
+  },
+  {
+    "id": "shopping-basket-bold-2",
+    "name": "Basket Bold",
+    "category": "shopping",
+    "keywords": [
+      "basket",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "basket",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 767,
+    "views": 4277
+  },
+  {
+    "id": "shopping-basket-bulk-2",
+    "name": "Basket Bulk",
+    "category": "shopping",
+    "keywords": [
+      "basket",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "basket",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 835,
+    "views": 2664
+  },
+  {
+    "id": "shopping-basket-linear-2",
+    "name": "Basket Linear",
+    "category": "shopping",
+    "keywords": [
+      "basket",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "basket",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 970,
+    "views": 4625
+  },
+  {
+    "id": "shopping-bag-outline-3",
+    "name": "Bag Outline",
+    "category": "shopping",
+    "keywords": [
+      "bag",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z\"/><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><path d=\"M16 10a4 4 0 0 1-8 0\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "bag",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 910,
+    "views": 4643
+  },
+  {
+    "id": "shopping-bag-bold-3",
+    "name": "Bag Bold",
+    "category": "shopping",
+    "keywords": [
+      "bag",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z\"/><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><path d=\"M16 10a4 4 0 0 1-8 0\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "bag",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 638,
+    "views": 1097
+  },
+  {
+    "id": "shopping-bag-bulk-3",
+    "name": "Bag Bulk",
+    "category": "shopping",
+    "keywords": [
+      "bag",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z\"/><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><path d=\"M16 10a4 4 0 0 1-8 0\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "bag",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 129,
+    "views": 1569
+  },
+  {
+    "id": "shopping-bag-linear-3",
+    "name": "Bag Linear",
+    "category": "shopping",
+    "keywords": [
+      "bag",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z\"/><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><path d=\"M16 10a4 4 0 0 1-8 0\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "bag",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 54,
+    "views": 920
+  },
+  {
+    "id": "shopping-shopping-outline-4",
+    "name": "Shopping Outline",
+    "category": "shopping",
+    "keywords": [
+      "shopping",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "shopping",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 349,
+    "views": 3672
+  },
+  {
+    "id": "shopping-shopping-bold-4",
+    "name": "Shopping Bold",
+    "category": "shopping",
+    "keywords": [
+      "shopping",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "shopping",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 435,
+    "views": 354
+  },
+  {
+    "id": "shopping-shopping-bulk-4",
+    "name": "Shopping Bulk",
+    "category": "shopping",
+    "keywords": [
+      "shopping",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "shopping",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 833,
+    "views": 2481
+  },
+  {
+    "id": "shopping-shopping-linear-4",
+    "name": "Shopping Linear",
+    "category": "shopping",
+    "keywords": [
+      "shopping",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "shopping",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 806,
+    "views": 2253
+  },
+  {
+    "id": "shopping-buy-outline-5",
+    "name": "Buy Outline",
+    "category": "shopping",
+    "keywords": [
+      "buy",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "buy",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 757,
+    "views": 4646
+  },
+  {
+    "id": "shopping-buy-bold-5",
+    "name": "Buy Bold",
+    "category": "shopping",
+    "keywords": [
+      "buy",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "buy",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 846,
+    "views": 3170
+  },
+  {
+    "id": "shopping-buy-bulk-5",
+    "name": "Buy Bulk",
+    "category": "shopping",
+    "keywords": [
+      "buy",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "buy",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 351,
+    "views": 3110
+  },
+  {
+    "id": "shopping-buy-linear-5",
+    "name": "Buy Linear",
+    "category": "shopping",
+    "keywords": [
+      "buy",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "buy",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 155,
+    "views": 4916
+  },
+  {
+    "id": "shopping-sell-outline-6",
+    "name": "Sell Outline",
+    "category": "shopping",
+    "keywords": [
+      "sell",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "sell",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 486,
+    "views": 3870
+  },
+  {
+    "id": "shopping-sell-bold-6",
+    "name": "Sell Bold",
+    "category": "shopping",
+    "keywords": [
+      "sell",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "sell",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 182,
+    "views": 4322
+  },
+  {
+    "id": "shopping-sell-bulk-6",
+    "name": "Sell Bulk",
+    "category": "shopping",
+    "keywords": [
+      "sell",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "sell",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 789,
+    "views": 1704
+  },
+  {
+    "id": "shopping-sell-linear-6",
+    "name": "Sell Linear",
+    "category": "shopping",
+    "keywords": [
+      "sell",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "sell",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 805,
+    "views": 649
+  },
+  {
+    "id": "shopping-purchase-outline-7",
+    "name": "Purchase Outline",
+    "category": "shopping",
+    "keywords": [
+      "purchase",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "purchase",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 889,
+    "views": 1588
+  },
+  {
+    "id": "shopping-purchase-bold-7",
+    "name": "Purchase Bold",
+    "category": "shopping",
+    "keywords": [
+      "purchase",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "purchase",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 955,
+    "views": 3548
+  },
+  {
+    "id": "shopping-purchase-bulk-7",
+    "name": "Purchase Bulk",
+    "category": "shopping",
+    "keywords": [
+      "purchase",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "purchase",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 17,
+    "views": 1786
+  },
+  {
+    "id": "shopping-purchase-linear-7",
+    "name": "Purchase Linear",
+    "category": "shopping",
+    "keywords": [
+      "purchase",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "purchase",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 12,
+    "views": 3471
+  },
+  {
+    "id": "shopping-store-outline-8",
+    "name": "Store Outline",
+    "category": "shopping",
+    "keywords": [
+      "store",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "store",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 957,
+    "views": 1839
+  },
+  {
+    "id": "shopping-store-bold-8",
+    "name": "Store Bold",
+    "category": "shopping",
+    "keywords": [
+      "store",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "store",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 419,
+    "views": 4790
+  },
+  {
+    "id": "shopping-store-bulk-8",
+    "name": "Store Bulk",
+    "category": "shopping",
+    "keywords": [
+      "store",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "store",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 414,
+    "views": 1141
+  },
+  {
+    "id": "shopping-store-linear-8",
+    "name": "Store Linear",
+    "category": "shopping",
+    "keywords": [
+      "store",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "store",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 907,
+    "views": 1733
+  },
+  {
+    "id": "shopping-shop-outline-9",
+    "name": "Shop Outline",
+    "category": "shopping",
+    "keywords": [
+      "shop",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "shop",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 235,
+    "views": 3808
+  },
+  {
+    "id": "shopping-shop-bold-9",
+    "name": "Shop Bold",
+    "category": "shopping",
+    "keywords": [
+      "shop",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "shop",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 248,
+    "views": 3907
+  },
+  {
+    "id": "shopping-shop-bulk-9",
+    "name": "Shop Bulk",
+    "category": "shopping",
+    "keywords": [
+      "shop",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "shop",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 327,
+    "views": 1772
+  },
+  {
+    "id": "shopping-shop-linear-9",
+    "name": "Shop Linear",
+    "category": "shopping",
+    "keywords": [
+      "shop",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "shop",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 607,
+    "views": 4482
+  },
+  {
+    "id": "shopping-market-outline-10",
+    "name": "Market Outline",
+    "category": "shopping",
+    "keywords": [
+      "market",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "market",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 959,
+    "views": 3888
+  },
+  {
+    "id": "shopping-market-bold-10",
+    "name": "Market Bold",
+    "category": "shopping",
+    "keywords": [
+      "market",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "market",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 555,
+    "views": 2898
+  },
+  {
+    "id": "shopping-market-bulk-10",
+    "name": "Market Bulk",
+    "category": "shopping",
+    "keywords": [
+      "market",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "market",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 562,
+    "views": 4633
+  },
+  {
+    "id": "shopping-market-linear-10",
+    "name": "Market Linear",
+    "category": "shopping",
+    "keywords": [
+      "market",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "market",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 405,
+    "views": 1186
+  },
+  {
+    "id": "shopping-mall-outline-11",
+    "name": "Mall Outline",
+    "category": "shopping",
+    "keywords": [
+      "mall",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "mall",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 969,
+    "views": 2470
+  },
+  {
+    "id": "shopping-mall-bold-11",
+    "name": "Mall Bold",
+    "category": "shopping",
+    "keywords": [
+      "mall",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "mall",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 959,
+    "views": 2661
+  },
+  {
+    "id": "shopping-mall-bulk-11",
+    "name": "Mall Bulk",
+    "category": "shopping",
+    "keywords": [
+      "mall",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "mall",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 691,
+    "views": 4022
+  },
+  {
+    "id": "shopping-mall-linear-11",
+    "name": "Mall Linear",
+    "category": "shopping",
+    "keywords": [
+      "mall",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "mall",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 993,
+    "views": 3136
+  },
+  {
+    "id": "shopping-supermarket-outline-12",
+    "name": "Supermarket Outline",
+    "category": "shopping",
+    "keywords": [
+      "supermarket",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "supermarket",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 586,
+    "views": 4165
+  },
+  {
+    "id": "shopping-supermarket-bold-12",
+    "name": "Supermarket Bold",
+    "category": "shopping",
+    "keywords": [
+      "supermarket",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "supermarket",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 304,
+    "views": 209
+  },
+  {
+    "id": "shopping-supermarket-bulk-12",
+    "name": "Supermarket Bulk",
+    "category": "shopping",
+    "keywords": [
+      "supermarket",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "supermarket",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 669,
+    "views": 4716
+  },
+  {
+    "id": "shopping-supermarket-linear-12",
+    "name": "Supermarket Linear",
+    "category": "shopping",
+    "keywords": [
+      "supermarket",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "supermarket",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 354,
+    "views": 3395
+  },
+  {
+    "id": "shopping-grocery-outline-13",
+    "name": "Grocery Outline",
+    "category": "shopping",
+    "keywords": [
+      "grocery",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "grocery",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 508,
+    "views": 4348
+  },
+  {
+    "id": "shopping-grocery-bold-13",
+    "name": "Grocery Bold",
+    "category": "shopping",
+    "keywords": [
+      "grocery",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "grocery",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 694,
+    "views": 3776
+  },
+  {
+    "id": "shopping-grocery-bulk-13",
+    "name": "Grocery Bulk",
+    "category": "shopping",
+    "keywords": [
+      "grocery",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "grocery",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 704,
+    "views": 2497
+  },
+  {
+    "id": "shopping-grocery-linear-13",
+    "name": "Grocery Linear",
+    "category": "shopping",
+    "keywords": [
+      "grocery",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "grocery",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 788,
+    "views": 2461
+  },
+  {
+    "id": "shopping-product-outline-14",
+    "name": "Product Outline",
+    "category": "shopping",
+    "keywords": [
+      "product",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "product",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 661,
+    "views": 3353
+  },
+  {
+    "id": "shopping-product-bold-14",
+    "name": "Product Bold",
+    "category": "shopping",
+    "keywords": [
+      "product",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "product",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 117,
+    "views": 2325
+  },
+  {
+    "id": "shopping-product-bulk-14",
+    "name": "Product Bulk",
+    "category": "shopping",
+    "keywords": [
+      "product",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "product",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 571,
+    "views": 1286
+  },
+  {
+    "id": "shopping-product-linear-14",
+    "name": "Product Linear",
+    "category": "shopping",
+    "keywords": [
+      "product",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "product",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 122,
+    "views": 1065
+  },
+  {
+    "id": "shopping-item-outline-15",
+    "name": "Item Outline",
+    "category": "shopping",
+    "keywords": [
+      "item",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "item",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 373,
+    "views": 865
+  },
+  {
+    "id": "shopping-item-bold-15",
+    "name": "Item Bold",
+    "category": "shopping",
+    "keywords": [
+      "item",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "item",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 396,
+    "views": 3939
+  },
+  {
+    "id": "shopping-item-bulk-15",
+    "name": "Item Bulk",
+    "category": "shopping",
+    "keywords": [
+      "item",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "item",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 834,
+    "views": 967
+  },
+  {
+    "id": "shopping-item-linear-15",
+    "name": "Item Linear",
+    "category": "shopping",
+    "keywords": [
+      "item",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "item",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 814,
+    "views": 3701
+  },
+  {
+    "id": "shopping-goods-outline-16",
+    "name": "Goods Outline",
+    "category": "shopping",
+    "keywords": [
+      "goods",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "goods",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 233,
+    "views": 1501
+  },
+  {
+    "id": "shopping-goods-bold-16",
+    "name": "Goods Bold",
+    "category": "shopping",
+    "keywords": [
+      "goods",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "goods",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 618,
+    "views": 4731
+  },
+  {
+    "id": "shopping-goods-bulk-16",
+    "name": "Goods Bulk",
+    "category": "shopping",
+    "keywords": [
+      "goods",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "goods",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 242,
+    "views": 4802
+  },
+  {
+    "id": "shopping-goods-linear-16",
+    "name": "Goods Linear",
+    "category": "shopping",
+    "keywords": [
+      "goods",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "goods",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 432,
+    "views": 482
+  },
+  {
+    "id": "shopping-merchandise-outline-17",
+    "name": "Merchandise Outline",
+    "category": "shopping",
+    "keywords": [
+      "merchandise",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "merchandise",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 994,
+    "views": 1869
+  },
+  {
+    "id": "shopping-merchandise-bold-17",
+    "name": "Merchandise Bold",
+    "category": "shopping",
+    "keywords": [
+      "merchandise",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "merchandise",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 476,
+    "views": 224
+  },
+  {
+    "id": "shopping-merchandise-bulk-17",
+    "name": "Merchandise Bulk",
+    "category": "shopping",
+    "keywords": [
+      "merchandise",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "merchandise",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 715,
+    "views": 2294
+  },
+  {
+    "id": "shopping-merchandise-linear-17",
+    "name": "Merchandise Linear",
+    "category": "shopping",
+    "keywords": [
+      "merchandise",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "merchandise",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 530,
+    "views": 106
+  },
+  {
+    "id": "shopping-inventory-outline-18",
+    "name": "Inventory Outline",
+    "category": "shopping",
+    "keywords": [
+      "inventory",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "inventory",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 132,
+    "views": 2016
+  },
+  {
+    "id": "shopping-inventory-bold-18",
+    "name": "Inventory Bold",
+    "category": "shopping",
+    "keywords": [
+      "inventory",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "inventory",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 735,
+    "views": 977
+  },
+  {
+    "id": "shopping-inventory-bulk-18",
+    "name": "Inventory Bulk",
+    "category": "shopping",
+    "keywords": [
+      "inventory",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "inventory",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 80,
+    "views": 4379
+  },
+  {
+    "id": "shopping-inventory-linear-18",
+    "name": "Inventory Linear",
+    "category": "shopping",
+    "keywords": [
+      "inventory",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "inventory",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 471,
+    "views": 3522
+  },
+  {
+    "id": "shopping-stock-outline-19",
+    "name": "Stock Outline",
+    "category": "shopping",
+    "keywords": [
+      "stock",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "stock",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 459,
+    "views": 1565
+  },
+  {
+    "id": "shopping-stock-bold-19",
+    "name": "Stock Bold",
+    "category": "shopping",
+    "keywords": [
+      "stock",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "stock",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 508,
+    "views": 959
+  },
+  {
+    "id": "shopping-stock-bulk-19",
+    "name": "Stock Bulk",
+    "category": "shopping",
+    "keywords": [
+      "stock",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "stock",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 451,
+    "views": 1503
+  },
+  {
+    "id": "shopping-stock-linear-19",
+    "name": "Stock Linear",
+    "category": "shopping",
+    "keywords": [
+      "stock",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "stock",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 601,
+    "views": 2636
+  },
+  {
+    "id": "shopping-price-outline-20",
+    "name": "Price Outline",
+    "category": "shopping",
+    "keywords": [
+      "price",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "price",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 597,
+    "views": 1613
+  },
+  {
+    "id": "shopping-price-bold-20",
+    "name": "Price Bold",
+    "category": "shopping",
+    "keywords": [
+      "price",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "price",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 591,
+    "views": 476
+  },
+  {
+    "id": "shopping-price-bulk-20",
+    "name": "Price Bulk",
+    "category": "shopping",
+    "keywords": [
+      "price",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "price",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 704,
+    "views": 3360
+  },
+  {
+    "id": "shopping-price-linear-20",
+    "name": "Price Linear",
+    "category": "shopping",
+    "keywords": [
+      "price",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "price",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 232,
+    "views": 1309
+  },
+  {
+    "id": "shopping-tag-outline-21",
+    "name": "Tag Outline",
+    "category": "shopping",
+    "keywords": [
+      "tag",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "tag",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 142,
+    "views": 261
+  },
+  {
+    "id": "shopping-tag-bold-21",
+    "name": "Tag Bold",
+    "category": "shopping",
+    "keywords": [
+      "tag",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "tag",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 634,
+    "views": 143
+  },
+  {
+    "id": "shopping-tag-bulk-21",
+    "name": "Tag Bulk",
+    "category": "shopping",
+    "keywords": [
+      "tag",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "tag",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 505,
+    "views": 2745
+  },
+  {
+    "id": "shopping-tag-linear-21",
+    "name": "Tag Linear",
+    "category": "shopping",
+    "keywords": [
+      "tag",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "tag",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 91,
+    "views": 2137
+  },
+  {
+    "id": "shopping-label-outline-22",
+    "name": "Label Outline",
+    "category": "shopping",
+    "keywords": [
+      "label",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "label",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 96,
+    "views": 4975
+  },
+  {
+    "id": "shopping-label-bold-22",
+    "name": "Label Bold",
+    "category": "shopping",
+    "keywords": [
+      "label",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "label",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 267,
+    "views": 4576
+  },
+  {
+    "id": "shopping-label-bulk-22",
+    "name": "Label Bulk",
+    "category": "shopping",
+    "keywords": [
+      "label",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "label",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 362,
+    "views": 3009
+  },
+  {
+    "id": "shopping-label-linear-22",
+    "name": "Label Linear",
+    "category": "shopping",
+    "keywords": [
+      "label",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "label",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 638,
+    "views": 1789
+  },
+  {
+    "id": "shopping-discount-outline-23",
+    "name": "Discount Outline",
+    "category": "shopping",
+    "keywords": [
+      "discount",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "discount",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 770,
+    "views": 207
+  },
+  {
+    "id": "shopping-discount-bold-23",
+    "name": "Discount Bold",
+    "category": "shopping",
+    "keywords": [
+      "discount",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "discount",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 865,
+    "views": 219
+  },
+  {
+    "id": "shopping-discount-bulk-23",
+    "name": "Discount Bulk",
+    "category": "shopping",
+    "keywords": [
+      "discount",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "discount",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 995,
+    "views": 874
+  },
+  {
+    "id": "shopping-discount-linear-23",
+    "name": "Discount Linear",
+    "category": "shopping",
+    "keywords": [
+      "discount",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "discount",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 323,
+    "views": 1803
+  },
+  {
+    "id": "shopping-sale-outline-24",
+    "name": "Sale Outline",
+    "category": "shopping",
+    "keywords": [
+      "sale",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "sale",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 452,
+    "views": 4702
+  },
+  {
+    "id": "shopping-sale-bold-24",
+    "name": "Sale Bold",
+    "category": "shopping",
+    "keywords": [
+      "sale",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "sale",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 807,
+    "views": 4657
+  },
+  {
+    "id": "shopping-sale-bulk-24",
+    "name": "Sale Bulk",
+    "category": "shopping",
+    "keywords": [
+      "sale",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "sale",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 682,
+    "views": 2534
+  },
+  {
+    "id": "shopping-sale-linear-24",
+    "name": "Sale Linear",
+    "category": "shopping",
+    "keywords": [
+      "sale",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "sale",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 14,
+    "views": 1925
+  },
+  {
+    "id": "shopping-offer-outline-25",
+    "name": "Offer Outline",
+    "category": "shopping",
+    "keywords": [
+      "offer",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "offer",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 163,
+    "views": 3577
+  },
+  {
+    "id": "shopping-offer-bold-25",
+    "name": "Offer Bold",
+    "category": "shopping",
+    "keywords": [
+      "offer",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "offer",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 453,
+    "views": 97
+  },
+  {
+    "id": "shopping-offer-bulk-25",
+    "name": "Offer Bulk",
+    "category": "shopping",
+    "keywords": [
+      "offer",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "offer",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 713,
+    "views": 4885
+  },
+  {
+    "id": "shopping-offer-linear-25",
+    "name": "Offer Linear",
+    "category": "shopping",
+    "keywords": [
+      "offer",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "offer",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 386,
+    "views": 4311
+  },
+  {
+    "id": "shopping-deal-outline-26",
+    "name": "Deal Outline",
+    "category": "shopping",
+    "keywords": [
+      "deal",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "deal",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 615,
+    "views": 308
+  },
+  {
+    "id": "shopping-deal-bold-26",
+    "name": "Deal Bold",
+    "category": "shopping",
+    "keywords": [
+      "deal",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "deal",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 640,
+    "views": 45
+  },
+  {
+    "id": "shopping-deal-bulk-26",
+    "name": "Deal Bulk",
+    "category": "shopping",
+    "keywords": [
+      "deal",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "deal",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 410,
+    "views": 2095
+  },
+  {
+    "id": "shopping-deal-linear-26",
+    "name": "Deal Linear",
+    "category": "shopping",
+    "keywords": [
+      "deal",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "deal",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 37,
+    "views": 1550
+  },
+  {
+    "id": "shopping-delivery-outline-27",
+    "name": "Delivery Outline",
+    "category": "shopping",
+    "keywords": [
+      "delivery",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "delivery",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 467,
+    "views": 315
+  },
+  {
+    "id": "shopping-delivery-bold-27",
+    "name": "Delivery Bold",
+    "category": "shopping",
+    "keywords": [
+      "delivery",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "delivery",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 165,
+    "views": 327
+  },
+  {
+    "id": "shopping-delivery-bulk-27",
+    "name": "Delivery Bulk",
+    "category": "shopping",
+    "keywords": [
+      "delivery",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "delivery",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 697,
+    "views": 1039
+  },
+  {
+    "id": "shopping-delivery-linear-27",
+    "name": "Delivery Linear",
+    "category": "shopping",
+    "keywords": [
+      "delivery",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "delivery",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 360,
+    "views": 3365
+  },
+  {
+    "id": "shopping-shipping-outline-28",
+    "name": "Shipping Outline",
+    "category": "shopping",
+    "keywords": [
+      "shipping",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "shipping",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 23,
+    "views": 679
+  },
+  {
+    "id": "shopping-shipping-bold-28",
+    "name": "Shipping Bold",
+    "category": "shopping",
+    "keywords": [
+      "shipping",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "shipping",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 577,
+    "views": 3007
+  },
+  {
+    "id": "shopping-shipping-bulk-28",
+    "name": "Shipping Bulk",
+    "category": "shopping",
+    "keywords": [
+      "shipping",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "shipping",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 941,
+    "views": 4432
+  },
+  {
+    "id": "shopping-shipping-linear-28",
+    "name": "Shipping Linear",
+    "category": "shopping",
+    "keywords": [
+      "shipping",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "shipping",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 242,
+    "views": 3433
+  },
+  {
+    "id": "shopping-truck-outline-29",
+    "name": "Truck Outline",
+    "category": "shopping",
+    "keywords": [
+      "truck",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "truck",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 624,
+    "views": 1986
+  },
+  {
+    "id": "shopping-truck-bold-29",
+    "name": "Truck Bold",
+    "category": "shopping",
+    "keywords": [
+      "truck",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "truck",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 647,
+    "views": 3377
+  },
+  {
+    "id": "shopping-truck-bulk-29",
+    "name": "Truck Bulk",
+    "category": "shopping",
+    "keywords": [
+      "truck",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "truck",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 168,
+    "views": 765
+  },
+  {
+    "id": "shopping-truck-linear-29",
+    "name": "Truck Linear",
+    "category": "shopping",
+    "keywords": [
+      "truck",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "truck",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 342,
+    "views": 2991
+  },
+  {
+    "id": "shopping-package-outline-30",
+    "name": "Package Outline",
+    "category": "shopping",
+    "keywords": [
+      "package",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "package",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 51,
+    "views": 480
+  },
+  {
+    "id": "shopping-package-bold-30",
+    "name": "Package Bold",
+    "category": "shopping",
+    "keywords": [
+      "package",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "package",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 416,
+    "views": 1099
+  },
+  {
+    "id": "shopping-package-bulk-30",
+    "name": "Package Bulk",
+    "category": "shopping",
+    "keywords": [
+      "package",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "package",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 882,
+    "views": 3809
+  },
+  {
+    "id": "shopping-package-linear-30",
+    "name": "Package Linear",
+    "category": "shopping",
+    "keywords": [
+      "package",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "package",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 573,
+    "views": 1392
+  },
+  {
+    "id": "shopping-box-outline-31",
+    "name": "Box Outline",
+    "category": "shopping",
+    "keywords": [
+      "box",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "box",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 562,
+    "views": 4467
+  },
+  {
+    "id": "shopping-box-bold-31",
+    "name": "Box Bold",
+    "category": "shopping",
+    "keywords": [
+      "box",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "box",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 25,
+    "views": 610
+  },
+  {
+    "id": "shopping-box-bulk-31",
+    "name": "Box Bulk",
+    "category": "shopping",
+    "keywords": [
+      "box",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "box",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 196,
+    "views": 595
+  },
+  {
+    "id": "shopping-box-linear-31",
+    "name": "Box Linear",
+    "category": "shopping",
+    "keywords": [
+      "box",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "box",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 489,
+    "views": 1153
+  },
+  {
+    "id": "shopping-parcel-outline-32",
+    "name": "Parcel Outline",
+    "category": "shopping",
+    "keywords": [
+      "parcel",
+      "shopping",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "parcel",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 0,
+    "views": 2023
+  },
+  {
+    "id": "shopping-parcel-bold-32",
+    "name": "Parcel Bold",
+    "category": "shopping",
+    "keywords": [
+      "parcel",
+      "shopping",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "parcel",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 61,
+    "views": 3548
+  },
+  {
+    "id": "shopping-parcel-bulk-32",
+    "name": "Parcel Bulk",
+    "category": "shopping",
+    "keywords": [
+      "parcel",
+      "shopping",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "parcel",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 337,
+    "views": 2026
+  },
+  {
+    "id": "shopping-parcel-linear-32",
+    "name": "Parcel Linear",
+    "category": "shopping",
+    "keywords": [
+      "parcel",
+      "shopping",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "shopping",
+      "parcel",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 563,
+    "views": 2804
+  }
+]

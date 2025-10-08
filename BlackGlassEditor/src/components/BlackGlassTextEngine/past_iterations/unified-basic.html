@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ultimate Text Engine</title>
+<script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<script src="https://unpkg.com/opentype.js@1.3.4/dist/opentype.min.js"></script>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+html,body{margin:0;padding:0;height:100%;font-family:Inter,sans-serif}
+.canvas-container{background:linear-gradient(45deg,#f8fafc 25%,transparent 25%),linear-gradient(-45deg,#f8fafc 25%,transparent 25%),linear-gradient(45deg,transparent 75%,#f8fafc 75%),linear-gradient(-45deg,transparent 75%,#f8fafc 75%);background-size:20px 20px;background-position:0 0,0 10px,10px -10px,-10px 0}
+.loading-spinner{animation:spin 1s linear infinite}@keyframes spin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+.fade-in{animation:fadeIn 0.3s ease-in-out}@keyframes fadeIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.font-preview{transition:all 0.2s ease}.font-preview:hover{transform:scale(1.02);box-shadow:0 4px 12px rgba(0,0,0,0.1)}
+</style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+<div id="root"></div>
+
+<script type="text/babel">
+const { useState, useEffect, useRef, useCallback } = React;
+
+// Simple Icon component
+const Icon = ({ path, className="w-4 h-4" })=><svg className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d={path}/></svg>;
+const BoldIcon = ()=> <Icon path="M6 4h8a4 4 0 0 1 4 4 4 4 0 0 1-4 4H6zM6 12h9a4 4 0 0 1 4 4 4 4 0 0 1-4 4H6z" />;
+const ItalicIcon = ()=> <Icon path="M19 4h-9m4 16H5m9-16L9 20" />;
+const UnderlineIcon = ()=> <Icon path="M4 20h16M12 4v12" />;
+const XIcon = ()=> <Icon path="M18 6 6 18M6 6l12 12" />;
+const LoadingIcon = ()=> <Icon path="M21 12a9 9 0 11-6.219-8.56" className="w-4 h-4 loading-spinner"/>;
+
+const App = ()=>{
+  const [layers,setLayers] = useState([
+    {id:1,text:"Hello World!",x:50,y:50,fontSize:48,fontFamily:"Austin",fontWeight:"Regular",bold:false,italic:false,underline:false,lineHeight:1.2,letterSpacing:0,transform:"none",color:"#333"}
+  ]);
+  const [selectedId,setSelectedId] = useState(1);
+  const canvasRef = useRef(null);
+  const [loadedFonts,setLoadedFonts] = useState({});
+
+  const selectedLayer = layers.find(l=>l.id===selectedId);
+
+  const loadFont = async (family)=>{
+    if(loadedFonts[family]) return loadedFonts[family];
+    try{
+      const fontPath=`/public/fonts_engine/woff-woff2/${family}.woff`;
+      const res = await fetch(fontPath);
+      const arrayBuffer = await res.arrayBuffer();
+      const font = opentype.parse(arrayBuffer);
+      setLoadedFonts(prev=>({...prev,[family]:font}));
+      return font;
+    }catch(e){
+      console.error("Font load failed",e);
+      return null;
+    }
+  };
+
+  const renderCanvas = useCallback(async ()=>{
+    const canvas = canvasRef.current;
+    if(!canvas) return;
+    const ctx = canvas.getContext("2d");
+    if(!ctx) return;
+    const dpr = window.devicePixelRatio||1;
+    canvas.width = canvas.clientWidth*dpr;
+    canvas.height = canvas.clientHeight*dpr;
+    ctx.scale(dpr,dpr);
+    ctx.clearRect(0,0,canvas.width,canvas.height);
+
+    for(const layer of layers){
+      const font = await loadFont(layer.fontFamily);
+      if(!font){
+        ctx.font=`${layer.bold?'bold ':''}${layer.italic?'italic ':''}${layer.fontSize}px ${layer.fontFamily},Arial,sans-serif`;
+        ctx.fillStyle=layer.color;
+        const lines = layer.text.split("\n");
+        let y = layer.y;
+        for(const line of lines){
+          ctx.fillText(line,layer.x,y);
+          y+=layer.fontSize*layer.lineHeight;
+        }
+        continue;
+      }
+      const x = layer.x;
+      let y = layer.y;
+      const lines = layer.text.split("\n");
+      for(const line of lines){
+        let offsetX = 0;
+        for(const char of line){
+          const glyph = font.charToGlyph(char);
+          const scale = layer.fontSize/font.unitsPerEm;
+          const width = glyph.advanceWidth*scale + layer.letterSpacing;
+          const path = glyph.getPath(x+offsetX,y,layer.fontSize);
+          if(layer.bold){
+            const bpath = glyph.getPath(x+offsetX,y,layer.fontSize);
+            bpath.commands.forEach(cmd=>path.commands.push(cmd));
+          }
+          path.fill = layer.color;
+          path.draw(ctx);
+          offsetX+=width;
+        }
+        if(layer.underline){
+          ctx.strokeStyle=layer.color;
+          ctx.lineWidth=Math.max(1,layer.fontSize/15);
+          ctx.beginPath();
+          ctx.moveTo(x,y+layer.fontSize*0.1);
+          ctx.lineTo(x+ctx.measureText(line).width+layer.letterSpacing*(line.length-1),y+layer.fontSize*0.1);
+          ctx.stroke();
+        }
+        y+=layer.fontSize*layer.lineHeight;
+      }
+    }
+  },[layers]);
+
+  useEffect(()=>{
+    renderCanvas();
+  },[layers,renderCanvas]);
+
+  const updateLayer=(id,updates)=>setLayers(layers.map(l=>l.id===id?{...l,...updates}:l));
+
+  const addLayer=()=>setLayers([...layers,{id:Date.now(),text:"New Layer",x:50,y:50,fontSize:48,fontFamily:"Austin",fontWeight:"Regular",bold:false,italic:false,underline:false,lineHeight:1.2,letterSpacing:0,transform:"none",color:"#333"}]);
+
+  const removeLayer=id=>setLayers(layers.filter(l=>l.id!==id));
+
+  return (
+    <div className="flex flex-col h-screen w-screen">
+      <div className="flex-1 flex">
+        <div className="w-1/4 p-4 overflow-auto bg-gray-50 border-r">
+          <h2 className="font-bold mb-2">Layers</h2>
+          <button onClick={addLayer} className="px-2 py-1 bg-blue-600 text-white rounded mb-2">+ Add Layer</button>
+          {layers.map(layer=>(
+            <div key={layer.id} className={`p-2 mb-1 border rounded cursor-pointer ${layer.id===selectedId?'bg-blue-100':''}`} onClick={()=>setSelectedId(layer.id)}>
+              <input type="text" value={layer.text} onChange={e=>updateLayer(layer.id,{text:e.target.value})} className="w-full border p-1 rounded mb-1"/>
+              <label>Font Size <input type="number" value={layer.fontSize} onChange={e=>updateLayer(layer.id,{fontSize:parseInt(e.target.value)})} className="w-16 border rounded p-1 ml-1"/></label>
+              <label>Line Height <input type="number" step="0.1" value={layer.lineHeight} onChange={e=>updateLayer(layer.id,{lineHeight:parseFloat(e.target.value)})} className="w-16 border rounded p-1 ml-1"/></label>
+              <label>Letter Spacing <input type="number" step="0.1" value={layer.letterSpacing} onChange={e=>updateLayer(layer.id,{letterSpacing:parseFloat(e.target.value)})} className="w-16 border rounded p-1 ml-1"/></label>
+              <label>Text Transform
+                <select value={layer.transform} onChange={e=>updateLayer(layer.id,{transform:e.target.value})} className="border rounded p-1 ml-1">
+                  <option value="none">None</option>
+                  <option value="uppercase">Uppercase</option>
+                  <option value="lowercase">Lowercase</option>
+                  <option value="capitalize">Capitalize</option>
+                </select>
+              </label>
+              <label>Color <input type="color" value={layer.color} onChange={e=>updateLayer(layer.id,{color:e.target.value})} className="ml-2"/></label>
+              <div className="flex space-x-2 mt-1">
+                <button onClick={()=>updateLayer(layer.id,{bold:!layer.bold})} className={`px-2 py-1 border rounded ${layer.bold?'bg-blue-600 text-white':''}`}>B</button>
+                <button onClick={()=>updateLayer(layer.id,{italic:!layer.italic})} className={`px-2 py-1 border rounded ${layer.italic?'bg-blue-600 text-white':''}`}>I</button>
+                <button onClick={()=>updateLayer(layer.id,{underline:!layer.underline})} className={`px-2 py-1 border rounded ${layer.underline?'bg-blue-600 text-white':''}`}>U</button>
+              </div>
+              <button onClick={()=>removeLayer(layer.id)} className="text-red-500 mt-1 flex items-center"><XIcon/> Remove</button>
+            </div>
+          ))}
+        </div>
+        <div className="flex-1 flex items-center justify-center relative canvas-container">
+          <canvas ref={canvasRef} className="border w-full h-full"/>
+        </div>
+      </div>
+      <div className="p-2 bg-gray-200 flex justify-end">
+        <button className="px-3 py-1 bg-green-600 text-white rounded" onClick={()=>{
+          const canvas = canvasRef.current;
+          const link = document.createElement('a');
+          link.download = 'canvas.png';
+          link.href = canvas.toDataURL();
+          link.click();
+        }}>Export PNG</button>
+      </div>
+    </div>
+  )
+}
+
+ReactDOM.render(<App/>,document.getElementById('root'));
+</script>
+</body>
+</html>

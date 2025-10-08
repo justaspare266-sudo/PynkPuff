@@ -1,0 +1,139 @@
+/* ✨ Beautiful Glowing Crop Tool Styles ✨ */
+
+/* Animated gradient for crop tool */
+@keyframes crop-glow {
+  0%, 100% { 
+    filter: drop-shadow(0 0 10px rgba(59, 130, 246, 0.5)) drop-shadow(0 0 20px rgba(6, 182, 212, 0.3));
+  }
+  25% { 
+    filter: drop-shadow(0 0 15px rgba(6, 182, 212, 0.6)) drop-shadow(0 0 25px rgba(16, 185, 129, 0.4));
+  }
+  50% { 
+    filter: drop-shadow(0 0 20px rgba(16, 185, 129, 0.7)) drop-shadow(0 0 30px rgba(6, 182, 212, 0.5));
+  }
+  75% { 
+    filter: drop-shadow(0 0 15px rgba(6, 182, 212, 0.6)) drop-shadow(0 0 25px rgba(59, 130, 246, 0.4));
+  }
+}
+
+/* Pulsing corner handles */
+@keyframes crop-handle-pulse {
+  0%, 100% { 
+    transform: scale(1);
+    filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.8));
+  }
+  50% { 
+    transform: scale(1.2);
+    filter: drop-shadow(0 0 10px rgba(255, 255, 255, 1));
+  }
+}
+
+/* Crosshair animation */
+@keyframes crop-crosshair-rotate {
+  0% { 
+    transform: rotate(0deg);
+    opacity: 0.8;
+  }
+  50% { 
+    transform: rotate(180deg);
+    opacity: 1;
+  }
+  100% { 
+    transform: rotate(360deg);
+    opacity: 0.8;
+  }
+}
+
+/* Apply animations to crop tool elements */
+.crop-tool-border {
+  animation: crop-glow 3s ease-in-out infinite;
+}
+
+.crop-tool-handle {
+  animation: crop-handle-pulse 2s ease-in-out infinite;
+}
+
+.crop-tool-crosshair {
+  animation: crop-crosshair-rotate 4s linear infinite;
+}
+
+/* Enhanced glow effects */
+.crop-tool-glow {
+  box-shadow: 
+    0 0 20px rgba(59, 130, 246, 0.6),
+    0 0 40px rgba(6, 182, 212, 0.4),
+    0 0 60px rgba(16, 185, 129, 0.2);
+}
+
+/* Gradient text effect for crop tool */
+.crop-tool-text {
+  background: linear-gradient(45deg, #3B82F6, #06B6D4, #10B981, #06B6D4, #3B82F6);
+  background-size: 400% 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: crop-gradient-shift 3s ease-in-out infinite;
+}
+
+@keyframes crop-gradient-shift {
+  0%, 100% { 
+    background-position: 0% 50%; 
+  }
+  50% { 
+    background-position: 100% 50%; 
+  }
+}
+
+/* Crop tool overlay effects */
+.crop-tool-overlay {
+  background: 
+    radial-gradient(circle at 20% 20%, rgba(59, 130, 246, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(6, 182, 212, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 40% 60%, rgba(16, 185, 129, 0.1) 0%, transparent 50%);
+  animation: crop-overlay-shift 6s ease-in-out infinite;
+}
+
+@keyframes crop-overlay-shift {
+  0%, 100% { 
+    opacity: 0.3;
+  }
+  50% { 
+    opacity: 0.6;
+  }
+}
+
+/* Responsive crop tool */
+@media (max-width: 768px) {
+  .crop-tool-border {
+    animation-duration: 2s;
+  }
+  
+  .crop-tool-handle {
+    animation-duration: 1.5s;
+  }
+  
+  .crop-tool-crosshair {
+    animation-duration: 3s;
+  }
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+  .crop-tool-border {
+    filter: drop-shadow(0 0 15px rgba(255, 255, 255, 0.8));
+  }
+  
+  .crop-tool-handle {
+    filter: drop-shadow(0 0 10px rgba(255, 255, 255, 1));
+  }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .crop-tool-border,
+  .crop-tool-handle,
+  .crop-tool-crosshair,
+  .crop-tool-text,
+  .crop-tool-overlay {
+    animation: none;
+  }
+}

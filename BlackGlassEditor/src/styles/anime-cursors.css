@@ -1,0 +1,809 @@
+/* ⚡ Anime-Inspired Cursors - So amazing that even Pikachu would be jealous! ⚡✨ */
+
+/* 🌟 Base cursor styles */
+.anime-cursor {
+  cursor: none;
+  position: relative;
+}
+
+/* 🎯 Unique Pointed Click Cursor - Professional & Stylish */
+.cursor-pointed-click {
+  cursor: none;
+  position: relative;
+}
+
+.cursor-pointed-click::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0;
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  border-top: 20px solid #2563eb;
+  pointer-events: none;
+  z-index: 9999;
+  transform: translate(-50%, -50%);
+  filter: drop-shadow(0 2px 4px rgba(37, 99, 235, 0.3));
+  transition: all 0.1s ease;
+}
+
+.cursor-pointed-click::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 14px solid #ffffff;
+  pointer-events: none;
+  z-index: 9999;
+  transform: translate(-50%, -52%);
+  transition: all 0.1s ease;
+}
+
+/* 🎯 Pointed Click Cursor - Hover State */
+.cursor-pointed-click:hover::before {
+  border-top-color: #1d4ed8;
+  transform: translate(-50%, -50%) scale(1.1);
+}
+
+.cursor-pointed-click:hover::after {
+  border-top-color: #f8fafc;
+  transform: translate(-50%, -52%) scale(1.1);
+}
+
+/* 🎯 Pointed Click Cursor - Active State */
+.cursor-pointed-click:active::before {
+  border-top-color: #1e40af;
+  transform: translate(-50%, -50%) scale(0.95);
+}
+
+.cursor-pointed-click:active::after {
+  border-top-color: #e2e8f0;
+  transform: translate(-50%, -52%) scale(0.95);
+}
+
+/* 🎨 Cursor Variations */
+
+/* 🎯 Pointed Click - Pink Variant */
+.cursor-pointed-click-pink::before {
+  border-top-color: #ec4899;
+  filter: drop-shadow(0 2px 4px rgba(236, 72, 153, 0.3));
+}
+
+.cursor-pointed-click-pink::after {
+  border-top-color: #fdf2f8;
+}
+
+/* 🎯 Pointed Click - Green Variant */
+.cursor-pointed-click-green::before {
+  border-top-color: #10b981;
+  filter: drop-shadow(0 2px 4px rgba(16, 185, 129, 0.3));
+}
+
+.cursor-pointed-click-green::after {
+  border-top-color: #f0fdf4;
+}
+
+/* 🎯 Pointed Click - Purple Variant */
+.cursor-pointed-click-purple::before {
+  border-top-color: #8b5cf6;
+  filter: drop-shadow(0 2px 4px rgba(139, 92, 246, 0.3));
+}
+
+.cursor-pointed-click-purple::after {
+  border-top-color: #faf5ff;
+}
+
+/* 🎯 Pointed Click - Orange Variant */
+.cursor-pointed-click-orange::before {
+  border-top-color: #f97316;
+  filter: drop-shadow(0 2px 4px rgba(249, 115, 22, 0.3));
+}
+
+.cursor-pointed-click-orange::after {
+  border-top-color: #fff7ed;
+}
+
+/* 🎯 Pointed Click - Red Variant */
+.cursor-pointed-click-red::before {
+  border-top-color: #ef4444;
+  filter: drop-shadow(0 2px 4px rgba(239, 68, 68, 0.3));
+}
+
+.cursor-pointed-click-red::after {
+  border-top-color: #fef2f2;
+}
+
+/* 🎯 Standard CSS Cursors */
+.anime-cursor.cursor-crosshair {
+  cursor: crosshair;
+}
+
+.anime-cursor.cursor-pointer {
+  cursor: pointer;
+}
+
+/* ⚡ Thunderbolt Cursor (Pikachu's favorite!) */
+.cursor-thunderbolt {
+  cursor: none;
+  position: relative;
+}
+
+.cursor-thunderbolt::before {
+  content: '⚡';
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 24px;
+  color: #ffd700;
+  pointer-events: none;
+  z-index: 9999;
+  animation: thunder-pulse 1s ease-in-out infinite;
+  text-shadow: 0 0 10px #ffd700, 0 0 20px #ffd700, 0 0 30px #ffd700;
+  transform: translate(-50%, -50%);
+}
+
+/* 🌸 Sakura Petal Cursor */
+.cursor-sakura {
+  cursor: none;
+  position: relative;
+}
+
+.cursor-sakura::before {
+  content: '🌸';
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 20px;
+  color: #ff6b9d;
+  pointer-events: none;
+  z-index: 9999;
+  animation: sakura-float 2s ease-in-out infinite;
+  text-shadow: 0 0 8px #ff6b9d;
+  transform: translate(-50%, -50%);
+}
+
+/* 🌊 Ocean Wave Cursor */
+.cursor-ocean {
+  cursor: none;
+  position: relative;
+}
+
+.cursor-ocean::before {
+  content: '🌊';
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 22px;
+  color: #00b4d8;
+  pointer-events: none;
+  z-index: 9999;
+  animation: ocean-wave 3s ease-in-out infinite;
+  text-shadow: 0 0 8px #00b4d8;
+  transform: translate(-50%, -50%);
+}
+
+/* ✨ Galaxy Star Cursor */
+.cursor-galaxy {
+  cursor: none;
+  position: relative;
+}
+
+.cursor-galaxy::before {
+  content: '✨';
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 24px;
+  color: #9d4edd;
+  pointer-events: none;
+  z-index: 9999;
+  animation: galaxy-spin 2s linear infinite;
+  text-shadow: 0 0 10px #9d4edd, 0 0 20px #9d4edd;
+  transform: translate(-50%, -50%);
+}
+
+/* 🌈 Rainbow Cursor */
+.cursor-rainbow {
+  cursor: none;
+  position: relative;
+}
+
+.cursor-rainbow::before {
+  content: '🌈';
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 20px;
+  color: #ff6b6b;
+  pointer-events: none;
+  z-index: 9999;
+  animation: rainbow-shift 2s ease-in-out infinite;
+  text-shadow: 0 0 8px #ff6b6b;
+  transform: translate(-50%, -50%);
+}
+
+/* 🎨 Paint Brush Cursor */
+.cursor-paintbrush {
+  cursor: none;
+  position: relative;
+}
+
+.cursor-paintbrush::before {
+  content: '🎨';
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 22px;
+  color: #ff6b6b;
+  pointer-events: none;
+  z-index: 9999;
+  animation: paint-splash 1.5s ease-in-out infinite;
+  text-shadow: 0 0 8px #ff6b6b;
+  transform: translate(-50%, -50%);
+}
+
+/* ✂️ Scissors Cursor */
+.cursor-scissors {
+  cursor: none;
+  position: relative;
+}
+
+.cursor-scissors::before {
+  content: '✂️';
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 20px;
+  color: #ff6b6b;
+  pointer-events: none;
+  z-index: 9999;
+  animation: scissors-snip 0.5s ease-in-out infinite;
+  text-shadow: 0 0 8px #ff6b6b;
+  transform: translate(-50%, -50%);
+}
+
+/* 🔍 Magnifying Glass Cursor */
+.cursor-magnify {
+  cursor: none;
+  position: relative;
+}
+
+.cursor-magnify::before {
+  content: '🔍';
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 22px;
+  color: #4ecdc4;
+  pointer-events: none;
+  z-index: 9999;
+  animation: magnify-zoom 2s ease-in-out infinite;
+  text-shadow: 0 0 8px #4ecdc4;
+  transform: translate(-50%, -50%);
+}
+
+/* 🎯 Target Cursor */
+.cursor-target {
+  cursor: none;
+  position: relative;
+}
+
+.cursor-target::before {
+  content: '🎯';
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 20px;
+  color: #ff6b6b;
+  pointer-events: none;
+  z-index: 9999;
+  animation: target-pulse 1s ease-in-out infinite;
+  text-shadow: 0 0 8px #ff6b6b;
+  transform: translate(-50%, -50%);
+}
+
+/* 🖊️ Pen Cursor */
+.cursor-pen {
+  cursor: none;
+  position: relative;
+}
+
+.cursor-pen::before {
+  content: '🖊️';
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 20px;
+  color: #2c3e50;
+  pointer-events: none;
+  z-index: 9999;
+  animation: pen-write 1s ease-in-out infinite;
+  text-shadow: 0 0 8px #2c3e50;
+  transform: translate(-50%, -50%);
+}
+
+/* 🖤 Black Glass Cursor - Sleek and Professional */
+.cursor-black-glass {
+  cursor: none;
+  position: relative;
+}
+
+.cursor-black-glass::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0;
+  border-left: 14px solid transparent;
+  border-right: 14px solid transparent;
+  border-top: 24px solid rgba(0, 0, 0, 0.9);
+  pointer-events: none;
+  z-index: 9999;
+  transform: translate(-50%, -50%);
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.6)) drop-shadow(0 0 12px rgba(0, 0, 0, 0.4));
+  transition: all 0.1s ease;
+  backdrop-filter: blur(2px);
+}
+
+.cursor-black-glass::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 18px solid rgba(255, 255, 255, 0.9);
+  pointer-events: none;
+  z-index: 9999;
+  transform: translate(-50%, -52%);
+  transition: all 0.1s ease;
+  backdrop-filter: blur(1px);
+}
+
+/* Black Glass Cursor - Hover State */
+.cursor-black-glass:hover::before {
+  border-top-color: rgba(0, 0, 0, 0.95);
+  transform: translate(-50%, -50%) scale(1.05);
+  filter: drop-shadow(0 6px 12px rgba(0, 0, 0, 0.7)) drop-shadow(0 0 16px rgba(0, 0, 0, 0.5));
+}
+
+.cursor-black-glass:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+  transform: translate(-50%, -52%) scale(1.05);
+}
+
+/* Black Glass Cursor - Active State */
+.cursor-black-glass:active::before {
+  border-top-color: rgba(0, 0, 0, 1);
+  transform: translate(-50%, -50%) scale(0.95);
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.8)) drop-shadow(0 0 8px rgba(0, 0, 0, 0.6));
+}
+
+.cursor-black-glass:active::after {
+  border-top-color: rgba(255, 255, 255, 1);
+  transform: translate(-50%, -52%) scale(0.95);
+}
+
+/* 🎨 Custom SVG Cursors */
+.cursor-custom-thunderbolt {
+  cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="%23ffd700"><path d="M7 2v11h3v9l7-12h-4l4-8z"/></svg>') 12 12, auto;
+}
+
+.cursor-custom-sakura {
+  cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="%23ff6b9d"><path d="M12 2c-2.5 0-4.5 2-4.5 4.5 0 1.5 1 2.8 2.4 3.3-.4.8-.4 1.7 0 2.5-1.4.5-2.4 1.8-2.4 3.3 0 2.5 2 4.5 4.5 4.5s4.5-2 4.5-4.5c0-1.5-1-2.8-2.4-3.3.4-.8.4-1.7 0-2.5 1.4-.5 2.4-1.8 2.4-3.3 0-2.5-2-4.5-4.5-4.5z"/></svg>') 10 10, auto;
+}
+
+.cursor-custom-ocean {
+  cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="%2300b4d8"><path d="M2 12c0 5.5 4.5 10 10 10s10-4.5 10-10S17.5 2 12 2 2 6.5 2 12zm18 0c0 4.4-3.6 8-8 8s-8-3.6-8-8 3.6-8 8-8 8 3.6 8 8z"/><path d="M8 12c0 2.2 1.8 4 4 4s4-1.8 4-4-1.8-4-4-4-4 1.8-4 4z"/></svg>') 11 11, auto;
+}
+
+/* 🎮 Tool-specific cursors */
+.tool-select .anime-cursor::before {
+  content: '👆';
+  font-size: 18px;
+  color: #4ecdc4;
+  animation: select-bounce 1s ease-in-out infinite;
+}
+
+.tool-text .anime-cursor::before {
+  content: '✍️';
+  font-size: 18px;
+  color: #ff6b6b;
+  animation: text-write 1s ease-in-out infinite;
+}
+
+.tool-pen .anime-cursor::before {
+  content: '🖊️';
+  font-size: 18px;
+  color: #2c3e50;
+  animation: pen-write 1s ease-in-out infinite;
+}
+
+.tool-bucket .anime-cursor::before {
+  content: '🪣';
+  font-size: 18px;
+  color: #4ecdc4;
+  animation: bucket-pour 1s ease-in-out infinite;
+}
+
+.tool-gradient .anime-cursor::before {
+  content: '🌈';
+  font-size: 18px;
+  color: #ff6b6b;
+  animation: rainbow-shift 2s ease-in-out infinite;
+}
+
+.tool-crop .anime-cursor::before {
+  content: '✂️';
+  font-size: 18px;
+  color: #ff6b6b;
+  animation: scissors-snip 0.5s ease-in-out infinite;
+}
+
+.tool-move .anime-cursor::before {
+  content: '✋';
+  font-size: 18px;
+  color: #4ecdc4;
+  animation: move-grab 1s ease-in-out infinite;
+}
+
+.tool-rotate .anime-cursor::before {
+  content: '🔄';
+  font-size: 18px;
+  color: #9d4edd;
+  animation: rotate-spin 2s linear infinite;
+}
+
+.tool-filter .anime-cursor::before {
+  content: '✨';
+  font-size: 18px;
+  color: #9d4edd;
+  animation: filter-sparkle 1s ease-in-out infinite;
+}
+
+.tool-mask .anime-cursor::before {
+  content: '🎭';
+  font-size: 18px;
+  color: #ff6b6b;
+  animation: mask-dance 1s ease-in-out infinite;
+}
+
+.tool-marquee .anime-cursor::before {
+  content: '📦';
+  font-size: 18px;
+  color: #4ecdc4;
+  animation: marquee-bounce 1s ease-in-out infinite;
+}
+
+.tool-shapes .anime-cursor::before {
+  content: '💎';
+  font-size: 18px;
+  color: #4ecdc4;
+  animation: shapes-rotate 2s ease-in-out infinite;
+}
+
+/* 🎨 Shape tool cursors */
+.tool-rect .anime-cursor::before {
+  content: '⬜';
+  font-size: 18px;
+  color: #4ecdc4;
+  animation: shape-draw 1s ease-in-out infinite;
+}
+
+.tool-circle .anime-cursor::before {
+  content: '⭕';
+  font-size: 18px;
+  color: #4ecdc4;
+  animation: shape-draw 1s ease-in-out infinite;
+}
+
+.tool-triangle .anime-cursor::before {
+  content: '🔺';
+  font-size: 18px;
+  color: #4ecdc4;
+  animation: shape-draw 1s ease-in-out infinite;
+}
+
+.tool-star .anime-cursor::before {
+  content: '⭐';
+  font-size: 18px;
+  color: #ffd700;
+  animation: star-twinkle 1s ease-in-out infinite;
+}
+
+.tool-heart .anime-cursor::before {
+  content: '❤️';
+  font-size: 18px;
+  color: #ff6b6b;
+  animation: heart-beat 1s ease-in-out infinite;
+}
+
+.tool-arrow .anime-cursor::before {
+  content: '➡️';
+  font-size: 18px;
+  color: #4ecdc4;
+  animation: arrow-point 1s ease-in-out infinite;
+}
+
+.tool-line .anime-cursor::before {
+  content: '📏';
+  font-size: 18px;
+  color: #4ecdc4;
+  animation: line-draw 1s ease-in-out infinite;
+}
+
+/* 🎭 Cursor Animations */
+@keyframes thunder-pulse {
+  0%, 100% { 
+    transform: translate(-50%, -50%) scale(1); 
+    filter: brightness(1);
+  }
+  50% { 
+    transform: translate(-50%, -50%) scale(1.2); 
+    filter: brightness(1.5);
+  }
+}
+
+@keyframes sakura-float {
+  0%, 100% { 
+    transform: translate(-50%, -50%) rotate(0deg) scale(1); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) rotate(10deg) scale(1.1); 
+  }
+}
+
+@keyframes ocean-wave {
+  0%, 100% { 
+    transform: translate(-50%, -50%) scale(1); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) scale(1.1); 
+  }
+}
+
+@keyframes galaxy-spin {
+  0% { 
+    transform: translate(-50%, -50%) rotate(0deg); 
+  }
+  100% { 
+    transform: translate(-50%, -50%) rotate(360deg); 
+  }
+}
+
+@keyframes rainbow-shift {
+  0% { 
+    filter: hue-rotate(0deg); 
+  }
+  100% { 
+    filter: hue-rotate(360deg); 
+  }
+}
+
+@keyframes paint-splash {
+  0%, 100% { 
+    transform: translate(-50%, -50%) scale(1) rotate(0deg); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) scale(1.2) rotate(15deg); 
+  }
+}
+
+@keyframes scissors-snip {
+  0%, 100% { 
+    transform: translate(-50%, -50%) rotate(0deg); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) rotate(15deg); 
+  }
+}
+
+@keyframes magnify-zoom {
+  0%, 100% { 
+    transform: translate(-50%, -50%) scale(1); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) scale(1.2); 
+  }
+}
+
+@keyframes target-pulse {
+  0%, 100% { 
+    transform: translate(-50%, -50%) scale(1); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) scale(1.1); 
+  }
+}
+
+@keyframes pen-write {
+  0%, 100% { 
+    transform: translate(-50%, -50%) rotate(0deg); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) rotate(5deg); 
+  }
+}
+
+@keyframes select-bounce {
+  0%, 100% { 
+    transform: translate(-50%, -50%) scale(1); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) scale(1.1); 
+  }
+}
+
+@keyframes text-write {
+  0%, 100% { 
+    transform: translate(-50%, -50%) rotate(0deg); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) rotate(10deg); 
+  }
+}
+
+@keyframes bucket-pour {
+  0%, 100% { 
+    transform: translate(-50%, -50%) rotate(0deg); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) rotate(-15deg); 
+  }
+}
+
+@keyframes move-grab {
+  0%, 100% { 
+    transform: translate(-50%, -50%) scale(1); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) scale(1.1); 
+  }
+}
+
+@keyframes rotate-spin {
+  0% { 
+    transform: translate(-50%, -50%) rotate(0deg); 
+  }
+  100% { 
+    transform: translate(-50%, -50%) rotate(360deg); 
+  }
+}
+
+@keyframes filter-sparkle {
+  0%, 100% { 
+    transform: translate(-50%, -50%) scale(1); 
+    opacity: 1;
+  }
+  50% { 
+    transform: translate(-50%, -50%) scale(1.2); 
+    opacity: 0.8;
+  }
+}
+
+@keyframes mask-dance {
+  0%, 100% { 
+    transform: translate(-50%, -50%) rotate(0deg) scale(1); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) rotate(10deg) scale(1.1); 
+  }
+}
+
+@keyframes marquee-bounce {
+  0%, 100% { 
+    transform: translate(-50%, -50%) scale(1); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) scale(1.1); 
+  }
+}
+
+@keyframes shape-draw {
+  0%, 100% { 
+    transform: translate(-50%, -50%) scale(1); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) scale(1.1); 
+  }
+}
+
+@keyframes star-twinkle {
+  0%, 100% { 
+    transform: translate(-50%, -50%) scale(1); 
+    opacity: 1;
+  }
+  50% { 
+    transform: translate(-50%, -50%) scale(1.2); 
+    opacity: 0.8;
+  }
+}
+
+@keyframes heart-beat {
+  0%, 100% { 
+    transform: translate(-50%, -50%) scale(1); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) scale(1.2); 
+  }
+}
+
+@keyframes arrow-point {
+  0%, 100% { 
+    transform: translate(-50%, -50%) rotate(0deg); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) rotate(10deg); 
+  }
+}
+
+@keyframes line-draw {
+  0%, 100% { 
+    transform: translate(-50%, -50%) scale(1); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) scale(1.1); 
+  }
+}
+
+@keyframes shapes-rotate {
+  0% { 
+    transform: translate(-50%, -50%) rotate(0deg) scale(1); 
+  }
+  50% { 
+    transform: translate(-50%, -50%) rotate(180deg) scale(1.1); 
+  }
+  100% { 
+    transform: translate(-50%, -50%) rotate(360deg) scale(1); 
+  }
+}
+
+/* 🎮 Responsive Design */
+@media (max-width: 768px) {
+  .cursor-thunderbolt::before,
+  .cursor-sakura::before,
+  .cursor-ocean::before,
+  .cursor-galaxy::before,
+  .cursor-rainbow::before {
+    font-size: 18px;
+  }
+}
+
+/* 🌟 Accessibility */
+@media (prefers-reduced-motion: reduce) {
+  .cursor-thunderbolt::before,
+  .cursor-sakura::before,
+  .cursor-ocean::before,
+  .cursor-galaxy::before,
+  .cursor-rainbow::before,
+  .anime-cursor::before {
+    animation: none;
+  }
+}
+
+/* 🎨 High Contrast Mode */
+@media (prefers-contrast: high) {
+  .cursor-thunderbolt::before {
+    color: #ffff00;
+    text-shadow: 0 0 5px #000000;
+  }
+  
+  .cursor-sakura::before {
+    color: #ff69b4;
+    text-shadow: 0 0 5px #000000;
+  }
+  
+  .cursor-ocean::before {
+    color: #00bfff;
+    text-shadow: 0 0 5px #000000;
+  }
+}

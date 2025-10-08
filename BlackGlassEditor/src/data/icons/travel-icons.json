@@ -1,0 +1,3970 @@
+[
+  {
+    "id": "travel-car-outline-1",
+    "name": "Car Outline",
+    "category": "travel",
+    "keywords": [
+      "car",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M7 17h.01M17 17h.01M7.5 15h9l-1-7H8.5l-1 7z\"/><path d=\"M2 8h20l-1 7H3l-1-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "car",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 172,
+    "views": 498
+  },
+  {
+    "id": "travel-car-bold-1",
+    "name": "Car Bold",
+    "category": "travel",
+    "keywords": [
+      "car",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M7 17h.01M17 17h.01M7.5 15h9l-1-7H8.5l-1 7z\"/><path d=\"M2 8h20l-1 7H3l-1-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "car",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 464,
+    "views": 3339
+  },
+  {
+    "id": "travel-car-bulk-1",
+    "name": "Car Bulk",
+    "category": "travel",
+    "keywords": [
+      "car",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M7 17h.01M17 17h.01M7.5 15h9l-1-7H8.5l-1 7z\"/><path d=\"M2 8h20l-1 7H3l-1-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "car",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 440,
+    "views": 3310
+  },
+  {
+    "id": "travel-car-linear-1",
+    "name": "Car Linear",
+    "category": "travel",
+    "keywords": [
+      "car",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M7 17h.01M17 17h.01M7.5 15h9l-1-7H8.5l-1 7z\"/><path d=\"M2 8h20l-1 7H3l-1-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "car",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 814,
+    "views": 2280
+  },
+  {
+    "id": "travel-truck-outline-2",
+    "name": "Truck Outline",
+    "category": "travel",
+    "keywords": [
+      "truck",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "truck",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 84,
+    "views": 113
+  },
+  {
+    "id": "travel-truck-bold-2",
+    "name": "Truck Bold",
+    "category": "travel",
+    "keywords": [
+      "truck",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "truck",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 406,
+    "views": 1873
+  },
+  {
+    "id": "travel-truck-bulk-2",
+    "name": "Truck Bulk",
+    "category": "travel",
+    "keywords": [
+      "truck",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "truck",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 489,
+    "views": 2059
+  },
+  {
+    "id": "travel-truck-linear-2",
+    "name": "Truck Linear",
+    "category": "travel",
+    "keywords": [
+      "truck",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "truck",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 26,
+    "views": 3282
+  },
+  {
+    "id": "travel-bus-outline-3",
+    "name": "Bus Outline",
+    "category": "travel",
+    "keywords": [
+      "bus",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bus",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 668,
+    "views": 65
+  },
+  {
+    "id": "travel-bus-bold-3",
+    "name": "Bus Bold",
+    "category": "travel",
+    "keywords": [
+      "bus",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bus",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 105,
+    "views": 3727
+  },
+  {
+    "id": "travel-bus-bulk-3",
+    "name": "Bus Bulk",
+    "category": "travel",
+    "keywords": [
+      "bus",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bus",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 450,
+    "views": 3416
+  },
+  {
+    "id": "travel-bus-linear-3",
+    "name": "Bus Linear",
+    "category": "travel",
+    "keywords": [
+      "bus",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bus",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 953,
+    "views": 1630
+  },
+  {
+    "id": "travel-train-outline-4",
+    "name": "Train Outline",
+    "category": "travel",
+    "keywords": [
+      "train",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "train",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 823,
+    "views": 4713
+  },
+  {
+    "id": "travel-train-bold-4",
+    "name": "Train Bold",
+    "category": "travel",
+    "keywords": [
+      "train",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "train",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 360,
+    "views": 2018
+  },
+  {
+    "id": "travel-train-bulk-4",
+    "name": "Train Bulk",
+    "category": "travel",
+    "keywords": [
+      "train",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "train",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 813,
+    "views": 1339
+  },
+  {
+    "id": "travel-train-linear-4",
+    "name": "Train Linear",
+    "category": "travel",
+    "keywords": [
+      "train",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "train",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 730,
+    "views": 2884
+  },
+  {
+    "id": "travel-plane-outline-5",
+    "name": "Plane Outline",
+    "category": "travel",
+    "keywords": [
+      "plane",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M17.8 19.2 16 11l3.5-3.5C21 6 21 4.5 19.5 3 18 1.5 16.5 1.5 15 3L11.5 6.5 3.2 4.8a1.5 1.5 0 0 0-1.5 2.5l3.5 3.5L3 12l3.5 3.5-3.5 3.5 1.2 1.2 8.3-1.7 3.5 3.5c1.5 1.5 3 1.5 4.5 0s1.5-3 0-4.5L17.8 19.2z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "plane",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 42,
+    "views": 307
+  },
+  {
+    "id": "travel-plane-bold-5",
+    "name": "Plane Bold",
+    "category": "travel",
+    "keywords": [
+      "plane",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M17.8 19.2 16 11l3.5-3.5C21 6 21 4.5 19.5 3 18 1.5 16.5 1.5 15 3L11.5 6.5 3.2 4.8a1.5 1.5 0 0 0-1.5 2.5l3.5 3.5L3 12l3.5 3.5-3.5 3.5 1.2 1.2 8.3-1.7 3.5 3.5c1.5 1.5 3 1.5 4.5 0s1.5-3 0-4.5L17.8 19.2z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "plane",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 800,
+    "views": 3878
+  },
+  {
+    "id": "travel-plane-bulk-5",
+    "name": "Plane Bulk",
+    "category": "travel",
+    "keywords": [
+      "plane",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M17.8 19.2 16 11l3.5-3.5C21 6 21 4.5 19.5 3 18 1.5 16.5 1.5 15 3L11.5 6.5 3.2 4.8a1.5 1.5 0 0 0-1.5 2.5l3.5 3.5L3 12l3.5 3.5-3.5 3.5 1.2 1.2 8.3-1.7 3.5 3.5c1.5 1.5 3 1.5 4.5 0s1.5-3 0-4.5L17.8 19.2z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "plane",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 785,
+    "views": 2602
+  },
+  {
+    "id": "travel-plane-linear-5",
+    "name": "Plane Linear",
+    "category": "travel",
+    "keywords": [
+      "plane",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M17.8 19.2 16 11l3.5-3.5C21 6 21 4.5 19.5 3 18 1.5 16.5 1.5 15 3L11.5 6.5 3.2 4.8a1.5 1.5 0 0 0-1.5 2.5l3.5 3.5L3 12l3.5 3.5-3.5 3.5 1.2 1.2 8.3-1.7 3.5 3.5c1.5 1.5 3 1.5 4.5 0s1.5-3 0-4.5L17.8 19.2z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "plane",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 276,
+    "views": 4557
+  },
+  {
+    "id": "travel-airplane-outline-6",
+    "name": "Airplane Outline",
+    "category": "travel",
+    "keywords": [
+      "airplane",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "airplane",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 907,
+    "views": 567
+  },
+  {
+    "id": "travel-airplane-bold-6",
+    "name": "Airplane Bold",
+    "category": "travel",
+    "keywords": [
+      "airplane",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "airplane",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 266,
+    "views": 1512
+  },
+  {
+    "id": "travel-airplane-bulk-6",
+    "name": "Airplane Bulk",
+    "category": "travel",
+    "keywords": [
+      "airplane",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "airplane",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 478,
+    "views": 1713
+  },
+  {
+    "id": "travel-airplane-linear-6",
+    "name": "Airplane Linear",
+    "category": "travel",
+    "keywords": [
+      "airplane",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "airplane",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 911,
+    "views": 2944
+  },
+  {
+    "id": "travel-helicopter-outline-7",
+    "name": "Helicopter Outline",
+    "category": "travel",
+    "keywords": [
+      "helicopter",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "helicopter",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 493,
+    "views": 847
+  },
+  {
+    "id": "travel-helicopter-bold-7",
+    "name": "Helicopter Bold",
+    "category": "travel",
+    "keywords": [
+      "helicopter",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "helicopter",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 275,
+    "views": 2239
+  },
+  {
+    "id": "travel-helicopter-bulk-7",
+    "name": "Helicopter Bulk",
+    "category": "travel",
+    "keywords": [
+      "helicopter",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "helicopter",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 376,
+    "views": 1036
+  },
+  {
+    "id": "travel-helicopter-linear-7",
+    "name": "Helicopter Linear",
+    "category": "travel",
+    "keywords": [
+      "helicopter",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "helicopter",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 531,
+    "views": 3272
+  },
+  {
+    "id": "travel-boat-outline-8",
+    "name": "Boat Outline",
+    "category": "travel",
+    "keywords": [
+      "boat",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "boat",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 860,
+    "views": 2758
+  },
+  {
+    "id": "travel-boat-bold-8",
+    "name": "Boat Bold",
+    "category": "travel",
+    "keywords": [
+      "boat",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "boat",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 137,
+    "views": 3328
+  },
+  {
+    "id": "travel-boat-bulk-8",
+    "name": "Boat Bulk",
+    "category": "travel",
+    "keywords": [
+      "boat",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "boat",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 226,
+    "views": 4379
+  },
+  {
+    "id": "travel-boat-linear-8",
+    "name": "Boat Linear",
+    "category": "travel",
+    "keywords": [
+      "boat",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "boat",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 414,
+    "views": 1956
+  },
+  {
+    "id": "travel-ship-outline-9",
+    "name": "Ship Outline",
+    "category": "travel",
+    "keywords": [
+      "ship",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "ship",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 239,
+    "views": 3376
+  },
+  {
+    "id": "travel-ship-bold-9",
+    "name": "Ship Bold",
+    "category": "travel",
+    "keywords": [
+      "ship",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "ship",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 984,
+    "views": 1055
+  },
+  {
+    "id": "travel-ship-bulk-9",
+    "name": "Ship Bulk",
+    "category": "travel",
+    "keywords": [
+      "ship",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "ship",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 13,
+    "views": 1090
+  },
+  {
+    "id": "travel-ship-linear-9",
+    "name": "Ship Linear",
+    "category": "travel",
+    "keywords": [
+      "ship",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "ship",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 392,
+    "views": 2780
+  },
+  {
+    "id": "travel-yacht-outline-10",
+    "name": "Yacht Outline",
+    "category": "travel",
+    "keywords": [
+      "yacht",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "yacht",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 455,
+    "views": 1482
+  },
+  {
+    "id": "travel-yacht-bold-10",
+    "name": "Yacht Bold",
+    "category": "travel",
+    "keywords": [
+      "yacht",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "yacht",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 934,
+    "views": 1391
+  },
+  {
+    "id": "travel-yacht-bulk-10",
+    "name": "Yacht Bulk",
+    "category": "travel",
+    "keywords": [
+      "yacht",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "yacht",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 287,
+    "views": 3353
+  },
+  {
+    "id": "travel-yacht-linear-10",
+    "name": "Yacht Linear",
+    "category": "travel",
+    "keywords": [
+      "yacht",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "yacht",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 782,
+    "views": 2415
+  },
+  {
+    "id": "travel-bicycle-outline-11",
+    "name": "Bicycle Outline",
+    "category": "travel",
+    "keywords": [
+      "bicycle",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"5.5\" cy=\"17.5\" r=\"3.5\"/><circle cx=\"18.5\" cy=\"17.5\" r=\"3.5\"/><path d=\"M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2z\"/><path d=\"M6 8h11l-1 7H9l-3-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bicycle",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 214,
+    "views": 2385
+  },
+  {
+    "id": "travel-bicycle-bold-11",
+    "name": "Bicycle Bold",
+    "category": "travel",
+    "keywords": [
+      "bicycle",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"5.5\" cy=\"17.5\" r=\"3.5\"/><circle cx=\"18.5\" cy=\"17.5\" r=\"3.5\"/><path d=\"M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2z\"/><path d=\"M6 8h11l-1 7H9l-3-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bicycle",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 472,
+    "views": 4512
+  },
+  {
+    "id": "travel-bicycle-bulk-11",
+    "name": "Bicycle Bulk",
+    "category": "travel",
+    "keywords": [
+      "bicycle",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"5.5\" cy=\"17.5\" r=\"3.5\"/><circle cx=\"18.5\" cy=\"17.5\" r=\"3.5\"/><path d=\"M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2z\"/><path d=\"M6 8h11l-1 7H9l-3-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bicycle",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 931,
+    "views": 2353
+  },
+  {
+    "id": "travel-bicycle-linear-11",
+    "name": "Bicycle Linear",
+    "category": "travel",
+    "keywords": [
+      "bicycle",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"5.5\" cy=\"17.5\" r=\"3.5\"/><circle cx=\"18.5\" cy=\"17.5\" r=\"3.5\"/><path d=\"M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2z\"/><path d=\"M6 8h11l-1 7H9l-3-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bicycle",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 851,
+    "views": 1164
+  },
+  {
+    "id": "travel-motorcycle-outline-12",
+    "name": "Motorcycle Outline",
+    "category": "travel",
+    "keywords": [
+      "motorcycle",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "motorcycle",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 766,
+    "views": 2690
+  },
+  {
+    "id": "travel-motorcycle-bold-12",
+    "name": "Motorcycle Bold",
+    "category": "travel",
+    "keywords": [
+      "motorcycle",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "motorcycle",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 324,
+    "views": 2277
+  },
+  {
+    "id": "travel-motorcycle-bulk-12",
+    "name": "Motorcycle Bulk",
+    "category": "travel",
+    "keywords": [
+      "motorcycle",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "motorcycle",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 497,
+    "views": 17
+  },
+  {
+    "id": "travel-motorcycle-linear-12",
+    "name": "Motorcycle Linear",
+    "category": "travel",
+    "keywords": [
+      "motorcycle",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "motorcycle",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 654,
+    "views": 1519
+  },
+  {
+    "id": "travel-scooter-outline-13",
+    "name": "Scooter Outline",
+    "category": "travel",
+    "keywords": [
+      "scooter",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "scooter",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 525,
+    "views": 3230
+  },
+  {
+    "id": "travel-scooter-bold-13",
+    "name": "Scooter Bold",
+    "category": "travel",
+    "keywords": [
+      "scooter",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "scooter",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 124,
+    "views": 759
+  },
+  {
+    "id": "travel-scooter-bulk-13",
+    "name": "Scooter Bulk",
+    "category": "travel",
+    "keywords": [
+      "scooter",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "scooter",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 198,
+    "views": 1493
+  },
+  {
+    "id": "travel-scooter-linear-13",
+    "name": "Scooter Linear",
+    "category": "travel",
+    "keywords": [
+      "scooter",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "scooter",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 671,
+    "views": 4782
+  },
+  {
+    "id": "travel-map-outline-14",
+    "name": "Map Outline",
+    "category": "travel",
+    "keywords": [
+      "map",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "map",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 224,
+    "views": 1112
+  },
+  {
+    "id": "travel-map-bold-14",
+    "name": "Map Bold",
+    "category": "travel",
+    "keywords": [
+      "map",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "map",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 207,
+    "views": 2613
+  },
+  {
+    "id": "travel-map-bulk-14",
+    "name": "Map Bulk",
+    "category": "travel",
+    "keywords": [
+      "map",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "map",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 515,
+    "views": 1177
+  },
+  {
+    "id": "travel-map-linear-14",
+    "name": "Map Linear",
+    "category": "travel",
+    "keywords": [
+      "map",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "map",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 409,
+    "views": 4438
+  },
+  {
+    "id": "travel-location-outline-15",
+    "name": "Location Outline",
+    "category": "travel",
+    "keywords": [
+      "location",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "location",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 801,
+    "views": 3245
+  },
+  {
+    "id": "travel-location-bold-15",
+    "name": "Location Bold",
+    "category": "travel",
+    "keywords": [
+      "location",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "location",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 849,
+    "views": 3156
+  },
+  {
+    "id": "travel-location-bulk-15",
+    "name": "Location Bulk",
+    "category": "travel",
+    "keywords": [
+      "location",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "location",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 836,
+    "views": 4065
+  },
+  {
+    "id": "travel-location-linear-15",
+    "name": "Location Linear",
+    "category": "travel",
+    "keywords": [
+      "location",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "location",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 389,
+    "views": 3579
+  },
+  {
+    "id": "travel-pin-outline-16",
+    "name": "Pin Outline",
+    "category": "travel",
+    "keywords": [
+      "pin",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "pin",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 244,
+    "views": 2180
+  },
+  {
+    "id": "travel-pin-bold-16",
+    "name": "Pin Bold",
+    "category": "travel",
+    "keywords": [
+      "pin",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "pin",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 311,
+    "views": 1618
+  },
+  {
+    "id": "travel-pin-bulk-16",
+    "name": "Pin Bulk",
+    "category": "travel",
+    "keywords": [
+      "pin",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "pin",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 682,
+    "views": 3967
+  },
+  {
+    "id": "travel-pin-linear-16",
+    "name": "Pin Linear",
+    "category": "travel",
+    "keywords": [
+      "pin",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "pin",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 245,
+    "views": 2121
+  },
+  {
+    "id": "travel-compass-outline-17",
+    "name": "Compass Outline",
+    "category": "travel",
+    "keywords": [
+      "compass",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "compass",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 501,
+    "views": 4128
+  },
+  {
+    "id": "travel-compass-bold-17",
+    "name": "Compass Bold",
+    "category": "travel",
+    "keywords": [
+      "compass",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "compass",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 616,
+    "views": 190
+  },
+  {
+    "id": "travel-compass-bulk-17",
+    "name": "Compass Bulk",
+    "category": "travel",
+    "keywords": [
+      "compass",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "compass",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 923,
+    "views": 4318
+  },
+  {
+    "id": "travel-compass-linear-17",
+    "name": "Compass Linear",
+    "category": "travel",
+    "keywords": [
+      "compass",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "compass",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 243,
+    "views": 3488
+  },
+  {
+    "id": "travel-navigation-outline-18",
+    "name": "Navigation Outline",
+    "category": "travel",
+    "keywords": [
+      "navigation",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "navigation",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 48,
+    "views": 1344
+  },
+  {
+    "id": "travel-navigation-bold-18",
+    "name": "Navigation Bold",
+    "category": "travel",
+    "keywords": [
+      "navigation",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "navigation",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 765,
+    "views": 2846
+  },
+  {
+    "id": "travel-navigation-bulk-18",
+    "name": "Navigation Bulk",
+    "category": "travel",
+    "keywords": [
+      "navigation",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "navigation",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 824,
+    "views": 401
+  },
+  {
+    "id": "travel-navigation-linear-18",
+    "name": "Navigation Linear",
+    "category": "travel",
+    "keywords": [
+      "navigation",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "navigation",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 857,
+    "views": 3704
+  },
+  {
+    "id": "travel-gps-outline-19",
+    "name": "Gps Outline",
+    "category": "travel",
+    "keywords": [
+      "gps",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "gps",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 316,
+    "views": 4673
+  },
+  {
+    "id": "travel-gps-bold-19",
+    "name": "Gps Bold",
+    "category": "travel",
+    "keywords": [
+      "gps",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "gps",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 890,
+    "views": 2135
+  },
+  {
+    "id": "travel-gps-bulk-19",
+    "name": "Gps Bulk",
+    "category": "travel",
+    "keywords": [
+      "gps",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "gps",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 152,
+    "views": 1109
+  },
+  {
+    "id": "travel-gps-linear-19",
+    "name": "Gps Linear",
+    "category": "travel",
+    "keywords": [
+      "gps",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "gps",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 990,
+    "views": 3137
+  },
+  {
+    "id": "travel-hotel-outline-20",
+    "name": "Hotel Outline",
+    "category": "travel",
+    "keywords": [
+      "hotel",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "hotel",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 90,
+    "views": 433
+  },
+  {
+    "id": "travel-hotel-bold-20",
+    "name": "Hotel Bold",
+    "category": "travel",
+    "keywords": [
+      "hotel",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "hotel",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 60,
+    "views": 3816
+  },
+  {
+    "id": "travel-hotel-bulk-20",
+    "name": "Hotel Bulk",
+    "category": "travel",
+    "keywords": [
+      "hotel",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "hotel",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 505,
+    "views": 830
+  },
+  {
+    "id": "travel-hotel-linear-20",
+    "name": "Hotel Linear",
+    "category": "travel",
+    "keywords": [
+      "hotel",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "hotel",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 786,
+    "views": 902
+  },
+  {
+    "id": "travel-restaurant-outline-21",
+    "name": "Restaurant Outline",
+    "category": "travel",
+    "keywords": [
+      "restaurant",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "restaurant",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 831,
+    "views": 4025
+  },
+  {
+    "id": "travel-restaurant-bold-21",
+    "name": "Restaurant Bold",
+    "category": "travel",
+    "keywords": [
+      "restaurant",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "restaurant",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 425,
+    "views": 3617
+  },
+  {
+    "id": "travel-restaurant-bulk-21",
+    "name": "Restaurant Bulk",
+    "category": "travel",
+    "keywords": [
+      "restaurant",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "restaurant",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 620,
+    "views": 1406
+  },
+  {
+    "id": "travel-restaurant-linear-21",
+    "name": "Restaurant Linear",
+    "category": "travel",
+    "keywords": [
+      "restaurant",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "restaurant",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 394,
+    "views": 2992
+  },
+  {
+    "id": "travel-cafe-outline-22",
+    "name": "Cafe Outline",
+    "category": "travel",
+    "keywords": [
+      "cafe",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "cafe",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 257,
+    "views": 2543
+  },
+  {
+    "id": "travel-cafe-bold-22",
+    "name": "Cafe Bold",
+    "category": "travel",
+    "keywords": [
+      "cafe",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "cafe",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 802,
+    "views": 238
+  },
+  {
+    "id": "travel-cafe-bulk-22",
+    "name": "Cafe Bulk",
+    "category": "travel",
+    "keywords": [
+      "cafe",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "cafe",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 251,
+    "views": 751
+  },
+  {
+    "id": "travel-cafe-linear-22",
+    "name": "Cafe Linear",
+    "category": "travel",
+    "keywords": [
+      "cafe",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "cafe",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 77,
+    "views": 866
+  },
+  {
+    "id": "travel-bar-outline-23",
+    "name": "Bar Outline",
+    "category": "travel",
+    "keywords": [
+      "bar",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bar",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 897,
+    "views": 1914
+  },
+  {
+    "id": "travel-bar-bold-23",
+    "name": "Bar Bold",
+    "category": "travel",
+    "keywords": [
+      "bar",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bar",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 975,
+    "views": 1431
+  },
+  {
+    "id": "travel-bar-bulk-23",
+    "name": "Bar Bulk",
+    "category": "travel",
+    "keywords": [
+      "bar",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bar",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 777,
+    "views": 4340
+  },
+  {
+    "id": "travel-bar-linear-23",
+    "name": "Bar Linear",
+    "category": "travel",
+    "keywords": [
+      "bar",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bar",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 407,
+    "views": 4611
+  },
+  {
+    "id": "travel-park-outline-24",
+    "name": "Park Outline",
+    "category": "travel",
+    "keywords": [
+      "park",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "park",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 48,
+    "views": 1712
+  },
+  {
+    "id": "travel-park-bold-24",
+    "name": "Park Bold",
+    "category": "travel",
+    "keywords": [
+      "park",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "park",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 993,
+    "views": 1330
+  },
+  {
+    "id": "travel-park-bulk-24",
+    "name": "Park Bulk",
+    "category": "travel",
+    "keywords": [
+      "park",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "park",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 760,
+    "views": 1696
+  },
+  {
+    "id": "travel-park-linear-24",
+    "name": "Park Linear",
+    "category": "travel",
+    "keywords": [
+      "park",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "park",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 674,
+    "views": 1096
+  },
+  {
+    "id": "travel-beach-outline-25",
+    "name": "Beach Outline",
+    "category": "travel",
+    "keywords": [
+      "beach",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "beach",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 740,
+    "views": 1444
+  },
+  {
+    "id": "travel-beach-bold-25",
+    "name": "Beach Bold",
+    "category": "travel",
+    "keywords": [
+      "beach",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "beach",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 524,
+    "views": 2984
+  },
+  {
+    "id": "travel-beach-bulk-25",
+    "name": "Beach Bulk",
+    "category": "travel",
+    "keywords": [
+      "beach",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "beach",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 886,
+    "views": 701
+  },
+  {
+    "id": "travel-beach-linear-25",
+    "name": "Beach Linear",
+    "category": "travel",
+    "keywords": [
+      "beach",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "beach",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 888,
+    "views": 2894
+  },
+  {
+    "id": "travel-mountain-outline-26",
+    "name": "Mountain Outline",
+    "category": "travel",
+    "keywords": [
+      "mountain",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "mountain",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 6,
+    "views": 2943
+  },
+  {
+    "id": "travel-mountain-bold-26",
+    "name": "Mountain Bold",
+    "category": "travel",
+    "keywords": [
+      "mountain",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "mountain",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 676,
+    "views": 2538
+  },
+  {
+    "id": "travel-mountain-bulk-26",
+    "name": "Mountain Bulk",
+    "category": "travel",
+    "keywords": [
+      "mountain",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "mountain",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 651,
+    "views": 2013
+  },
+  {
+    "id": "travel-mountain-linear-26",
+    "name": "Mountain Linear",
+    "category": "travel",
+    "keywords": [
+      "mountain",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "mountain",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 805,
+    "views": 649
+  },
+  {
+    "id": "travel-passport-outline-27",
+    "name": "Passport Outline",
+    "category": "travel",
+    "keywords": [
+      "passport",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "passport",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 737,
+    "views": 1700
+  },
+  {
+    "id": "travel-passport-bold-27",
+    "name": "Passport Bold",
+    "category": "travel",
+    "keywords": [
+      "passport",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "passport",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 407,
+    "views": 1278
+  },
+  {
+    "id": "travel-passport-bulk-27",
+    "name": "Passport Bulk",
+    "category": "travel",
+    "keywords": [
+      "passport",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "passport",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 785,
+    "views": 2217
+  },
+  {
+    "id": "travel-passport-linear-27",
+    "name": "Passport Linear",
+    "category": "travel",
+    "keywords": [
+      "passport",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "passport",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 261,
+    "views": 2242
+  },
+  {
+    "id": "travel-ticket-outline-28",
+    "name": "Ticket Outline",
+    "category": "travel",
+    "keywords": [
+      "ticket",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "ticket",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 148,
+    "views": 2394
+  },
+  {
+    "id": "travel-ticket-bold-28",
+    "name": "Ticket Bold",
+    "category": "travel",
+    "keywords": [
+      "ticket",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "ticket",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 236,
+    "views": 323
+  },
+  {
+    "id": "travel-ticket-bulk-28",
+    "name": "Ticket Bulk",
+    "category": "travel",
+    "keywords": [
+      "ticket",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "ticket",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 235,
+    "views": 326
+  },
+  {
+    "id": "travel-ticket-linear-28",
+    "name": "Ticket Linear",
+    "category": "travel",
+    "keywords": [
+      "ticket",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "ticket",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 800,
+    "views": 3532
+  },
+  {
+    "id": "travel-luggage-outline-29",
+    "name": "Luggage Outline",
+    "category": "travel",
+    "keywords": [
+      "luggage",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "luggage",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 187,
+    "views": 4485
+  },
+  {
+    "id": "travel-luggage-bold-29",
+    "name": "Luggage Bold",
+    "category": "travel",
+    "keywords": [
+      "luggage",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "luggage",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 735,
+    "views": 4447
+  },
+  {
+    "id": "travel-luggage-bulk-29",
+    "name": "Luggage Bulk",
+    "category": "travel",
+    "keywords": [
+      "luggage",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "luggage",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 671,
+    "views": 4843
+  },
+  {
+    "id": "travel-luggage-linear-29",
+    "name": "Luggage Linear",
+    "category": "travel",
+    "keywords": [
+      "luggage",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "luggage",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 941,
+    "views": 3130
+  },
+  {
+    "id": "travel-suitcase-outline-30",
+    "name": "Suitcase Outline",
+    "category": "travel",
+    "keywords": [
+      "suitcase",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "suitcase",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 138,
+    "views": 986
+  },
+  {
+    "id": "travel-suitcase-bold-30",
+    "name": "Suitcase Bold",
+    "category": "travel",
+    "keywords": [
+      "suitcase",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "suitcase",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 883,
+    "views": 4644
+  },
+  {
+    "id": "travel-suitcase-bulk-30",
+    "name": "Suitcase Bulk",
+    "category": "travel",
+    "keywords": [
+      "suitcase",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "suitcase",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 140,
+    "views": 4407
+  },
+  {
+    "id": "travel-suitcase-linear-30",
+    "name": "Suitcase Linear",
+    "category": "travel",
+    "keywords": [
+      "suitcase",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "suitcase",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 713,
+    "views": 749
+  },
+  {
+    "id": "travel-backpack-outline-31",
+    "name": "Backpack Outline",
+    "category": "travel",
+    "keywords": [
+      "backpack",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "backpack",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 750,
+    "views": 1695
+  },
+  {
+    "id": "travel-backpack-bold-31",
+    "name": "Backpack Bold",
+    "category": "travel",
+    "keywords": [
+      "backpack",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "backpack",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 845,
+    "views": 4402
+  },
+  {
+    "id": "travel-backpack-bulk-31",
+    "name": "Backpack Bulk",
+    "category": "travel",
+    "keywords": [
+      "backpack",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "backpack",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 487,
+    "views": 4469
+  },
+  {
+    "id": "travel-backpack-linear-31",
+    "name": "Backpack Linear",
+    "category": "travel",
+    "keywords": [
+      "backpack",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "backpack",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 102,
+    "views": 2328
+  },
+  {
+    "id": "travel-bag-outline-32",
+    "name": "Bag Outline",
+    "category": "travel",
+    "keywords": [
+      "bag",
+      "travel",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z\"/><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><path d=\"M16 10a4 4 0 0 1-8 0\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bag",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 210,
+    "views": 3865
+  },
+  {
+    "id": "travel-bag-bold-32",
+    "name": "Bag Bold",
+    "category": "travel",
+    "keywords": [
+      "bag",
+      "travel",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z\"/><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><path d=\"M16 10a4 4 0 0 1-8 0\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bag",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 703,
+    "views": 4557
+  },
+  {
+    "id": "travel-bag-bulk-32",
+    "name": "Bag Bulk",
+    "category": "travel",
+    "keywords": [
+      "bag",
+      "travel",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z\"/><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><path d=\"M16 10a4 4 0 0 1-8 0\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bag",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 500,
+    "views": 4416
+  },
+  {
+    "id": "travel-bag-linear-32",
+    "name": "Bag Linear",
+    "category": "travel",
+    "keywords": [
+      "bag",
+      "travel",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z\"/><line x1=\"3\" y1=\"6\" x2=\"21\" y2=\"6\"/><path d=\"M16 10a4 4 0 0 1-8 0\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "travel",
+      "bag",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 978,
+    "views": 3803
+  }
+]

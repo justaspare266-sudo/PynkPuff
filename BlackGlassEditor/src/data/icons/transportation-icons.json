@@ -1,0 +1,3722 @@
+[
+  {
+    "id": "transportation-car-outline-1",
+    "name": "Car Outline",
+    "category": "transportation",
+    "keywords": [
+      "car",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M7 17h.01M17 17h.01M7.5 15h9l-1-7H8.5l-1 7z\"/><path d=\"M2 8h20l-1 7H3l-1-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "car",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 226,
+    "views": 4575
+  },
+  {
+    "id": "transportation-car-bold-1",
+    "name": "Car Bold",
+    "category": "transportation",
+    "keywords": [
+      "car",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M7 17h.01M17 17h.01M7.5 15h9l-1-7H8.5l-1 7z\"/><path d=\"M2 8h20l-1 7H3l-1-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "car",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 620,
+    "views": 3203
+  },
+  {
+    "id": "transportation-car-bulk-1",
+    "name": "Car Bulk",
+    "category": "transportation",
+    "keywords": [
+      "car",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M7 17h.01M17 17h.01M7.5 15h9l-1-7H8.5l-1 7z\"/><path d=\"M2 8h20l-1 7H3l-1-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "car",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 38,
+    "views": 3380
+  },
+  {
+    "id": "transportation-car-linear-1",
+    "name": "Car Linear",
+    "category": "transportation",
+    "keywords": [
+      "car",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M7 17h.01M17 17h.01M7.5 15h9l-1-7H8.5l-1 7z\"/><path d=\"M2 8h20l-1 7H3l-1-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "car",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 993,
+    "views": 4685
+  },
+  {
+    "id": "transportation-truck-outline-2",
+    "name": "Truck Outline",
+    "category": "transportation",
+    "keywords": [
+      "truck",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "truck",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 355,
+    "views": 3141
+  },
+  {
+    "id": "transportation-truck-bold-2",
+    "name": "Truck Bold",
+    "category": "transportation",
+    "keywords": [
+      "truck",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "truck",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 574,
+    "views": 4012
+  },
+  {
+    "id": "transportation-truck-bulk-2",
+    "name": "Truck Bulk",
+    "category": "transportation",
+    "keywords": [
+      "truck",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "truck",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 850,
+    "views": 304
+  },
+  {
+    "id": "transportation-truck-linear-2",
+    "name": "Truck Linear",
+    "category": "transportation",
+    "keywords": [
+      "truck",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "truck",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 3,
+    "views": 1171
+  },
+  {
+    "id": "transportation-van-outline-3",
+    "name": "Van Outline",
+    "category": "transportation",
+    "keywords": [
+      "van",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "van",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 309,
+    "views": 1548
+  },
+  {
+    "id": "transportation-van-bold-3",
+    "name": "Van Bold",
+    "category": "transportation",
+    "keywords": [
+      "van",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "van",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 526,
+    "views": 2906
+  },
+  {
+    "id": "transportation-van-bulk-3",
+    "name": "Van Bulk",
+    "category": "transportation",
+    "keywords": [
+      "van",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "van",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 533,
+    "views": 4462
+  },
+  {
+    "id": "transportation-van-linear-3",
+    "name": "Van Linear",
+    "category": "transportation",
+    "keywords": [
+      "van",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "van",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 954,
+    "views": 4016
+  },
+  {
+    "id": "transportation-bus-outline-4",
+    "name": "Bus Outline",
+    "category": "transportation",
+    "keywords": [
+      "bus",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "bus",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 205,
+    "views": 3346
+  },
+  {
+    "id": "transportation-bus-bold-4",
+    "name": "Bus Bold",
+    "category": "transportation",
+    "keywords": [
+      "bus",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "bus",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 401,
+    "views": 3776
+  },
+  {
+    "id": "transportation-bus-bulk-4",
+    "name": "Bus Bulk",
+    "category": "transportation",
+    "keywords": [
+      "bus",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "bus",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 197,
+    "views": 2671
+  },
+  {
+    "id": "transportation-bus-linear-4",
+    "name": "Bus Linear",
+    "category": "transportation",
+    "keywords": [
+      "bus",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "bus",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 823,
+    "views": 1021
+  },
+  {
+    "id": "transportation-taxi-outline-5",
+    "name": "Taxi Outline",
+    "category": "transportation",
+    "keywords": [
+      "taxi",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "taxi",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 997,
+    "views": 2804
+  },
+  {
+    "id": "transportation-taxi-bold-5",
+    "name": "Taxi Bold",
+    "category": "transportation",
+    "keywords": [
+      "taxi",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "taxi",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 435,
+    "views": 2648
+  },
+  {
+    "id": "transportation-taxi-bulk-5",
+    "name": "Taxi Bulk",
+    "category": "transportation",
+    "keywords": [
+      "taxi",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "taxi",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 581,
+    "views": 3469
+  },
+  {
+    "id": "transportation-taxi-linear-5",
+    "name": "Taxi Linear",
+    "category": "transportation",
+    "keywords": [
+      "taxi",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "taxi",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 577,
+    "views": 435
+  },
+  {
+    "id": "transportation-uber-outline-6",
+    "name": "Uber Outline",
+    "category": "transportation",
+    "keywords": [
+      "uber",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "uber",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 309,
+    "views": 4505
+  },
+  {
+    "id": "transportation-uber-bold-6",
+    "name": "Uber Bold",
+    "category": "transportation",
+    "keywords": [
+      "uber",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "uber",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 334,
+    "views": 119
+  },
+  {
+    "id": "transportation-uber-bulk-6",
+    "name": "Uber Bulk",
+    "category": "transportation",
+    "keywords": [
+      "uber",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "uber",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 590,
+    "views": 3148
+  },
+  {
+    "id": "transportation-uber-linear-6",
+    "name": "Uber Linear",
+    "category": "transportation",
+    "keywords": [
+      "uber",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "uber",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 10,
+    "views": 4695
+  },
+  {
+    "id": "transportation-lyft-outline-7",
+    "name": "Lyft Outline",
+    "category": "transportation",
+    "keywords": [
+      "lyft",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "lyft",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 925,
+    "views": 129
+  },
+  {
+    "id": "transportation-lyft-bold-7",
+    "name": "Lyft Bold",
+    "category": "transportation",
+    "keywords": [
+      "lyft",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "lyft",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 186,
+    "views": 3148
+  },
+  {
+    "id": "transportation-lyft-bulk-7",
+    "name": "Lyft Bulk",
+    "category": "transportation",
+    "keywords": [
+      "lyft",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "lyft",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 274,
+    "views": 4282
+  },
+  {
+    "id": "transportation-lyft-linear-7",
+    "name": "Lyft Linear",
+    "category": "transportation",
+    "keywords": [
+      "lyft",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "lyft",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 255,
+    "views": 901
+  },
+  {
+    "id": "transportation-train-outline-8",
+    "name": "Train Outline",
+    "category": "transportation",
+    "keywords": [
+      "train",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "train",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 984,
+    "views": 3050
+  },
+  {
+    "id": "transportation-train-bold-8",
+    "name": "Train Bold",
+    "category": "transportation",
+    "keywords": [
+      "train",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "train",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 680,
+    "views": 3230
+  },
+  {
+    "id": "transportation-train-bulk-8",
+    "name": "Train Bulk",
+    "category": "transportation",
+    "keywords": [
+      "train",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "train",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 549,
+    "views": 4999
+  },
+  {
+    "id": "transportation-train-linear-8",
+    "name": "Train Linear",
+    "category": "transportation",
+    "keywords": [
+      "train",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "train",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 249,
+    "views": 2461
+  },
+  {
+    "id": "transportation-subway-outline-9",
+    "name": "Subway Outline",
+    "category": "transportation",
+    "keywords": [
+      "subway",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "subway",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 381,
+    "views": 2571
+  },
+  {
+    "id": "transportation-subway-bold-9",
+    "name": "Subway Bold",
+    "category": "transportation",
+    "keywords": [
+      "subway",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "subway",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 81,
+    "views": 2726
+  },
+  {
+    "id": "transportation-subway-bulk-9",
+    "name": "Subway Bulk",
+    "category": "transportation",
+    "keywords": [
+      "subway",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "subway",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 691,
+    "views": 2564
+  },
+  {
+    "id": "transportation-subway-linear-9",
+    "name": "Subway Linear",
+    "category": "transportation",
+    "keywords": [
+      "subway",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "subway",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 986,
+    "views": 4293
+  },
+  {
+    "id": "transportation-metro-outline-10",
+    "name": "Metro Outline",
+    "category": "transportation",
+    "keywords": [
+      "metro",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "metro",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 856,
+    "views": 102
+  },
+  {
+    "id": "transportation-metro-bold-10",
+    "name": "Metro Bold",
+    "category": "transportation",
+    "keywords": [
+      "metro",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "metro",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 591,
+    "views": 589
+  },
+  {
+    "id": "transportation-metro-bulk-10",
+    "name": "Metro Bulk",
+    "category": "transportation",
+    "keywords": [
+      "metro",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "metro",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 516,
+    "views": 4541
+  },
+  {
+    "id": "transportation-metro-linear-10",
+    "name": "Metro Linear",
+    "category": "transportation",
+    "keywords": [
+      "metro",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "metro",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 810,
+    "views": 3262
+  },
+  {
+    "id": "transportation-tram-outline-11",
+    "name": "Tram Outline",
+    "category": "transportation",
+    "keywords": [
+      "tram",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "tram",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 107,
+    "views": 597
+  },
+  {
+    "id": "transportation-tram-bold-11",
+    "name": "Tram Bold",
+    "category": "transportation",
+    "keywords": [
+      "tram",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "tram",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 103,
+    "views": 2334
+  },
+  {
+    "id": "transportation-tram-bulk-11",
+    "name": "Tram Bulk",
+    "category": "transportation",
+    "keywords": [
+      "tram",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "tram",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 394,
+    "views": 2335
+  },
+  {
+    "id": "transportation-tram-linear-11",
+    "name": "Tram Linear",
+    "category": "transportation",
+    "keywords": [
+      "tram",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "tram",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 687,
+    "views": 3599
+  },
+  {
+    "id": "transportation-trolley-outline-12",
+    "name": "Trolley Outline",
+    "category": "transportation",
+    "keywords": [
+      "trolley",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "trolley",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 199,
+    "views": 3330
+  },
+  {
+    "id": "transportation-trolley-bold-12",
+    "name": "Trolley Bold",
+    "category": "transportation",
+    "keywords": [
+      "trolley",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "trolley",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 978,
+    "views": 73
+  },
+  {
+    "id": "transportation-trolley-bulk-12",
+    "name": "Trolley Bulk",
+    "category": "transportation",
+    "keywords": [
+      "trolley",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "trolley",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 505,
+    "views": 4755
+  },
+  {
+    "id": "transportation-trolley-linear-12",
+    "name": "Trolley Linear",
+    "category": "transportation",
+    "keywords": [
+      "trolley",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "trolley",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 497,
+    "views": 3113
+  },
+  {
+    "id": "transportation-cable-car-outline-13",
+    "name": "Cable-car Outline",
+    "category": "transportation",
+    "keywords": [
+      "cable-car",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "cable-car",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 339,
+    "views": 855
+  },
+  {
+    "id": "transportation-cable-car-bold-13",
+    "name": "Cable-car Bold",
+    "category": "transportation",
+    "keywords": [
+      "cable-car",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "cable-car",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 999,
+    "views": 2713
+  },
+  {
+    "id": "transportation-cable-car-bulk-13",
+    "name": "Cable-car Bulk",
+    "category": "transportation",
+    "keywords": [
+      "cable-car",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "cable-car",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 22,
+    "views": 3289
+  },
+  {
+    "id": "transportation-cable-car-linear-13",
+    "name": "Cable-car Linear",
+    "category": "transportation",
+    "keywords": [
+      "cable-car",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "cable-car",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 828,
+    "views": 4127
+  },
+  {
+    "id": "transportation-plane-outline-14",
+    "name": "Plane Outline",
+    "category": "transportation",
+    "keywords": [
+      "plane",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M17.8 19.2 16 11l3.5-3.5C21 6 21 4.5 19.5 3 18 1.5 16.5 1.5 15 3L11.5 6.5 3.2 4.8a1.5 1.5 0 0 0-1.5 2.5l3.5 3.5L3 12l3.5 3.5-3.5 3.5 1.2 1.2 8.3-1.7 3.5 3.5c1.5 1.5 3 1.5 4.5 0s1.5-3 0-4.5L17.8 19.2z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "plane",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 547,
+    "views": 2901
+  },
+  {
+    "id": "transportation-plane-bold-14",
+    "name": "Plane Bold",
+    "category": "transportation",
+    "keywords": [
+      "plane",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M17.8 19.2 16 11l3.5-3.5C21 6 21 4.5 19.5 3 18 1.5 16.5 1.5 15 3L11.5 6.5 3.2 4.8a1.5 1.5 0 0 0-1.5 2.5l3.5 3.5L3 12l3.5 3.5-3.5 3.5 1.2 1.2 8.3-1.7 3.5 3.5c1.5 1.5 3 1.5 4.5 0s1.5-3 0-4.5L17.8 19.2z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "plane",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 405,
+    "views": 4850
+  },
+  {
+    "id": "transportation-plane-bulk-14",
+    "name": "Plane Bulk",
+    "category": "transportation",
+    "keywords": [
+      "plane",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M17.8 19.2 16 11l3.5-3.5C21 6 21 4.5 19.5 3 18 1.5 16.5 1.5 15 3L11.5 6.5 3.2 4.8a1.5 1.5 0 0 0-1.5 2.5l3.5 3.5L3 12l3.5 3.5-3.5 3.5 1.2 1.2 8.3-1.7 3.5 3.5c1.5 1.5 3 1.5 4.5 0s1.5-3 0-4.5L17.8 19.2z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "plane",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 368,
+    "views": 2696
+  },
+  {
+    "id": "transportation-plane-linear-14",
+    "name": "Plane Linear",
+    "category": "transportation",
+    "keywords": [
+      "plane",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M17.8 19.2 16 11l3.5-3.5C21 6 21 4.5 19.5 3 18 1.5 16.5 1.5 15 3L11.5 6.5 3.2 4.8a1.5 1.5 0 0 0-1.5 2.5l3.5 3.5L3 12l3.5 3.5-3.5 3.5 1.2 1.2 8.3-1.7 3.5 3.5c1.5 1.5 3 1.5 4.5 0s1.5-3 0-4.5L17.8 19.2z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "plane",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 519,
+    "views": 535
+  },
+  {
+    "id": "transportation-airplane-outline-15",
+    "name": "Airplane Outline",
+    "category": "transportation",
+    "keywords": [
+      "airplane",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "airplane",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 194,
+    "views": 4675
+  },
+  {
+    "id": "transportation-airplane-bold-15",
+    "name": "Airplane Bold",
+    "category": "transportation",
+    "keywords": [
+      "airplane",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "airplane",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 952,
+    "views": 4938
+  },
+  {
+    "id": "transportation-airplane-bulk-15",
+    "name": "Airplane Bulk",
+    "category": "transportation",
+    "keywords": [
+      "airplane",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "airplane",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 985,
+    "views": 3354
+  },
+  {
+    "id": "transportation-airplane-linear-15",
+    "name": "Airplane Linear",
+    "category": "transportation",
+    "keywords": [
+      "airplane",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "airplane",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 632,
+    "views": 3498
+  },
+  {
+    "id": "transportation-jet-outline-16",
+    "name": "Jet Outline",
+    "category": "transportation",
+    "keywords": [
+      "jet",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "jet",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 343,
+    "views": 4905
+  },
+  {
+    "id": "transportation-jet-bold-16",
+    "name": "Jet Bold",
+    "category": "transportation",
+    "keywords": [
+      "jet",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "jet",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 839,
+    "views": 231
+  },
+  {
+    "id": "transportation-jet-bulk-16",
+    "name": "Jet Bulk",
+    "category": "transportation",
+    "keywords": [
+      "jet",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "jet",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 561,
+    "views": 3459
+  },
+  {
+    "id": "transportation-jet-linear-16",
+    "name": "Jet Linear",
+    "category": "transportation",
+    "keywords": [
+      "jet",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "jet",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 638,
+    "views": 4024
+  },
+  {
+    "id": "transportation-helicopter-outline-17",
+    "name": "Helicopter Outline",
+    "category": "transportation",
+    "keywords": [
+      "helicopter",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "helicopter",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 74,
+    "views": 3459
+  },
+  {
+    "id": "transportation-helicopter-bold-17",
+    "name": "Helicopter Bold",
+    "category": "transportation",
+    "keywords": [
+      "helicopter",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "helicopter",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 63,
+    "views": 709
+  },
+  {
+    "id": "transportation-helicopter-bulk-17",
+    "name": "Helicopter Bulk",
+    "category": "transportation",
+    "keywords": [
+      "helicopter",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "helicopter",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 470,
+    "views": 2777
+  },
+  {
+    "id": "transportation-helicopter-linear-17",
+    "name": "Helicopter Linear",
+    "category": "transportation",
+    "keywords": [
+      "helicopter",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "helicopter",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 171,
+    "views": 4440
+  },
+  {
+    "id": "transportation-drone-outline-18",
+    "name": "Drone Outline",
+    "category": "transportation",
+    "keywords": [
+      "drone",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "drone",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 740,
+    "views": 882
+  },
+  {
+    "id": "transportation-drone-bold-18",
+    "name": "Drone Bold",
+    "category": "transportation",
+    "keywords": [
+      "drone",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "drone",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 490,
+    "views": 3686
+  },
+  {
+    "id": "transportation-drone-bulk-18",
+    "name": "Drone Bulk",
+    "category": "transportation",
+    "keywords": [
+      "drone",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "drone",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 17,
+    "views": 1710
+  },
+  {
+    "id": "transportation-drone-linear-18",
+    "name": "Drone Linear",
+    "category": "transportation",
+    "keywords": [
+      "drone",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "drone",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 961,
+    "views": 4912
+  },
+  {
+    "id": "transportation-rocket-outline-19",
+    "name": "Rocket Outline",
+    "category": "transportation",
+    "keywords": [
+      "rocket",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "rocket",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 582,
+    "views": 2498
+  },
+  {
+    "id": "transportation-rocket-bold-19",
+    "name": "Rocket Bold",
+    "category": "transportation",
+    "keywords": [
+      "rocket",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "rocket",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 28,
+    "views": 2847
+  },
+  {
+    "id": "transportation-rocket-bulk-19",
+    "name": "Rocket Bulk",
+    "category": "transportation",
+    "keywords": [
+      "rocket",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "rocket",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 276,
+    "views": 2370
+  },
+  {
+    "id": "transportation-rocket-linear-19",
+    "name": "Rocket Linear",
+    "category": "transportation",
+    "keywords": [
+      "rocket",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "rocket",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 894,
+    "views": 386
+  },
+  {
+    "id": "transportation-boat-outline-20",
+    "name": "Boat Outline",
+    "category": "transportation",
+    "keywords": [
+      "boat",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "boat",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 983,
+    "views": 1859
+  },
+  {
+    "id": "transportation-boat-bold-20",
+    "name": "Boat Bold",
+    "category": "transportation",
+    "keywords": [
+      "boat",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "boat",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 540,
+    "views": 614
+  },
+  {
+    "id": "transportation-boat-bulk-20",
+    "name": "Boat Bulk",
+    "category": "transportation",
+    "keywords": [
+      "boat",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "boat",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 267,
+    "views": 4395
+  },
+  {
+    "id": "transportation-boat-linear-20",
+    "name": "Boat Linear",
+    "category": "transportation",
+    "keywords": [
+      "boat",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "boat",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 665,
+    "views": 4880
+  },
+  {
+    "id": "transportation-ship-outline-21",
+    "name": "Ship Outline",
+    "category": "transportation",
+    "keywords": [
+      "ship",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "ship",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 996,
+    "views": 4569
+  },
+  {
+    "id": "transportation-ship-bold-21",
+    "name": "Ship Bold",
+    "category": "transportation",
+    "keywords": [
+      "ship",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "ship",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 984,
+    "views": 274
+  },
+  {
+    "id": "transportation-ship-bulk-21",
+    "name": "Ship Bulk",
+    "category": "transportation",
+    "keywords": [
+      "ship",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "ship",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 929,
+    "views": 3978
+  },
+  {
+    "id": "transportation-ship-linear-21",
+    "name": "Ship Linear",
+    "category": "transportation",
+    "keywords": [
+      "ship",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "ship",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 760,
+    "views": 4206
+  },
+  {
+    "id": "transportation-yacht-outline-22",
+    "name": "Yacht Outline",
+    "category": "transportation",
+    "keywords": [
+      "yacht",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "yacht",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 28,
+    "views": 542
+  },
+  {
+    "id": "transportation-yacht-bold-22",
+    "name": "Yacht Bold",
+    "category": "transportation",
+    "keywords": [
+      "yacht",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "yacht",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 363,
+    "views": 703
+  },
+  {
+    "id": "transportation-yacht-bulk-22",
+    "name": "Yacht Bulk",
+    "category": "transportation",
+    "keywords": [
+      "yacht",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "yacht",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 376,
+    "views": 4347
+  },
+  {
+    "id": "transportation-yacht-linear-22",
+    "name": "Yacht Linear",
+    "category": "transportation",
+    "keywords": [
+      "yacht",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "yacht",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 341,
+    "views": 897
+  },
+  {
+    "id": "transportation-sailboat-outline-23",
+    "name": "Sailboat Outline",
+    "category": "transportation",
+    "keywords": [
+      "sailboat",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "sailboat",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 753,
+    "views": 143
+  },
+  {
+    "id": "transportation-sailboat-bold-23",
+    "name": "Sailboat Bold",
+    "category": "transportation",
+    "keywords": [
+      "sailboat",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "sailboat",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 33,
+    "views": 1115
+  },
+  {
+    "id": "transportation-sailboat-bulk-23",
+    "name": "Sailboat Bulk",
+    "category": "transportation",
+    "keywords": [
+      "sailboat",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "sailboat",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 837,
+    "views": 301
+  },
+  {
+    "id": "transportation-sailboat-linear-23",
+    "name": "Sailboat Linear",
+    "category": "transportation",
+    "keywords": [
+      "sailboat",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "sailboat",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 728,
+    "views": 357
+  },
+  {
+    "id": "transportation-canoe-outline-24",
+    "name": "Canoe Outline",
+    "category": "transportation",
+    "keywords": [
+      "canoe",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "canoe",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 607,
+    "views": 644
+  },
+  {
+    "id": "transportation-canoe-bold-24",
+    "name": "Canoe Bold",
+    "category": "transportation",
+    "keywords": [
+      "canoe",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "canoe",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 261,
+    "views": 4205
+  },
+  {
+    "id": "transportation-canoe-bulk-24",
+    "name": "Canoe Bulk",
+    "category": "transportation",
+    "keywords": [
+      "canoe",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "canoe",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 360,
+    "views": 891
+  },
+  {
+    "id": "transportation-canoe-linear-24",
+    "name": "Canoe Linear",
+    "category": "transportation",
+    "keywords": [
+      "canoe",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "canoe",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 233,
+    "views": 1222
+  },
+  {
+    "id": "transportation-kayak-outline-25",
+    "name": "Kayak Outline",
+    "category": "transportation",
+    "keywords": [
+      "kayak",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "kayak",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 470,
+    "views": 3498
+  },
+  {
+    "id": "transportation-kayak-bold-25",
+    "name": "Kayak Bold",
+    "category": "transportation",
+    "keywords": [
+      "kayak",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "kayak",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 220,
+    "views": 885
+  },
+  {
+    "id": "transportation-kayak-bulk-25",
+    "name": "Kayak Bulk",
+    "category": "transportation",
+    "keywords": [
+      "kayak",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "kayak",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 463,
+    "views": 4536
+  },
+  {
+    "id": "transportation-kayak-linear-25",
+    "name": "Kayak Linear",
+    "category": "transportation",
+    "keywords": [
+      "kayak",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "kayak",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 713,
+    "views": 1162
+  },
+  {
+    "id": "transportation-bicycle-outline-26",
+    "name": "Bicycle Outline",
+    "category": "transportation",
+    "keywords": [
+      "bicycle",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"5.5\" cy=\"17.5\" r=\"3.5\"/><circle cx=\"18.5\" cy=\"17.5\" r=\"3.5\"/><path d=\"M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2z\"/><path d=\"M6 8h11l-1 7H9l-3-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "bicycle",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 186,
+    "views": 4542
+  },
+  {
+    "id": "transportation-bicycle-bold-26",
+    "name": "Bicycle Bold",
+    "category": "transportation",
+    "keywords": [
+      "bicycle",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"5.5\" cy=\"17.5\" r=\"3.5\"/><circle cx=\"18.5\" cy=\"17.5\" r=\"3.5\"/><path d=\"M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2z\"/><path d=\"M6 8h11l-1 7H9l-3-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "bicycle",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 78,
+    "views": 347
+  },
+  {
+    "id": "transportation-bicycle-bulk-26",
+    "name": "Bicycle Bulk",
+    "category": "transportation",
+    "keywords": [
+      "bicycle",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"5.5\" cy=\"17.5\" r=\"3.5\"/><circle cx=\"18.5\" cy=\"17.5\" r=\"3.5\"/><path d=\"M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2z\"/><path d=\"M6 8h11l-1 7H9l-3-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "bicycle",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 661,
+    "views": 3597
+  },
+  {
+    "id": "transportation-bicycle-linear-26",
+    "name": "Bicycle Linear",
+    "category": "transportation",
+    "keywords": [
+      "bicycle",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"5.5\" cy=\"17.5\" r=\"3.5\"/><circle cx=\"18.5\" cy=\"17.5\" r=\"3.5\"/><path d=\"M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2z\"/><path d=\"M6 8h11l-1 7H9l-3-7z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "bicycle",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 680,
+    "views": 1503
+  },
+  {
+    "id": "transportation-motorcycle-outline-27",
+    "name": "Motorcycle Outline",
+    "category": "transportation",
+    "keywords": [
+      "motorcycle",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "motorcycle",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 637,
+    "views": 219
+  },
+  {
+    "id": "transportation-motorcycle-bold-27",
+    "name": "Motorcycle Bold",
+    "category": "transportation",
+    "keywords": [
+      "motorcycle",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "motorcycle",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 954,
+    "views": 1892
+  },
+  {
+    "id": "transportation-motorcycle-bulk-27",
+    "name": "Motorcycle Bulk",
+    "category": "transportation",
+    "keywords": [
+      "motorcycle",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "motorcycle",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 103,
+    "views": 3794
+  },
+  {
+    "id": "transportation-motorcycle-linear-27",
+    "name": "Motorcycle Linear",
+    "category": "transportation",
+    "keywords": [
+      "motorcycle",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "motorcycle",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 621,
+    "views": 2040
+  },
+  {
+    "id": "transportation-scooter-outline-28",
+    "name": "Scooter Outline",
+    "category": "transportation",
+    "keywords": [
+      "scooter",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "scooter",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 719,
+    "views": 4835
+  },
+  {
+    "id": "transportation-scooter-bold-28",
+    "name": "Scooter Bold",
+    "category": "transportation",
+    "keywords": [
+      "scooter",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "scooter",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 520,
+    "views": 1869
+  },
+  {
+    "id": "transportation-scooter-bulk-28",
+    "name": "Scooter Bulk",
+    "category": "transportation",
+    "keywords": [
+      "scooter",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "scooter",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 244,
+    "views": 47
+  },
+  {
+    "id": "transportation-scooter-linear-28",
+    "name": "Scooter Linear",
+    "category": "transportation",
+    "keywords": [
+      "scooter",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "scooter",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 414,
+    "views": 3782
+  },
+  {
+    "id": "transportation-skateboard-outline-29",
+    "name": "Skateboard Outline",
+    "category": "transportation",
+    "keywords": [
+      "skateboard",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "skateboard",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 160,
+    "views": 3984
+  },
+  {
+    "id": "transportation-skateboard-bold-29",
+    "name": "Skateboard Bold",
+    "category": "transportation",
+    "keywords": [
+      "skateboard",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "skateboard",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 922,
+    "views": 1332
+  },
+  {
+    "id": "transportation-skateboard-bulk-29",
+    "name": "Skateboard Bulk",
+    "category": "transportation",
+    "keywords": [
+      "skateboard",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "skateboard",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 886,
+    "views": 2062
+  },
+  {
+    "id": "transportation-skateboard-linear-29",
+    "name": "Skateboard Linear",
+    "category": "transportation",
+    "keywords": [
+      "skateboard",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "skateboard",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 463,
+    "views": 3586
+  },
+  {
+    "id": "transportation-roller-skate-outline-30",
+    "name": "Roller-skate Outline",
+    "category": "transportation",
+    "keywords": [
+      "roller-skate",
+      "transportation",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "roller-skate",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 793,
+    "views": 2895
+  },
+  {
+    "id": "transportation-roller-skate-bold-30",
+    "name": "Roller-skate Bold",
+    "category": "transportation",
+    "keywords": [
+      "roller-skate",
+      "transportation",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "roller-skate",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 447,
+    "views": 414
+  },
+  {
+    "id": "transportation-roller-skate-bulk-30",
+    "name": "Roller-skate Bulk",
+    "category": "transportation",
+    "keywords": [
+      "roller-skate",
+      "transportation",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "roller-skate",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 928,
+    "views": 2780
+  },
+  {
+    "id": "transportation-roller-skate-linear-30",
+    "name": "Roller-skate Linear",
+    "category": "transportation",
+    "keywords": [
+      "roller-skate",
+      "transportation",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "transportation",
+      "roller-skate",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.582Z",
+    "updatedAt": "2025-09-30T10:32:23.582Z",
+    "downloads": 232,
+    "views": 4320
+  }
+]

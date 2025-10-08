@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LeftToolbar Test</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <style>
+        body { margin: 0; padding: 20px; font-family: Arial, sans-serif; }
+        .test-container { border: 2px solid #ccc; padding: 20px; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+    
+    <script type="text/babel">
+        // Simple LeftToolbar test
+        function LeftToolbarTest() {
+            const [selectedTool, setSelectedTool] = React.useState('select');
+            
+            const tools = [
+                { id: "select", name: "Select" },
+                { id: "text", name: "Text" },
+                { id: "pen", name: "Pen" },
+                { id: "bucket", name: "Paint Bucket" },
+                { id: "crop", name: "Crop" },
+                { id: "move", name: "Move" },
+                { id: "rotate", name: "Rotate" },
+                { id: "gradient", name: "Gradient" },
+                { id: "filter", name: "Filter" },
+                { id: "mask", name: "Mask" },
+                { id: "marquee", name: "Marquee" },
+            ];
+            
+            return (
+                <div className="test-container">
+                    <h2>LeftToolbar Test</h2>
+                    <div className="w-12 flex flex-col py-2 bg-black/80 backdrop-blur-md border-r border-white/10">
+                        {tools.map((tool) => (
+                            <button
+                                key={tool.id}
+                                className={`h-10 w-10 p-0 mx-1 mb-1 rounded-lg ${
+                                    selectedTool === tool.id 
+                                        ? 'bg-white/20 text-white' 
+                                        : 'text-white/70 hover:text-white hover:bg-white/10'
+                                }`}
+                                onClick={() => setSelectedTool(tool.id)}
+                                title={tool.name}
+                            >
+                                {tool.name.charAt(0)}
+                            </button>
+                        ))}
+                    </div>
+                    <p>Selected tool: {selectedTool}</p>
+                </div>
+            );
+        }
+        
+        ReactDOM.render(<LeftToolbarTest />, document.getElementById('root'));
+    </script>
+</body>
+</html>

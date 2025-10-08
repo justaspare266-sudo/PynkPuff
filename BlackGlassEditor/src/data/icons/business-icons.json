@@ -1,0 +1,4094 @@
+[
+  {
+    "id": "business-money-outline-1",
+    "name": "Money Outline",
+    "category": "business",
+    "keywords": [
+      "money",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><line x1=\"12\" y1=\"1\" x2=\"12\" y2=\"23\"/><path d=\"M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "money",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 528,
+    "views": 3518
+  },
+  {
+    "id": "business-money-bold-1",
+    "name": "Money Bold",
+    "category": "business",
+    "keywords": [
+      "money",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><line x1=\"12\" y1=\"1\" x2=\"12\" y2=\"23\"/><path d=\"M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "money",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 885,
+    "views": 429
+  },
+  {
+    "id": "business-money-bulk-1",
+    "name": "Money Bulk",
+    "category": "business",
+    "keywords": [
+      "money",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><line x1=\"12\" y1=\"1\" x2=\"12\" y2=\"23\"/><path d=\"M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "money",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 190,
+    "views": 3131
+  },
+  {
+    "id": "business-money-linear-1",
+    "name": "Money Linear",
+    "category": "business",
+    "keywords": [
+      "money",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><line x1=\"12\" y1=\"1\" x2=\"12\" y2=\"23\"/><path d=\"M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "money",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 498,
+    "views": 4620
+  },
+  {
+    "id": "business-dollar-outline-2",
+    "name": "Dollar Outline",
+    "category": "business",
+    "keywords": [
+      "dollar",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "dollar",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 311,
+    "views": 4103
+  },
+  {
+    "id": "business-dollar-bold-2",
+    "name": "Dollar Bold",
+    "category": "business",
+    "keywords": [
+      "dollar",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "dollar",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 853,
+    "views": 560
+  },
+  {
+    "id": "business-dollar-bulk-2",
+    "name": "Dollar Bulk",
+    "category": "business",
+    "keywords": [
+      "dollar",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "dollar",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 895,
+    "views": 2478
+  },
+  {
+    "id": "business-dollar-linear-2",
+    "name": "Dollar Linear",
+    "category": "business",
+    "keywords": [
+      "dollar",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "dollar",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 17,
+    "views": 2166
+  },
+  {
+    "id": "business-euro-outline-3",
+    "name": "Euro Outline",
+    "category": "business",
+    "keywords": [
+      "euro",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "euro",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 227,
+    "views": 13
+  },
+  {
+    "id": "business-euro-bold-3",
+    "name": "Euro Bold",
+    "category": "business",
+    "keywords": [
+      "euro",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "euro",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 214,
+    "views": 4352
+  },
+  {
+    "id": "business-euro-bulk-3",
+    "name": "Euro Bulk",
+    "category": "business",
+    "keywords": [
+      "euro",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "euro",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 565,
+    "views": 2359
+  },
+  {
+    "id": "business-euro-linear-3",
+    "name": "Euro Linear",
+    "category": "business",
+    "keywords": [
+      "euro",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "euro",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 680,
+    "views": 4779
+  },
+  {
+    "id": "business-pound-outline-4",
+    "name": "Pound Outline",
+    "category": "business",
+    "keywords": [
+      "pound",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "pound",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 771,
+    "views": 4870
+  },
+  {
+    "id": "business-pound-bold-4",
+    "name": "Pound Bold",
+    "category": "business",
+    "keywords": [
+      "pound",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "pound",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 215,
+    "views": 2942
+  },
+  {
+    "id": "business-pound-bulk-4",
+    "name": "Pound Bulk",
+    "category": "business",
+    "keywords": [
+      "pound",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "pound",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 638,
+    "views": 2808
+  },
+  {
+    "id": "business-pound-linear-4",
+    "name": "Pound Linear",
+    "category": "business",
+    "keywords": [
+      "pound",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "pound",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 744,
+    "views": 758
+  },
+  {
+    "id": "business-yen-outline-5",
+    "name": "Yen Outline",
+    "category": "business",
+    "keywords": [
+      "yen",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "yen",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 497,
+    "views": 274
+  },
+  {
+    "id": "business-yen-bold-5",
+    "name": "Yen Bold",
+    "category": "business",
+    "keywords": [
+      "yen",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "yen",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 648,
+    "views": 4145
+  },
+  {
+    "id": "business-yen-bulk-5",
+    "name": "Yen Bulk",
+    "category": "business",
+    "keywords": [
+      "yen",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "yen",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 237,
+    "views": 889
+  },
+  {
+    "id": "business-yen-linear-5",
+    "name": "Yen Linear",
+    "category": "business",
+    "keywords": [
+      "yen",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "yen",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 851,
+    "views": 4525
+  },
+  {
+    "id": "business-coin-outline-6",
+    "name": "Coin Outline",
+    "category": "business",
+    "keywords": [
+      "coin",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "coin",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 922,
+    "views": 2830
+  },
+  {
+    "id": "business-coin-bold-6",
+    "name": "Coin Bold",
+    "category": "business",
+    "keywords": [
+      "coin",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "coin",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 760,
+    "views": 2453
+  },
+  {
+    "id": "business-coin-bulk-6",
+    "name": "Coin Bulk",
+    "category": "business",
+    "keywords": [
+      "coin",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "coin",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 139,
+    "views": 3113
+  },
+  {
+    "id": "business-coin-linear-6",
+    "name": "Coin Linear",
+    "category": "business",
+    "keywords": [
+      "coin",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "coin",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 168,
+    "views": 1657
+  },
+  {
+    "id": "business-cash-outline-7",
+    "name": "Cash Outline",
+    "category": "business",
+    "keywords": [
+      "cash",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "cash",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 425,
+    "views": 3100
+  },
+  {
+    "id": "business-cash-bold-7",
+    "name": "Cash Bold",
+    "category": "business",
+    "keywords": [
+      "cash",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "cash",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 369,
+    "views": 2832
+  },
+  {
+    "id": "business-cash-bulk-7",
+    "name": "Cash Bulk",
+    "category": "business",
+    "keywords": [
+      "cash",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "cash",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 374,
+    "views": 4476
+  },
+  {
+    "id": "business-cash-linear-7",
+    "name": "Cash Linear",
+    "category": "business",
+    "keywords": [
+      "cash",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "cash",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 399,
+    "views": 586
+  },
+  {
+    "id": "business-credit-outline-8",
+    "name": "Credit Outline",
+    "category": "business",
+    "keywords": [
+      "credit",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "credit",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 24,
+    "views": 2791
+  },
+  {
+    "id": "business-credit-bold-8",
+    "name": "Credit Bold",
+    "category": "business",
+    "keywords": [
+      "credit",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "credit",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 545,
+    "views": 3498
+  },
+  {
+    "id": "business-credit-bulk-8",
+    "name": "Credit Bulk",
+    "category": "business",
+    "keywords": [
+      "credit",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "credit",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 298,
+    "views": 4624
+  },
+  {
+    "id": "business-credit-linear-8",
+    "name": "Credit Linear",
+    "category": "business",
+    "keywords": [
+      "credit",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "credit",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 76,
+    "views": 2476
+  },
+  {
+    "id": "business-bank-outline-9",
+    "name": "Bank Outline",
+    "category": "business",
+    "keywords": [
+      "bank",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "bank",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 722,
+    "views": 4875
+  },
+  {
+    "id": "business-bank-bold-9",
+    "name": "Bank Bold",
+    "category": "business",
+    "keywords": [
+      "bank",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "bank",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 46,
+    "views": 447
+  },
+  {
+    "id": "business-bank-bulk-9",
+    "name": "Bank Bulk",
+    "category": "business",
+    "keywords": [
+      "bank",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "bank",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 883,
+    "views": 284
+  },
+  {
+    "id": "business-bank-linear-9",
+    "name": "Bank Linear",
+    "category": "business",
+    "keywords": [
+      "bank",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "bank",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 111,
+    "views": 1702
+  },
+  {
+    "id": "business-atm-outline-10",
+    "name": "Atm Outline",
+    "category": "business",
+    "keywords": [
+      "atm",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "atm",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 296,
+    "views": 3398
+  },
+  {
+    "id": "business-atm-bold-10",
+    "name": "Atm Bold",
+    "category": "business",
+    "keywords": [
+      "atm",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "atm",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 569,
+    "views": 3839
+  },
+  {
+    "id": "business-atm-bulk-10",
+    "name": "Atm Bulk",
+    "category": "business",
+    "keywords": [
+      "atm",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "atm",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 76,
+    "views": 853
+  },
+  {
+    "id": "business-atm-linear-10",
+    "name": "Atm Linear",
+    "category": "business",
+    "keywords": [
+      "atm",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "atm",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 238,
+    "views": 3577
+  },
+  {
+    "id": "business-wallet-outline-11",
+    "name": "Wallet Outline",
+    "category": "business",
+    "keywords": [
+      "wallet",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "wallet",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 783,
+    "views": 231
+  },
+  {
+    "id": "business-wallet-bold-11",
+    "name": "Wallet Bold",
+    "category": "business",
+    "keywords": [
+      "wallet",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "wallet",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 268,
+    "views": 153
+  },
+  {
+    "id": "business-wallet-bulk-11",
+    "name": "Wallet Bulk",
+    "category": "business",
+    "keywords": [
+      "wallet",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "wallet",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 582,
+    "views": 1233
+  },
+  {
+    "id": "business-wallet-linear-11",
+    "name": "Wallet Linear",
+    "category": "business",
+    "keywords": [
+      "wallet",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "wallet",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 939,
+    "views": 2112
+  },
+  {
+    "id": "business-purse-outline-12",
+    "name": "Purse Outline",
+    "category": "business",
+    "keywords": [
+      "purse",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "purse",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 868,
+    "views": 2591
+  },
+  {
+    "id": "business-purse-bold-12",
+    "name": "Purse Bold",
+    "category": "business",
+    "keywords": [
+      "purse",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "purse",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 411,
+    "views": 427
+  },
+  {
+    "id": "business-purse-bulk-12",
+    "name": "Purse Bulk",
+    "category": "business",
+    "keywords": [
+      "purse",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "purse",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 518,
+    "views": 942
+  },
+  {
+    "id": "business-purse-linear-12",
+    "name": "Purse Linear",
+    "category": "business",
+    "keywords": [
+      "purse",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "purse",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 386,
+    "views": 1675
+  },
+  {
+    "id": "business-safe-outline-13",
+    "name": "Safe Outline",
+    "category": "business",
+    "keywords": [
+      "safe",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "safe",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 309,
+    "views": 3191
+  },
+  {
+    "id": "business-safe-bold-13",
+    "name": "Safe Bold",
+    "category": "business",
+    "keywords": [
+      "safe",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "safe",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 564,
+    "views": 699
+  },
+  {
+    "id": "business-safe-bulk-13",
+    "name": "Safe Bulk",
+    "category": "business",
+    "keywords": [
+      "safe",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "safe",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 500,
+    "views": 3738
+  },
+  {
+    "id": "business-safe-linear-13",
+    "name": "Safe Linear",
+    "category": "business",
+    "keywords": [
+      "safe",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "safe",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 790,
+    "views": 1762
+  },
+  {
+    "id": "business-vault-outline-14",
+    "name": "Vault Outline",
+    "category": "business",
+    "keywords": [
+      "vault",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "vault",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 528,
+    "views": 3555
+  },
+  {
+    "id": "business-vault-bold-14",
+    "name": "Vault Bold",
+    "category": "business",
+    "keywords": [
+      "vault",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "vault",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 856,
+    "views": 2107
+  },
+  {
+    "id": "business-vault-bulk-14",
+    "name": "Vault Bulk",
+    "category": "business",
+    "keywords": [
+      "vault",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "vault",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 260,
+    "views": 1800
+  },
+  {
+    "id": "business-vault-linear-14",
+    "name": "Vault Linear",
+    "category": "business",
+    "keywords": [
+      "vault",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "vault",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 585,
+    "views": 3586
+  },
+  {
+    "id": "business-treasure-outline-15",
+    "name": "Treasure Outline",
+    "category": "business",
+    "keywords": [
+      "treasure",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "treasure",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 872,
+    "views": 2506
+  },
+  {
+    "id": "business-treasure-bold-15",
+    "name": "Treasure Bold",
+    "category": "business",
+    "keywords": [
+      "treasure",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "treasure",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 81,
+    "views": 26
+  },
+  {
+    "id": "business-treasure-bulk-15",
+    "name": "Treasure Bulk",
+    "category": "business",
+    "keywords": [
+      "treasure",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "treasure",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 618,
+    "views": 3139
+  },
+  {
+    "id": "business-treasure-linear-15",
+    "name": "Treasure Linear",
+    "category": "business",
+    "keywords": [
+      "treasure",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "treasure",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 700,
+    "views": 4997
+  },
+  {
+    "id": "business-chart-outline-16",
+    "name": "Chart Outline",
+    "category": "business",
+    "keywords": [
+      "chart",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><line x1=\"18\" y1=\"20\" x2=\"18\" y2=\"10\"/><line x1=\"12\" y1=\"20\" x2=\"12\" y2=\"4\"/><line x1=\"6\" y1=\"20\" x2=\"6\" y2=\"14\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "chart",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 929,
+    "views": 3393
+  },
+  {
+    "id": "business-chart-bold-16",
+    "name": "Chart Bold",
+    "category": "business",
+    "keywords": [
+      "chart",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><line x1=\"18\" y1=\"20\" x2=\"18\" y2=\"10\"/><line x1=\"12\" y1=\"20\" x2=\"12\" y2=\"4\"/><line x1=\"6\" y1=\"20\" x2=\"6\" y2=\"14\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "chart",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 262,
+    "views": 3825
+  },
+  {
+    "id": "business-chart-bulk-16",
+    "name": "Chart Bulk",
+    "category": "business",
+    "keywords": [
+      "chart",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><line x1=\"18\" y1=\"20\" x2=\"18\" y2=\"10\"/><line x1=\"12\" y1=\"20\" x2=\"12\" y2=\"4\"/><line x1=\"6\" y1=\"20\" x2=\"6\" y2=\"14\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "chart",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 535,
+    "views": 1791
+  },
+  {
+    "id": "business-chart-linear-16",
+    "name": "Chart Linear",
+    "category": "business",
+    "keywords": [
+      "chart",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><line x1=\"18\" y1=\"20\" x2=\"18\" y2=\"10\"/><line x1=\"12\" y1=\"20\" x2=\"12\" y2=\"4\"/><line x1=\"6\" y1=\"20\" x2=\"6\" y2=\"14\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "chart",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 190,
+    "views": 728
+  },
+  {
+    "id": "business-graph-outline-17",
+    "name": "Graph Outline",
+    "category": "business",
+    "keywords": [
+      "graph",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "graph",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 538,
+    "views": 3588
+  },
+  {
+    "id": "business-graph-bold-17",
+    "name": "Graph Bold",
+    "category": "business",
+    "keywords": [
+      "graph",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "graph",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 273,
+    "views": 979
+  },
+  {
+    "id": "business-graph-bulk-17",
+    "name": "Graph Bulk",
+    "category": "business",
+    "keywords": [
+      "graph",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "graph",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 137,
+    "views": 201
+  },
+  {
+    "id": "business-graph-linear-17",
+    "name": "Graph Linear",
+    "category": "business",
+    "keywords": [
+      "graph",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "graph",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 562,
+    "views": 4869
+  },
+  {
+    "id": "business-analytics-outline-18",
+    "name": "Analytics Outline",
+    "category": "business",
+    "keywords": [
+      "analytics",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "analytics",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 796,
+    "views": 2105
+  },
+  {
+    "id": "business-analytics-bold-18",
+    "name": "Analytics Bold",
+    "category": "business",
+    "keywords": [
+      "analytics",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "analytics",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 220,
+    "views": 1612
+  },
+  {
+    "id": "business-analytics-bulk-18",
+    "name": "Analytics Bulk",
+    "category": "business",
+    "keywords": [
+      "analytics",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "analytics",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 19,
+    "views": 3204
+  },
+  {
+    "id": "business-analytics-linear-18",
+    "name": "Analytics Linear",
+    "category": "business",
+    "keywords": [
+      "analytics",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "analytics",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 743,
+    "views": 377
+  },
+  {
+    "id": "business-statistics-outline-19",
+    "name": "Statistics Outline",
+    "category": "business",
+    "keywords": [
+      "statistics",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "statistics",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 671,
+    "views": 2901
+  },
+  {
+    "id": "business-statistics-bold-19",
+    "name": "Statistics Bold",
+    "category": "business",
+    "keywords": [
+      "statistics",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "statistics",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 173,
+    "views": 3283
+  },
+  {
+    "id": "business-statistics-bulk-19",
+    "name": "Statistics Bulk",
+    "category": "business",
+    "keywords": [
+      "statistics",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "statistics",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 794,
+    "views": 932
+  },
+  {
+    "id": "business-statistics-linear-19",
+    "name": "Statistics Linear",
+    "category": "business",
+    "keywords": [
+      "statistics",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "statistics",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 69,
+    "views": 1883
+  },
+  {
+    "id": "business-data-outline-20",
+    "name": "Data Outline",
+    "category": "business",
+    "keywords": [
+      "data",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "data",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 320,
+    "views": 1242
+  },
+  {
+    "id": "business-data-bold-20",
+    "name": "Data Bold",
+    "category": "business",
+    "keywords": [
+      "data",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "data",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 766,
+    "views": 1165
+  },
+  {
+    "id": "business-data-bulk-20",
+    "name": "Data Bulk",
+    "category": "business",
+    "keywords": [
+      "data",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "data",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 297,
+    "views": 2662
+  },
+  {
+    "id": "business-data-linear-20",
+    "name": "Data Linear",
+    "category": "business",
+    "keywords": [
+      "data",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "data",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 717,
+    "views": 651
+  },
+  {
+    "id": "business-report-outline-21",
+    "name": "Report Outline",
+    "category": "business",
+    "keywords": [
+      "report",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "report",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 539,
+    "views": 4901
+  },
+  {
+    "id": "business-report-bold-21",
+    "name": "Report Bold",
+    "category": "business",
+    "keywords": [
+      "report",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "report",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 530,
+    "views": 3916
+  },
+  {
+    "id": "business-report-bulk-21",
+    "name": "Report Bulk",
+    "category": "business",
+    "keywords": [
+      "report",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "report",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 12,
+    "views": 2477
+  },
+  {
+    "id": "business-report-linear-21",
+    "name": "Report Linear",
+    "category": "business",
+    "keywords": [
+      "report",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "report",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 572,
+    "views": 1943
+  },
+  {
+    "id": "business-briefcase-outline-22",
+    "name": "Briefcase Outline",
+    "category": "business",
+    "keywords": [
+      "briefcase",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "briefcase",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 379,
+    "views": 1912
+  },
+  {
+    "id": "business-briefcase-bold-22",
+    "name": "Briefcase Bold",
+    "category": "business",
+    "keywords": [
+      "briefcase",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "briefcase",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 988,
+    "views": 619
+  },
+  {
+    "id": "business-briefcase-bulk-22",
+    "name": "Briefcase Bulk",
+    "category": "business",
+    "keywords": [
+      "briefcase",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "briefcase",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 622,
+    "views": 3044
+  },
+  {
+    "id": "business-briefcase-linear-22",
+    "name": "Briefcase Linear",
+    "category": "business",
+    "keywords": [
+      "briefcase",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "briefcase",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 449,
+    "views": 4180
+  },
+  {
+    "id": "business-folder-outline-23",
+    "name": "Folder Outline",
+    "category": "business",
+    "keywords": [
+      "folder",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "folder",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 605,
+    "views": 2147
+  },
+  {
+    "id": "business-folder-bold-23",
+    "name": "Folder Bold",
+    "category": "business",
+    "keywords": [
+      "folder",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "folder",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 583,
+    "views": 1229
+  },
+  {
+    "id": "business-folder-bulk-23",
+    "name": "Folder Bulk",
+    "category": "business",
+    "keywords": [
+      "folder",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "folder",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 861,
+    "views": 4577
+  },
+  {
+    "id": "business-folder-linear-23",
+    "name": "Folder Linear",
+    "category": "business",
+    "keywords": [
+      "folder",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "folder",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 503,
+    "views": 1094
+  },
+  {
+    "id": "business-file-outline-24",
+    "name": "File Outline",
+    "category": "business",
+    "keywords": [
+      "file",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "file",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 640,
+    "views": 4741
+  },
+  {
+    "id": "business-file-bold-24",
+    "name": "File Bold",
+    "category": "business",
+    "keywords": [
+      "file",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "file",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 413,
+    "views": 4840
+  },
+  {
+    "id": "business-file-bulk-24",
+    "name": "File Bulk",
+    "category": "business",
+    "keywords": [
+      "file",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "file",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 166,
+    "views": 1956
+  },
+  {
+    "id": "business-file-linear-24",
+    "name": "File Linear",
+    "category": "business",
+    "keywords": [
+      "file",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "file",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 461,
+    "views": 4083
+  },
+  {
+    "id": "business-document-outline-25",
+    "name": "Document Outline",
+    "category": "business",
+    "keywords": [
+      "document",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "document",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 381,
+    "views": 2165
+  },
+  {
+    "id": "business-document-bold-25",
+    "name": "Document Bold",
+    "category": "business",
+    "keywords": [
+      "document",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "document",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 320,
+    "views": 4602
+  },
+  {
+    "id": "business-document-bulk-25",
+    "name": "Document Bulk",
+    "category": "business",
+    "keywords": [
+      "document",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "document",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 497,
+    "views": 4184
+  },
+  {
+    "id": "business-document-linear-25",
+    "name": "Document Linear",
+    "category": "business",
+    "keywords": [
+      "document",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "document",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 3,
+    "views": 1900
+  },
+  {
+    "id": "business-contract-outline-26",
+    "name": "Contract Outline",
+    "category": "business",
+    "keywords": [
+      "contract",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "contract",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 665,
+    "views": 2885
+  },
+  {
+    "id": "business-contract-bold-26",
+    "name": "Contract Bold",
+    "category": "business",
+    "keywords": [
+      "contract",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "contract",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 95,
+    "views": 416
+  },
+  {
+    "id": "business-contract-bulk-26",
+    "name": "Contract Bulk",
+    "category": "business",
+    "keywords": [
+      "contract",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "contract",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 357,
+    "views": 4041
+  },
+  {
+    "id": "business-contract-linear-26",
+    "name": "Contract Linear",
+    "category": "business",
+    "keywords": [
+      "contract",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "contract",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 275,
+    "views": 145
+  },
+  {
+    "id": "business-agreement-outline-27",
+    "name": "Agreement Outline",
+    "category": "business",
+    "keywords": [
+      "agreement",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "agreement",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 869,
+    "views": 1197
+  },
+  {
+    "id": "business-agreement-bold-27",
+    "name": "Agreement Bold",
+    "category": "business",
+    "keywords": [
+      "agreement",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "agreement",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 846,
+    "views": 3422
+  },
+  {
+    "id": "business-agreement-bulk-27",
+    "name": "Agreement Bulk",
+    "category": "business",
+    "keywords": [
+      "agreement",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "agreement",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 688,
+    "views": 2150
+  },
+  {
+    "id": "business-agreement-linear-27",
+    "name": "Agreement Linear",
+    "category": "business",
+    "keywords": [
+      "agreement",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "agreement",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 319,
+    "views": 4046
+  },
+  {
+    "id": "business-meeting-outline-28",
+    "name": "Meeting Outline",
+    "category": "business",
+    "keywords": [
+      "meeting",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "meeting",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 656,
+    "views": 3619
+  },
+  {
+    "id": "business-meeting-bold-28",
+    "name": "Meeting Bold",
+    "category": "business",
+    "keywords": [
+      "meeting",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "meeting",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 424,
+    "views": 2360
+  },
+  {
+    "id": "business-meeting-bulk-28",
+    "name": "Meeting Bulk",
+    "category": "business",
+    "keywords": [
+      "meeting",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "meeting",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 646,
+    "views": 579
+  },
+  {
+    "id": "business-meeting-linear-28",
+    "name": "Meeting Linear",
+    "category": "business",
+    "keywords": [
+      "meeting",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "meeting",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 655,
+    "views": 3871
+  },
+  {
+    "id": "business-conference-outline-29",
+    "name": "Conference Outline",
+    "category": "business",
+    "keywords": [
+      "conference",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "conference",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 903,
+    "views": 1074
+  },
+  {
+    "id": "business-conference-bold-29",
+    "name": "Conference Bold",
+    "category": "business",
+    "keywords": [
+      "conference",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "conference",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 473,
+    "views": 351
+  },
+  {
+    "id": "business-conference-bulk-29",
+    "name": "Conference Bulk",
+    "category": "business",
+    "keywords": [
+      "conference",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "conference",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 969,
+    "views": 2723
+  },
+  {
+    "id": "business-conference-linear-29",
+    "name": "Conference Linear",
+    "category": "business",
+    "keywords": [
+      "conference",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "conference",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 766,
+    "views": 4431
+  },
+  {
+    "id": "business-presentation-outline-30",
+    "name": "Presentation Outline",
+    "category": "business",
+    "keywords": [
+      "presentation",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "presentation",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 172,
+    "views": 4219
+  },
+  {
+    "id": "business-presentation-bold-30",
+    "name": "Presentation Bold",
+    "category": "business",
+    "keywords": [
+      "presentation",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "presentation",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 281,
+    "views": 2234
+  },
+  {
+    "id": "business-presentation-bulk-30",
+    "name": "Presentation Bulk",
+    "category": "business",
+    "keywords": [
+      "presentation",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "presentation",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 408,
+    "views": 1338
+  },
+  {
+    "id": "business-presentation-linear-30",
+    "name": "Presentation Linear",
+    "category": "business",
+    "keywords": [
+      "presentation",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "presentation",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 827,
+    "views": 103
+  },
+  {
+    "id": "business-office-outline-31",
+    "name": "Office Outline",
+    "category": "business",
+    "keywords": [
+      "office",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "office",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 801,
+    "views": 417
+  },
+  {
+    "id": "business-office-bold-31",
+    "name": "Office Bold",
+    "category": "business",
+    "keywords": [
+      "office",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "office",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 458,
+    "views": 4941
+  },
+  {
+    "id": "business-office-bulk-31",
+    "name": "Office Bulk",
+    "category": "business",
+    "keywords": [
+      "office",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "office",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 905,
+    "views": 2302
+  },
+  {
+    "id": "business-office-linear-31",
+    "name": "Office Linear",
+    "category": "business",
+    "keywords": [
+      "office",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "office",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 847,
+    "views": 306
+  },
+  {
+    "id": "business-desk-outline-32",
+    "name": "Desk Outline",
+    "category": "business",
+    "keywords": [
+      "desk",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "desk",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 470,
+    "views": 1860
+  },
+  {
+    "id": "business-desk-bold-32",
+    "name": "Desk Bold",
+    "category": "business",
+    "keywords": [
+      "desk",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "desk",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 778,
+    "views": 2647
+  },
+  {
+    "id": "business-desk-bulk-32",
+    "name": "Desk Bulk",
+    "category": "business",
+    "keywords": [
+      "desk",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "desk",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 653,
+    "views": 1450
+  },
+  {
+    "id": "business-desk-linear-32",
+    "name": "Desk Linear",
+    "category": "business",
+    "keywords": [
+      "desk",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "desk",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 208,
+    "views": 1630
+  },
+  {
+    "id": "business-chair-outline-33",
+    "name": "Chair Outline",
+    "category": "business",
+    "keywords": [
+      "chair",
+      "business",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "chair",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 544,
+    "views": 3079
+  },
+  {
+    "id": "business-chair-bold-33",
+    "name": "Chair Bold",
+    "category": "business",
+    "keywords": [
+      "chair",
+      "business",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "chair",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 309,
+    "views": 1272
+  },
+  {
+    "id": "business-chair-bulk-33",
+    "name": "Chair Bulk",
+    "category": "business",
+    "keywords": [
+      "chair",
+      "business",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "chair",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 535,
+    "views": 2971
+  },
+  {
+    "id": "business-chair-linear-33",
+    "name": "Chair Linear",
+    "category": "business",
+    "keywords": [
+      "chair",
+      "business",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "business",
+      "chair",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 894,
+    "views": 4730
+  }
+]

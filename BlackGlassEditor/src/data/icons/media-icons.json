@@ -1,0 +1,4218 @@
+[
+  {
+    "id": "media-play-outline-1",
+    "name": "Play Outline",
+    "category": "media",
+    "keywords": [
+      "play",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><polygon points=\"5,3 19,12 5,21 5,3\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "play",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 466,
+    "views": 4529
+  },
+  {
+    "id": "media-play-bold-1",
+    "name": "Play Bold",
+    "category": "media",
+    "keywords": [
+      "play",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><polygon points=\"5,3 19,12 5,21 5,3\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "play",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 135,
+    "views": 4979
+  },
+  {
+    "id": "media-play-bulk-1",
+    "name": "Play Bulk",
+    "category": "media",
+    "keywords": [
+      "play",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><polygon points=\"5,3 19,12 5,21 5,3\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "play",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 196,
+    "views": 380
+  },
+  {
+    "id": "media-play-linear-1",
+    "name": "Play Linear",
+    "category": "media",
+    "keywords": [
+      "play",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><polygon points=\"5,3 19,12 5,21 5,3\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "play",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 588,
+    "views": 3232
+  },
+  {
+    "id": "media-pause-outline-2",
+    "name": "Pause Outline",
+    "category": "media",
+    "keywords": [
+      "pause",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "pause",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 997,
+    "views": 1611
+  },
+  {
+    "id": "media-pause-bold-2",
+    "name": "Pause Bold",
+    "category": "media",
+    "keywords": [
+      "pause",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "pause",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 49,
+    "views": 3448
+  },
+  {
+    "id": "media-pause-bulk-2",
+    "name": "Pause Bulk",
+    "category": "media",
+    "keywords": [
+      "pause",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "pause",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 550,
+    "views": 2899
+  },
+  {
+    "id": "media-pause-linear-2",
+    "name": "Pause Linear",
+    "category": "media",
+    "keywords": [
+      "pause",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "pause",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 13,
+    "views": 109
+  },
+  {
+    "id": "media-stop-outline-3",
+    "name": "Stop Outline",
+    "category": "media",
+    "keywords": [
+      "stop",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "stop",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 840,
+    "views": 2548
+  },
+  {
+    "id": "media-stop-bold-3",
+    "name": "Stop Bold",
+    "category": "media",
+    "keywords": [
+      "stop",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "stop",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 211,
+    "views": 73
+  },
+  {
+    "id": "media-stop-bulk-3",
+    "name": "Stop Bulk",
+    "category": "media",
+    "keywords": [
+      "stop",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "stop",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 403,
+    "views": 646
+  },
+  {
+    "id": "media-stop-linear-3",
+    "name": "Stop Linear",
+    "category": "media",
+    "keywords": [
+      "stop",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "stop",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 361,
+    "views": 3543
+  },
+  {
+    "id": "media-record-outline-4",
+    "name": "Record Outline",
+    "category": "media",
+    "keywords": [
+      "record",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "record",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 878,
+    "views": 576
+  },
+  {
+    "id": "media-record-bold-4",
+    "name": "Record Bold",
+    "category": "media",
+    "keywords": [
+      "record",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "record",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 537,
+    "views": 4069
+  },
+  {
+    "id": "media-record-bulk-4",
+    "name": "Record Bulk",
+    "category": "media",
+    "keywords": [
+      "record",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "record",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 150,
+    "views": 3736
+  },
+  {
+    "id": "media-record-linear-4",
+    "name": "Record Linear",
+    "category": "media",
+    "keywords": [
+      "record",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "record",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 573,
+    "views": 3616
+  },
+  {
+    "id": "media-rewind-outline-5",
+    "name": "Rewind Outline",
+    "category": "media",
+    "keywords": [
+      "rewind",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "rewind",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 728,
+    "views": 4065
+  },
+  {
+    "id": "media-rewind-bold-5",
+    "name": "Rewind Bold",
+    "category": "media",
+    "keywords": [
+      "rewind",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "rewind",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 873,
+    "views": 2221
+  },
+  {
+    "id": "media-rewind-bulk-5",
+    "name": "Rewind Bulk",
+    "category": "media",
+    "keywords": [
+      "rewind",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "rewind",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 832,
+    "views": 501
+  },
+  {
+    "id": "media-rewind-linear-5",
+    "name": "Rewind Linear",
+    "category": "media",
+    "keywords": [
+      "rewind",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "rewind",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 756,
+    "views": 3469
+  },
+  {
+    "id": "media-fast-forward-outline-6",
+    "name": "Fast-forward Outline",
+    "category": "media",
+    "keywords": [
+      "fast-forward",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "fast-forward",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 70,
+    "views": 2298
+  },
+  {
+    "id": "media-fast-forward-bold-6",
+    "name": "Fast-forward Bold",
+    "category": "media",
+    "keywords": [
+      "fast-forward",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "fast-forward",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 396,
+    "views": 1070
+  },
+  {
+    "id": "media-fast-forward-bulk-6",
+    "name": "Fast-forward Bulk",
+    "category": "media",
+    "keywords": [
+      "fast-forward",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "fast-forward",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 23,
+    "views": 1295
+  },
+  {
+    "id": "media-fast-forward-linear-6",
+    "name": "Fast-forward Linear",
+    "category": "media",
+    "keywords": [
+      "fast-forward",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "fast-forward",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 802,
+    "views": 3912
+  },
+  {
+    "id": "media-skip-outline-7",
+    "name": "Skip Outline",
+    "category": "media",
+    "keywords": [
+      "skip",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "skip",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 787,
+    "views": 4794
+  },
+  {
+    "id": "media-skip-bold-7",
+    "name": "Skip Bold",
+    "category": "media",
+    "keywords": [
+      "skip",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "skip",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 796,
+    "views": 3400
+  },
+  {
+    "id": "media-skip-bulk-7",
+    "name": "Skip Bulk",
+    "category": "media",
+    "keywords": [
+      "skip",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "skip",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 672,
+    "views": 2772
+  },
+  {
+    "id": "media-skip-linear-7",
+    "name": "Skip Linear",
+    "category": "media",
+    "keywords": [
+      "skip",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "skip",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 757,
+    "views": 4333
+  },
+  {
+    "id": "media-camera-outline-8",
+    "name": "Camera Outline",
+    "category": "media",
+    "keywords": [
+      "camera",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "camera",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 227,
+    "views": 4489
+  },
+  {
+    "id": "media-camera-bold-8",
+    "name": "Camera Bold",
+    "category": "media",
+    "keywords": [
+      "camera",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "camera",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 593,
+    "views": 725
+  },
+  {
+    "id": "media-camera-bulk-8",
+    "name": "Camera Bulk",
+    "category": "media",
+    "keywords": [
+      "camera",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "camera",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 705,
+    "views": 4727
+  },
+  {
+    "id": "media-camera-linear-8",
+    "name": "Camera Linear",
+    "category": "media",
+    "keywords": [
+      "camera",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z\"/><circle cx=\"12\" cy=\"13\" r=\"4\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "camera",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 496,
+    "views": 3096
+  },
+  {
+    "id": "media-photo-outline-9",
+    "name": "Photo Outline",
+    "category": "media",
+    "keywords": [
+      "photo",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "photo",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 798,
+    "views": 3742
+  },
+  {
+    "id": "media-photo-bold-9",
+    "name": "Photo Bold",
+    "category": "media",
+    "keywords": [
+      "photo",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "photo",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 199,
+    "views": 1681
+  },
+  {
+    "id": "media-photo-bulk-9",
+    "name": "Photo Bulk",
+    "category": "media",
+    "keywords": [
+      "photo",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "photo",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 700,
+    "views": 1423
+  },
+  {
+    "id": "media-photo-linear-9",
+    "name": "Photo Linear",
+    "category": "media",
+    "keywords": [
+      "photo",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "photo",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 910,
+    "views": 134
+  },
+  {
+    "id": "media-picture-outline-10",
+    "name": "Picture Outline",
+    "category": "media",
+    "keywords": [
+      "picture",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "picture",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 78,
+    "views": 1607
+  },
+  {
+    "id": "media-picture-bold-10",
+    "name": "Picture Bold",
+    "category": "media",
+    "keywords": [
+      "picture",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "picture",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 559,
+    "views": 2455
+  },
+  {
+    "id": "media-picture-bulk-10",
+    "name": "Picture Bulk",
+    "category": "media",
+    "keywords": [
+      "picture",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "picture",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 224,
+    "views": 3099
+  },
+  {
+    "id": "media-picture-linear-10",
+    "name": "Picture Linear",
+    "category": "media",
+    "keywords": [
+      "picture",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "picture",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 938,
+    "views": 2130
+  },
+  {
+    "id": "media-image-outline-11",
+    "name": "Image Outline",
+    "category": "media",
+    "keywords": [
+      "image",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "image",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 354,
+    "views": 3080
+  },
+  {
+    "id": "media-image-bold-11",
+    "name": "Image Bold",
+    "category": "media",
+    "keywords": [
+      "image",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "image",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 46,
+    "views": 4319
+  },
+  {
+    "id": "media-image-bulk-11",
+    "name": "Image Bulk",
+    "category": "media",
+    "keywords": [
+      "image",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "image",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 671,
+    "views": 2492
+  },
+  {
+    "id": "media-image-linear-11",
+    "name": "Image Linear",
+    "category": "media",
+    "keywords": [
+      "image",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "image",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 93,
+    "views": 1778
+  },
+  {
+    "id": "media-video-outline-12",
+    "name": "Video Outline",
+    "category": "media",
+    "keywords": [
+      "video",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "video",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 501,
+    "views": 1364
+  },
+  {
+    "id": "media-video-bold-12",
+    "name": "Video Bold",
+    "category": "media",
+    "keywords": [
+      "video",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "video",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 631,
+    "views": 4114
+  },
+  {
+    "id": "media-video-bulk-12",
+    "name": "Video Bulk",
+    "category": "media",
+    "keywords": [
+      "video",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "video",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 716,
+    "views": 3809
+  },
+  {
+    "id": "media-video-linear-12",
+    "name": "Video Linear",
+    "category": "media",
+    "keywords": [
+      "video",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "video",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 893,
+    "views": 2289
+  },
+  {
+    "id": "media-movie-outline-13",
+    "name": "Movie Outline",
+    "category": "media",
+    "keywords": [
+      "movie",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "movie",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 902,
+    "views": 1054
+  },
+  {
+    "id": "media-movie-bold-13",
+    "name": "Movie Bold",
+    "category": "media",
+    "keywords": [
+      "movie",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "movie",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 560,
+    "views": 2495
+  },
+  {
+    "id": "media-movie-bulk-13",
+    "name": "Movie Bulk",
+    "category": "media",
+    "keywords": [
+      "movie",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "movie",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 25,
+    "views": 3150
+  },
+  {
+    "id": "media-movie-linear-13",
+    "name": "Movie Linear",
+    "category": "media",
+    "keywords": [
+      "movie",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "movie",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 577,
+    "views": 2862
+  },
+  {
+    "id": "media-film-outline-14",
+    "name": "Film Outline",
+    "category": "media",
+    "keywords": [
+      "film",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "film",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 725,
+    "views": 734
+  },
+  {
+    "id": "media-film-bold-14",
+    "name": "Film Bold",
+    "category": "media",
+    "keywords": [
+      "film",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "film",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 332,
+    "views": 4080
+  },
+  {
+    "id": "media-film-bulk-14",
+    "name": "Film Bulk",
+    "category": "media",
+    "keywords": [
+      "film",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "film",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 942,
+    "views": 547
+  },
+  {
+    "id": "media-film-linear-14",
+    "name": "Film Linear",
+    "category": "media",
+    "keywords": [
+      "film",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "film",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 202,
+    "views": 2250
+  },
+  {
+    "id": "media-music-outline-15",
+    "name": "Music Outline",
+    "category": "media",
+    "keywords": [
+      "music",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M9 18V5l12-2v13\"/><circle cx=\"6\" cy=\"18\" r=\"3\"/><circle cx=\"18\" cy=\"16\" r=\"3\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "music",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 989,
+    "views": 4296
+  },
+  {
+    "id": "media-music-bold-15",
+    "name": "Music Bold",
+    "category": "media",
+    "keywords": [
+      "music",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M9 18V5l12-2v13\"/><circle cx=\"6\" cy=\"18\" r=\"3\"/><circle cx=\"18\" cy=\"16\" r=\"3\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "music",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 582,
+    "views": 2800
+  },
+  {
+    "id": "media-music-bulk-15",
+    "name": "Music Bulk",
+    "category": "media",
+    "keywords": [
+      "music",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M9 18V5l12-2v13\"/><circle cx=\"6\" cy=\"18\" r=\"3\"/><circle cx=\"18\" cy=\"16\" r=\"3\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "music",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 318,
+    "views": 4926
+  },
+  {
+    "id": "media-music-linear-15",
+    "name": "Music Linear",
+    "category": "media",
+    "keywords": [
+      "music",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M9 18V5l12-2v13\"/><circle cx=\"6\" cy=\"18\" r=\"3\"/><circle cx=\"18\" cy=\"16\" r=\"3\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "music",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 916,
+    "views": 889
+  },
+  {
+    "id": "media-song-outline-16",
+    "name": "Song Outline",
+    "category": "media",
+    "keywords": [
+      "song",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "song",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 588,
+    "views": 3779
+  },
+  {
+    "id": "media-song-bold-16",
+    "name": "Song Bold",
+    "category": "media",
+    "keywords": [
+      "song",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "song",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 819,
+    "views": 191
+  },
+  {
+    "id": "media-song-bulk-16",
+    "name": "Song Bulk",
+    "category": "media",
+    "keywords": [
+      "song",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "song",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 869,
+    "views": 2191
+  },
+  {
+    "id": "media-song-linear-16",
+    "name": "Song Linear",
+    "category": "media",
+    "keywords": [
+      "song",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "song",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 392,
+    "views": 3502
+  },
+  {
+    "id": "media-sound-outline-17",
+    "name": "Sound Outline",
+    "category": "media",
+    "keywords": [
+      "sound",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "sound",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 387,
+    "views": 4448
+  },
+  {
+    "id": "media-sound-bold-17",
+    "name": "Sound Bold",
+    "category": "media",
+    "keywords": [
+      "sound",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "sound",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 158,
+    "views": 698
+  },
+  {
+    "id": "media-sound-bulk-17",
+    "name": "Sound Bulk",
+    "category": "media",
+    "keywords": [
+      "sound",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "sound",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 607,
+    "views": 922
+  },
+  {
+    "id": "media-sound-linear-17",
+    "name": "Sound Linear",
+    "category": "media",
+    "keywords": [
+      "sound",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "sound",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 405,
+    "views": 3075
+  },
+  {
+    "id": "media-audio-outline-18",
+    "name": "Audio Outline",
+    "category": "media",
+    "keywords": [
+      "audio",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "audio",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 240,
+    "views": 1532
+  },
+  {
+    "id": "media-audio-bold-18",
+    "name": "Audio Bold",
+    "category": "media",
+    "keywords": [
+      "audio",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "audio",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 986,
+    "views": 4192
+  },
+  {
+    "id": "media-audio-bulk-18",
+    "name": "Audio Bulk",
+    "category": "media",
+    "keywords": [
+      "audio",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "audio",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 676,
+    "views": 1436
+  },
+  {
+    "id": "media-audio-linear-18",
+    "name": "Audio Linear",
+    "category": "media",
+    "keywords": [
+      "audio",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "audio",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 373,
+    "views": 3427
+  },
+  {
+    "id": "media-speaker-outline-19",
+    "name": "Speaker Outline",
+    "category": "media",
+    "keywords": [
+      "speaker",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "speaker",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 923,
+    "views": 1704
+  },
+  {
+    "id": "media-speaker-bold-19",
+    "name": "Speaker Bold",
+    "category": "media",
+    "keywords": [
+      "speaker",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "speaker",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 919,
+    "views": 4062
+  },
+  {
+    "id": "media-speaker-bulk-19",
+    "name": "Speaker Bulk",
+    "category": "media",
+    "keywords": [
+      "speaker",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "speaker",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 922,
+    "views": 3802
+  },
+  {
+    "id": "media-speaker-linear-19",
+    "name": "Speaker Linear",
+    "category": "media",
+    "keywords": [
+      "speaker",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "speaker",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 839,
+    "views": 2991
+  },
+  {
+    "id": "media-headphone-outline-20",
+    "name": "Headphone Outline",
+    "category": "media",
+    "keywords": [
+      "headphone",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "headphone",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 339,
+    "views": 2457
+  },
+  {
+    "id": "media-headphone-bold-20",
+    "name": "Headphone Bold",
+    "category": "media",
+    "keywords": [
+      "headphone",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "headphone",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 274,
+    "views": 1240
+  },
+  {
+    "id": "media-headphone-bulk-20",
+    "name": "Headphone Bulk",
+    "category": "media",
+    "keywords": [
+      "headphone",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "headphone",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 139,
+    "views": 1788
+  },
+  {
+    "id": "media-headphone-linear-20",
+    "name": "Headphone Linear",
+    "category": "media",
+    "keywords": [
+      "headphone",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "headphone",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 988,
+    "views": 3281
+  },
+  {
+    "id": "media-microphone-outline-21",
+    "name": "Microphone Outline",
+    "category": "media",
+    "keywords": [
+      "microphone",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "microphone",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 30,
+    "views": 348
+  },
+  {
+    "id": "media-microphone-bold-21",
+    "name": "Microphone Bold",
+    "category": "media",
+    "keywords": [
+      "microphone",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "microphone",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 173,
+    "views": 2566
+  },
+  {
+    "id": "media-microphone-bulk-21",
+    "name": "Microphone Bulk",
+    "category": "media",
+    "keywords": [
+      "microphone",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "microphone",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 618,
+    "views": 553
+  },
+  {
+    "id": "media-microphone-linear-21",
+    "name": "Microphone Linear",
+    "category": "media",
+    "keywords": [
+      "microphone",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "microphone",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 146,
+    "views": 647
+  },
+  {
+    "id": "media-radio-outline-22",
+    "name": "Radio Outline",
+    "category": "media",
+    "keywords": [
+      "radio",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "radio",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 180,
+    "views": 3881
+  },
+  {
+    "id": "media-radio-bold-22",
+    "name": "Radio Bold",
+    "category": "media",
+    "keywords": [
+      "radio",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "radio",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 466,
+    "views": 1931
+  },
+  {
+    "id": "media-radio-bulk-22",
+    "name": "Radio Bulk",
+    "category": "media",
+    "keywords": [
+      "radio",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "radio",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 886,
+    "views": 4971
+  },
+  {
+    "id": "media-radio-linear-22",
+    "name": "Radio Linear",
+    "category": "media",
+    "keywords": [
+      "radio",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "radio",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 523,
+    "views": 3486
+  },
+  {
+    "id": "media-tv-outline-23",
+    "name": "Tv Outline",
+    "category": "media",
+    "keywords": [
+      "tv",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "tv",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 768,
+    "views": 3655
+  },
+  {
+    "id": "media-tv-bold-23",
+    "name": "Tv Bold",
+    "category": "media",
+    "keywords": [
+      "tv",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "tv",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 112,
+    "views": 1773
+  },
+  {
+    "id": "media-tv-bulk-23",
+    "name": "Tv Bulk",
+    "category": "media",
+    "keywords": [
+      "tv",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "tv",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 193,
+    "views": 256
+  },
+  {
+    "id": "media-tv-linear-23",
+    "name": "Tv Linear",
+    "category": "media",
+    "keywords": [
+      "tv",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "tv",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 532,
+    "views": 3749
+  },
+  {
+    "id": "media-television-outline-24",
+    "name": "Television Outline",
+    "category": "media",
+    "keywords": [
+      "television",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "television",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 231,
+    "views": 1130
+  },
+  {
+    "id": "media-television-bold-24",
+    "name": "Television Bold",
+    "category": "media",
+    "keywords": [
+      "television",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "television",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 533,
+    "views": 1537
+  },
+  {
+    "id": "media-television-bulk-24",
+    "name": "Television Bulk",
+    "category": "media",
+    "keywords": [
+      "television",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "television",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 436,
+    "views": 2394
+  },
+  {
+    "id": "media-television-linear-24",
+    "name": "Television Linear",
+    "category": "media",
+    "keywords": [
+      "television",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "television",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 426,
+    "views": 1328
+  },
+  {
+    "id": "media-screen-outline-25",
+    "name": "Screen Outline",
+    "category": "media",
+    "keywords": [
+      "screen",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "screen",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 467,
+    "views": 429
+  },
+  {
+    "id": "media-screen-bold-25",
+    "name": "Screen Bold",
+    "category": "media",
+    "keywords": [
+      "screen",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "screen",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 276,
+    "views": 1484
+  },
+  {
+    "id": "media-screen-bulk-25",
+    "name": "Screen Bulk",
+    "category": "media",
+    "keywords": [
+      "screen",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "screen",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 624,
+    "views": 3945
+  },
+  {
+    "id": "media-screen-linear-25",
+    "name": "Screen Linear",
+    "category": "media",
+    "keywords": [
+      "screen",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "screen",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 662,
+    "views": 1409
+  },
+  {
+    "id": "media-monitor-outline-26",
+    "name": "Monitor Outline",
+    "category": "media",
+    "keywords": [
+      "monitor",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "monitor",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 445,
+    "views": 1170
+  },
+  {
+    "id": "media-monitor-bold-26",
+    "name": "Monitor Bold",
+    "category": "media",
+    "keywords": [
+      "monitor",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "monitor",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 90,
+    "views": 1119
+  },
+  {
+    "id": "media-monitor-bulk-26",
+    "name": "Monitor Bulk",
+    "category": "media",
+    "keywords": [
+      "monitor",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "monitor",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 131,
+    "views": 727
+  },
+  {
+    "id": "media-monitor-linear-26",
+    "name": "Monitor Linear",
+    "category": "media",
+    "keywords": [
+      "monitor",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "monitor",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 579,
+    "views": 764
+  },
+  {
+    "id": "media-display-outline-27",
+    "name": "Display Outline",
+    "category": "media",
+    "keywords": [
+      "display",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "display",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 619,
+    "views": 2070
+  },
+  {
+    "id": "media-display-bold-27",
+    "name": "Display Bold",
+    "category": "media",
+    "keywords": [
+      "display",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "display",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 826,
+    "views": 472
+  },
+  {
+    "id": "media-display-bulk-27",
+    "name": "Display Bulk",
+    "category": "media",
+    "keywords": [
+      "display",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "display",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 653,
+    "views": 4342
+  },
+  {
+    "id": "media-display-linear-27",
+    "name": "Display Linear",
+    "category": "media",
+    "keywords": [
+      "display",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "display",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 405,
+    "views": 1409
+  },
+  {
+    "id": "media-gaming-outline-28",
+    "name": "Gaming Outline",
+    "category": "media",
+    "keywords": [
+      "gaming",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "gaming",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 985,
+    "views": 2074
+  },
+  {
+    "id": "media-gaming-bold-28",
+    "name": "Gaming Bold",
+    "category": "media",
+    "keywords": [
+      "gaming",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "gaming",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 761,
+    "views": 4469
+  },
+  {
+    "id": "media-gaming-bulk-28",
+    "name": "Gaming Bulk",
+    "category": "media",
+    "keywords": [
+      "gaming",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "gaming",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 611,
+    "views": 703
+  },
+  {
+    "id": "media-gaming-linear-28",
+    "name": "Gaming Linear",
+    "category": "media",
+    "keywords": [
+      "gaming",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "gaming",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 397,
+    "views": 4421
+  },
+  {
+    "id": "media-game-outline-29",
+    "name": "Game Outline",
+    "category": "media",
+    "keywords": [
+      "game",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "game",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 466,
+    "views": 932
+  },
+  {
+    "id": "media-game-bold-29",
+    "name": "Game Bold",
+    "category": "media",
+    "keywords": [
+      "game",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "game",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 742,
+    "views": 3820
+  },
+  {
+    "id": "media-game-bulk-29",
+    "name": "Game Bulk",
+    "category": "media",
+    "keywords": [
+      "game",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "game",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 538,
+    "views": 4689
+  },
+  {
+    "id": "media-game-linear-29",
+    "name": "Game Linear",
+    "category": "media",
+    "keywords": [
+      "game",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "game",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 818,
+    "views": 882
+  },
+  {
+    "id": "media-controller-outline-30",
+    "name": "Controller Outline",
+    "category": "media",
+    "keywords": [
+      "controller",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "controller",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 340,
+    "views": 4541
+  },
+  {
+    "id": "media-controller-bold-30",
+    "name": "Controller Bold",
+    "category": "media",
+    "keywords": [
+      "controller",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "controller",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 326,
+    "views": 4142
+  },
+  {
+    "id": "media-controller-bulk-30",
+    "name": "Controller Bulk",
+    "category": "media",
+    "keywords": [
+      "controller",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "controller",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 419,
+    "views": 612
+  },
+  {
+    "id": "media-controller-linear-30",
+    "name": "Controller Linear",
+    "category": "media",
+    "keywords": [
+      "controller",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "controller",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 536,
+    "views": 3635
+  },
+  {
+    "id": "media-joystick-outline-31",
+    "name": "Joystick Outline",
+    "category": "media",
+    "keywords": [
+      "joystick",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "joystick",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 225,
+    "views": 1297
+  },
+  {
+    "id": "media-joystick-bold-31",
+    "name": "Joystick Bold",
+    "category": "media",
+    "keywords": [
+      "joystick",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "joystick",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 716,
+    "views": 1802
+  },
+  {
+    "id": "media-joystick-bulk-31",
+    "name": "Joystick Bulk",
+    "category": "media",
+    "keywords": [
+      "joystick",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "joystick",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 44,
+    "views": 593
+  },
+  {
+    "id": "media-joystick-linear-31",
+    "name": "Joystick Linear",
+    "category": "media",
+    "keywords": [
+      "joystick",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "joystick",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 441,
+    "views": 885
+  },
+  {
+    "id": "media-dice-outline-32",
+    "name": "Dice Outline",
+    "category": "media",
+    "keywords": [
+      "dice",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "dice",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 592,
+    "views": 4696
+  },
+  {
+    "id": "media-dice-bold-32",
+    "name": "Dice Bold",
+    "category": "media",
+    "keywords": [
+      "dice",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "dice",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 114,
+    "views": 4717
+  },
+  {
+    "id": "media-dice-bulk-32",
+    "name": "Dice Bulk",
+    "category": "media",
+    "keywords": [
+      "dice",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "dice",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 357,
+    "views": 3520
+  },
+  {
+    "id": "media-dice-linear-32",
+    "name": "Dice Linear",
+    "category": "media",
+    "keywords": [
+      "dice",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "dice",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 335,
+    "views": 2990
+  },
+  {
+    "id": "media-card-outline-33",
+    "name": "Card Outline",
+    "category": "media",
+    "keywords": [
+      "card",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "card",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 871,
+    "views": 1656
+  },
+  {
+    "id": "media-card-bold-33",
+    "name": "Card Bold",
+    "category": "media",
+    "keywords": [
+      "card",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "card",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 547,
+    "views": 3050
+  },
+  {
+    "id": "media-card-bulk-33",
+    "name": "Card Bulk",
+    "category": "media",
+    "keywords": [
+      "card",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "card",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 234,
+    "views": 4105
+  },
+  {
+    "id": "media-card-linear-33",
+    "name": "Card Linear",
+    "category": "media",
+    "keywords": [
+      "card",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "card",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 899,
+    "views": 4837
+  },
+  {
+    "id": "media-puzzle-outline-34",
+    "name": "Puzzle Outline",
+    "category": "media",
+    "keywords": [
+      "puzzle",
+      "media",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "puzzle",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 145,
+    "views": 3024
+  },
+  {
+    "id": "media-puzzle-bold-34",
+    "name": "Puzzle Bold",
+    "category": "media",
+    "keywords": [
+      "puzzle",
+      "media",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "puzzle",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 96,
+    "views": 4150
+  },
+  {
+    "id": "media-puzzle-bulk-34",
+    "name": "Puzzle Bulk",
+    "category": "media",
+    "keywords": [
+      "puzzle",
+      "media",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "puzzle",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 562,
+    "views": 120
+  },
+  {
+    "id": "media-puzzle-linear-34",
+    "name": "Puzzle Linear",
+    "category": "media",
+    "keywords": [
+      "puzzle",
+      "media",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "media",
+      "puzzle",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 407,
+    "views": 663
+  }
+]

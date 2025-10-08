@@ -1,0 +1,4342 @@
+[
+  {
+    "id": "emotions-smile-outline-1",
+    "name": "Smile Outline",
+    "category": "emotions",
+    "keywords": [
+      "smile",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 14s1.5 2 4 2 4-2 4-2\"/><line x1=\"9\" y1=\"9\" x2=\"9.01\" y2=\"9\"/><line x1=\"15\" y1=\"9\" x2=\"15.01\" y2=\"9\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "smile",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 325,
+    "views": 4018
+  },
+  {
+    "id": "emotions-smile-bold-1",
+    "name": "Smile Bold",
+    "category": "emotions",
+    "keywords": [
+      "smile",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 14s1.5 2 4 2 4-2 4-2\"/><line x1=\"9\" y1=\"9\" x2=\"9.01\" y2=\"9\"/><line x1=\"15\" y1=\"9\" x2=\"15.01\" y2=\"9\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "smile",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 888,
+    "views": 3171
+  },
+  {
+    "id": "emotions-smile-bulk-1",
+    "name": "Smile Bulk",
+    "category": "emotions",
+    "keywords": [
+      "smile",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 14s1.5 2 4 2 4-2 4-2\"/><line x1=\"9\" y1=\"9\" x2=\"9.01\" y2=\"9\"/><line x1=\"15\" y1=\"9\" x2=\"15.01\" y2=\"9\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "smile",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 199,
+    "views": 743
+  },
+  {
+    "id": "emotions-smile-linear-1",
+    "name": "Smile Linear",
+    "category": "emotions",
+    "keywords": [
+      "smile",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M8 14s1.5 2 4 2 4-2 4-2\"/><line x1=\"9\" y1=\"9\" x2=\"9.01\" y2=\"9\"/><line x1=\"15\" y1=\"9\" x2=\"15.01\" y2=\"9\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "smile",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 610,
+    "views": 3593
+  },
+  {
+    "id": "emotions-frown-outline-2",
+    "name": "Frown Outline",
+    "category": "emotions",
+    "keywords": [
+      "frown",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "frown",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 748,
+    "views": 4490
+  },
+  {
+    "id": "emotions-frown-bold-2",
+    "name": "Frown Bold",
+    "category": "emotions",
+    "keywords": [
+      "frown",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "frown",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 75,
+    "views": 852
+  },
+  {
+    "id": "emotions-frown-bulk-2",
+    "name": "Frown Bulk",
+    "category": "emotions",
+    "keywords": [
+      "frown",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "frown",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 15,
+    "views": 3180
+  },
+  {
+    "id": "emotions-frown-linear-2",
+    "name": "Frown Linear",
+    "category": "emotions",
+    "keywords": [
+      "frown",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "frown",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 458,
+    "views": 3654
+  },
+  {
+    "id": "emotions-laugh-outline-3",
+    "name": "Laugh Outline",
+    "category": "emotions",
+    "keywords": [
+      "laugh",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "laugh",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 371,
+    "views": 348
+  },
+  {
+    "id": "emotions-laugh-bold-3",
+    "name": "Laugh Bold",
+    "category": "emotions",
+    "keywords": [
+      "laugh",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "laugh",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 908,
+    "views": 3456
+  },
+  {
+    "id": "emotions-laugh-bulk-3",
+    "name": "Laugh Bulk",
+    "category": "emotions",
+    "keywords": [
+      "laugh",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "laugh",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 794,
+    "views": 1651
+  },
+  {
+    "id": "emotions-laugh-linear-3",
+    "name": "Laugh Linear",
+    "category": "emotions",
+    "keywords": [
+      "laugh",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "laugh",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 505,
+    "views": 524
+  },
+  {
+    "id": "emotions-cry-outline-4",
+    "name": "Cry Outline",
+    "category": "emotions",
+    "keywords": [
+      "cry",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "cry",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 346,
+    "views": 2767
+  },
+  {
+    "id": "emotions-cry-bold-4",
+    "name": "Cry Bold",
+    "category": "emotions",
+    "keywords": [
+      "cry",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "cry",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 331,
+    "views": 3415
+  },
+  {
+    "id": "emotions-cry-bulk-4",
+    "name": "Cry Bulk",
+    "category": "emotions",
+    "keywords": [
+      "cry",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "cry",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 533,
+    "views": 1154
+  },
+  {
+    "id": "emotions-cry-linear-4",
+    "name": "Cry Linear",
+    "category": "emotions",
+    "keywords": [
+      "cry",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "cry",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 874,
+    "views": 508
+  },
+  {
+    "id": "emotions-angry-outline-5",
+    "name": "Angry Outline",
+    "category": "emotions",
+    "keywords": [
+      "angry",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "angry",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 757,
+    "views": 2471
+  },
+  {
+    "id": "emotions-angry-bold-5",
+    "name": "Angry Bold",
+    "category": "emotions",
+    "keywords": [
+      "angry",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "angry",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 853,
+    "views": 4472
+  },
+  {
+    "id": "emotions-angry-bulk-5",
+    "name": "Angry Bulk",
+    "category": "emotions",
+    "keywords": [
+      "angry",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "angry",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 618,
+    "views": 755
+  },
+  {
+    "id": "emotions-angry-linear-5",
+    "name": "Angry Linear",
+    "category": "emotions",
+    "keywords": [
+      "angry",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "angry",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 22,
+    "views": 1147
+  },
+  {
+    "id": "emotions-surprised-outline-6",
+    "name": "Surprised Outline",
+    "category": "emotions",
+    "keywords": [
+      "surprised",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "surprised",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 262,
+    "views": 3860
+  },
+  {
+    "id": "emotions-surprised-bold-6",
+    "name": "Surprised Bold",
+    "category": "emotions",
+    "keywords": [
+      "surprised",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "surprised",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 932,
+    "views": 2668
+  },
+  {
+    "id": "emotions-surprised-bulk-6",
+    "name": "Surprised Bulk",
+    "category": "emotions",
+    "keywords": [
+      "surprised",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "surprised",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 445,
+    "views": 317
+  },
+  {
+    "id": "emotions-surprised-linear-6",
+    "name": "Surprised Linear",
+    "category": "emotions",
+    "keywords": [
+      "surprised",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "surprised",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 427,
+    "views": 2162
+  },
+  {
+    "id": "emotions-confused-outline-7",
+    "name": "Confused Outline",
+    "category": "emotions",
+    "keywords": [
+      "confused",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "confused",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 517,
+    "views": 2640
+  },
+  {
+    "id": "emotions-confused-bold-7",
+    "name": "Confused Bold",
+    "category": "emotions",
+    "keywords": [
+      "confused",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "confused",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 770,
+    "views": 3140
+  },
+  {
+    "id": "emotions-confused-bulk-7",
+    "name": "Confused Bulk",
+    "category": "emotions",
+    "keywords": [
+      "confused",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "confused",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 499,
+    "views": 1627
+  },
+  {
+    "id": "emotions-confused-linear-7",
+    "name": "Confused Linear",
+    "category": "emotions",
+    "keywords": [
+      "confused",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "confused",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 437,
+    "views": 810
+  },
+  {
+    "id": "emotions-happy-outline-8",
+    "name": "Happy Outline",
+    "category": "emotions",
+    "keywords": [
+      "happy",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "happy",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 656,
+    "views": 3902
+  },
+  {
+    "id": "emotions-happy-bold-8",
+    "name": "Happy Bold",
+    "category": "emotions",
+    "keywords": [
+      "happy",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "happy",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 980,
+    "views": 4824
+  },
+  {
+    "id": "emotions-happy-bulk-8",
+    "name": "Happy Bulk",
+    "category": "emotions",
+    "keywords": [
+      "happy",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "happy",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 426,
+    "views": 1932
+  },
+  {
+    "id": "emotions-happy-linear-8",
+    "name": "Happy Linear",
+    "category": "emotions",
+    "keywords": [
+      "happy",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "happy",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 96,
+    "views": 2913
+  },
+  {
+    "id": "emotions-sad-outline-9",
+    "name": "Sad Outline",
+    "category": "emotions",
+    "keywords": [
+      "sad",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "sad",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 978,
+    "views": 2893
+  },
+  {
+    "id": "emotions-sad-bold-9",
+    "name": "Sad Bold",
+    "category": "emotions",
+    "keywords": [
+      "sad",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "sad",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 108,
+    "views": 1148
+  },
+  {
+    "id": "emotions-sad-bulk-9",
+    "name": "Sad Bulk",
+    "category": "emotions",
+    "keywords": [
+      "sad",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "sad",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 262,
+    "views": 1816
+  },
+  {
+    "id": "emotions-sad-linear-9",
+    "name": "Sad Linear",
+    "category": "emotions",
+    "keywords": [
+      "sad",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "sad",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 322,
+    "views": 4137
+  },
+  {
+    "id": "emotions-excited-outline-10",
+    "name": "Excited Outline",
+    "category": "emotions",
+    "keywords": [
+      "excited",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "excited",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 191,
+    "views": 1497
+  },
+  {
+    "id": "emotions-excited-bold-10",
+    "name": "Excited Bold",
+    "category": "emotions",
+    "keywords": [
+      "excited",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "excited",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 347,
+    "views": 1673
+  },
+  {
+    "id": "emotions-excited-bulk-10",
+    "name": "Excited Bulk",
+    "category": "emotions",
+    "keywords": [
+      "excited",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "excited",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 152,
+    "views": 4687
+  },
+  {
+    "id": "emotions-excited-linear-10",
+    "name": "Excited Linear",
+    "category": "emotions",
+    "keywords": [
+      "excited",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "excited",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 913,
+    "views": 2868
+  },
+  {
+    "id": "emotions-worried-outline-11",
+    "name": "Worried Outline",
+    "category": "emotions",
+    "keywords": [
+      "worried",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "worried",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 49,
+    "views": 1613
+  },
+  {
+    "id": "emotions-worried-bold-11",
+    "name": "Worried Bold",
+    "category": "emotions",
+    "keywords": [
+      "worried",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "worried",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 655,
+    "views": 3980
+  },
+  {
+    "id": "emotions-worried-bulk-11",
+    "name": "Worried Bulk",
+    "category": "emotions",
+    "keywords": [
+      "worried",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "worried",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 466,
+    "views": 4408
+  },
+  {
+    "id": "emotions-worried-linear-11",
+    "name": "Worried Linear",
+    "category": "emotions",
+    "keywords": [
+      "worried",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "worried",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 478,
+    "views": 1900
+  },
+  {
+    "id": "emotions-scared-outline-12",
+    "name": "Scared Outline",
+    "category": "emotions",
+    "keywords": [
+      "scared",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "scared",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 201,
+    "views": 1857
+  },
+  {
+    "id": "emotions-scared-bold-12",
+    "name": "Scared Bold",
+    "category": "emotions",
+    "keywords": [
+      "scared",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "scared",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 790,
+    "views": 2172
+  },
+  {
+    "id": "emotions-scared-bulk-12",
+    "name": "Scared Bulk",
+    "category": "emotions",
+    "keywords": [
+      "scared",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "scared",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 917,
+    "views": 2069
+  },
+  {
+    "id": "emotions-scared-linear-12",
+    "name": "Scared Linear",
+    "category": "emotions",
+    "keywords": [
+      "scared",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "scared",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 524,
+    "views": 309
+  },
+  {
+    "id": "emotions-shocked-outline-13",
+    "name": "Shocked Outline",
+    "category": "emotions",
+    "keywords": [
+      "shocked",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "shocked",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 966,
+    "views": 540
+  },
+  {
+    "id": "emotions-shocked-bold-13",
+    "name": "Shocked Bold",
+    "category": "emotions",
+    "keywords": [
+      "shocked",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "shocked",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 378,
+    "views": 3778
+  },
+  {
+    "id": "emotions-shocked-bulk-13",
+    "name": "Shocked Bulk",
+    "category": "emotions",
+    "keywords": [
+      "shocked",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "shocked",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 290,
+    "views": 904
+  },
+  {
+    "id": "emotions-shocked-linear-13",
+    "name": "Shocked Linear",
+    "category": "emotions",
+    "keywords": [
+      "shocked",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "shocked",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 32,
+    "views": 2956
+  },
+  {
+    "id": "emotions-disgusted-outline-14",
+    "name": "Disgusted Outline",
+    "category": "emotions",
+    "keywords": [
+      "disgusted",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "disgusted",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 920,
+    "views": 878
+  },
+  {
+    "id": "emotions-disgusted-bold-14",
+    "name": "Disgusted Bold",
+    "category": "emotions",
+    "keywords": [
+      "disgusted",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "disgusted",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 500,
+    "views": 976
+  },
+  {
+    "id": "emotions-disgusted-bulk-14",
+    "name": "Disgusted Bulk",
+    "category": "emotions",
+    "keywords": [
+      "disgusted",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "disgusted",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 399,
+    "views": 3813
+  },
+  {
+    "id": "emotions-disgusted-linear-14",
+    "name": "Disgusted Linear",
+    "category": "emotions",
+    "keywords": [
+      "disgusted",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "disgusted",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 608,
+    "views": 1988
+  },
+  {
+    "id": "emotions-heart-outline-15",
+    "name": "Heart Outline",
+    "category": "emotions",
+    "keywords": [
+      "heart",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "heart",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 688,
+    "views": 4116
+  },
+  {
+    "id": "emotions-heart-bold-15",
+    "name": "Heart Bold",
+    "category": "emotions",
+    "keywords": [
+      "heart",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "heart",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 194,
+    "views": 3314
+  },
+  {
+    "id": "emotions-heart-bulk-15",
+    "name": "Heart Bulk",
+    "category": "emotions",
+    "keywords": [
+      "heart",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "heart",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 216,
+    "views": 114
+  },
+  {
+    "id": "emotions-heart-linear-15",
+    "name": "Heart Linear",
+    "category": "emotions",
+    "keywords": [
+      "heart",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "heart",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 925,
+    "views": 1074
+  },
+  {
+    "id": "emotions-love-outline-16",
+    "name": "Love Outline",
+    "category": "emotions",
+    "keywords": [
+      "love",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "love",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 65,
+    "views": 542
+  },
+  {
+    "id": "emotions-love-bold-16",
+    "name": "Love Bold",
+    "category": "emotions",
+    "keywords": [
+      "love",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "love",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 931,
+    "views": 4434
+  },
+  {
+    "id": "emotions-love-bulk-16",
+    "name": "Love Bulk",
+    "category": "emotions",
+    "keywords": [
+      "love",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "love",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 501,
+    "views": 4610
+  },
+  {
+    "id": "emotions-love-linear-16",
+    "name": "Love Linear",
+    "category": "emotions",
+    "keywords": [
+      "love",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "love",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 120,
+    "views": 2334
+  },
+  {
+    "id": "emotions-like-outline-17",
+    "name": "Like Outline",
+    "category": "emotions",
+    "keywords": [
+      "like",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "like",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 246,
+    "views": 659
+  },
+  {
+    "id": "emotions-like-bold-17",
+    "name": "Like Bold",
+    "category": "emotions",
+    "keywords": [
+      "like",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "like",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 747,
+    "views": 4400
+  },
+  {
+    "id": "emotions-like-bulk-17",
+    "name": "Like Bulk",
+    "category": "emotions",
+    "keywords": [
+      "like",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "like",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 678,
+    "views": 2844
+  },
+  {
+    "id": "emotions-like-linear-17",
+    "name": "Like Linear",
+    "category": "emotions",
+    "keywords": [
+      "like",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "like",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 207,
+    "views": 2916
+  },
+  {
+    "id": "emotions-dislike-outline-18",
+    "name": "Dislike Outline",
+    "category": "emotions",
+    "keywords": [
+      "dislike",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "dislike",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 193,
+    "views": 2097
+  },
+  {
+    "id": "emotions-dislike-bold-18",
+    "name": "Dislike Bold",
+    "category": "emotions",
+    "keywords": [
+      "dislike",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "dislike",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 694,
+    "views": 251
+  },
+  {
+    "id": "emotions-dislike-bulk-18",
+    "name": "Dislike Bulk",
+    "category": "emotions",
+    "keywords": [
+      "dislike",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "dislike",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 258,
+    "views": 2738
+  },
+  {
+    "id": "emotions-dislike-linear-18",
+    "name": "Dislike Linear",
+    "category": "emotions",
+    "keywords": [
+      "dislike",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "dislike",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 686,
+    "views": 58
+  },
+  {
+    "id": "emotions-hate-outline-19",
+    "name": "Hate Outline",
+    "category": "emotions",
+    "keywords": [
+      "hate",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "hate",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 857,
+    "views": 1538
+  },
+  {
+    "id": "emotions-hate-bold-19",
+    "name": "Hate Bold",
+    "category": "emotions",
+    "keywords": [
+      "hate",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "hate",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 579,
+    "views": 2554
+  },
+  {
+    "id": "emotions-hate-bulk-19",
+    "name": "Hate Bulk",
+    "category": "emotions",
+    "keywords": [
+      "hate",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "hate",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 838,
+    "views": 1060
+  },
+  {
+    "id": "emotions-hate-linear-19",
+    "name": "Hate Linear",
+    "category": "emotions",
+    "keywords": [
+      "hate",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "hate",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 325,
+    "views": 4828
+  },
+  {
+    "id": "emotions-enjoy-outline-20",
+    "name": "Enjoy Outline",
+    "category": "emotions",
+    "keywords": [
+      "enjoy",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "enjoy",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 225,
+    "views": 1063
+  },
+  {
+    "id": "emotions-enjoy-bold-20",
+    "name": "Enjoy Bold",
+    "category": "emotions",
+    "keywords": [
+      "enjoy",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "enjoy",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 944,
+    "views": 4315
+  },
+  {
+    "id": "emotions-enjoy-bulk-20",
+    "name": "Enjoy Bulk",
+    "category": "emotions",
+    "keywords": [
+      "enjoy",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "enjoy",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 898,
+    "views": 460
+  },
+  {
+    "id": "emotions-enjoy-linear-20",
+    "name": "Enjoy Linear",
+    "category": "emotions",
+    "keywords": [
+      "enjoy",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "enjoy",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 744,
+    "views": 109
+  },
+  {
+    "id": "emotions-fun-outline-21",
+    "name": "Fun Outline",
+    "category": "emotions",
+    "keywords": [
+      "fun",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "fun",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 208,
+    "views": 4797
+  },
+  {
+    "id": "emotions-fun-bold-21",
+    "name": "Fun Bold",
+    "category": "emotions",
+    "keywords": [
+      "fun",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "fun",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 874,
+    "views": 709
+  },
+  {
+    "id": "emotions-fun-bulk-21",
+    "name": "Fun Bulk",
+    "category": "emotions",
+    "keywords": [
+      "fun",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "fun",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 123,
+    "views": 3660
+  },
+  {
+    "id": "emotions-fun-linear-21",
+    "name": "Fun Linear",
+    "category": "emotions",
+    "keywords": [
+      "fun",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "fun",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 448,
+    "views": 3295
+  },
+  {
+    "id": "emotions-joy-outline-22",
+    "name": "Joy Outline",
+    "category": "emotions",
+    "keywords": [
+      "joy",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "joy",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 272,
+    "views": 1862
+  },
+  {
+    "id": "emotions-joy-bold-22",
+    "name": "Joy Bold",
+    "category": "emotions",
+    "keywords": [
+      "joy",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "joy",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 989,
+    "views": 600
+  },
+  {
+    "id": "emotions-joy-bulk-22",
+    "name": "Joy Bulk",
+    "category": "emotions",
+    "keywords": [
+      "joy",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "joy",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 992,
+    "views": 3187
+  },
+  {
+    "id": "emotions-joy-linear-22",
+    "name": "Joy Linear",
+    "category": "emotions",
+    "keywords": [
+      "joy",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "joy",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 617,
+    "views": 2162
+  },
+  {
+    "id": "emotions-star-outline-23",
+    "name": "Star Outline",
+    "category": "emotions",
+    "keywords": [
+      "star",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><polygon points=\"12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26 12,2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "star",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 729,
+    "views": 2266
+  },
+  {
+    "id": "emotions-star-bold-23",
+    "name": "Star Bold",
+    "category": "emotions",
+    "keywords": [
+      "star",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><polygon points=\"12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26 12,2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "star",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 501,
+    "views": 1537
+  },
+  {
+    "id": "emotions-star-bulk-23",
+    "name": "Star Bulk",
+    "category": "emotions",
+    "keywords": [
+      "star",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><polygon points=\"12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26 12,2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "star",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 979,
+    "views": 4084
+  },
+  {
+    "id": "emotions-star-linear-23",
+    "name": "Star Linear",
+    "category": "emotions",
+    "keywords": [
+      "star",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><polygon points=\"12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26 12,2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "star",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 156,
+    "views": 4846
+  },
+  {
+    "id": "emotions-favorite-outline-24",
+    "name": "Favorite Outline",
+    "category": "emotions",
+    "keywords": [
+      "favorite",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "favorite",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 539,
+    "views": 2266
+  },
+  {
+    "id": "emotions-favorite-bold-24",
+    "name": "Favorite Bold",
+    "category": "emotions",
+    "keywords": [
+      "favorite",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "favorite",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 533,
+    "views": 3224
+  },
+  {
+    "id": "emotions-favorite-bulk-24",
+    "name": "Favorite Bulk",
+    "category": "emotions",
+    "keywords": [
+      "favorite",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "favorite",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 837,
+    "views": 4794
+  },
+  {
+    "id": "emotions-favorite-linear-24",
+    "name": "Favorite Linear",
+    "category": "emotions",
+    "keywords": [
+      "favorite",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "favorite",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 319,
+    "views": 4000
+  },
+  {
+    "id": "emotions-bookmark-outline-25",
+    "name": "Bookmark Outline",
+    "category": "emotions",
+    "keywords": [
+      "bookmark",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "bookmark",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 633,
+    "views": 198
+  },
+  {
+    "id": "emotions-bookmark-bold-25",
+    "name": "Bookmark Bold",
+    "category": "emotions",
+    "keywords": [
+      "bookmark",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "bookmark",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 406,
+    "views": 2330
+  },
+  {
+    "id": "emotions-bookmark-bulk-25",
+    "name": "Bookmark Bulk",
+    "category": "emotions",
+    "keywords": [
+      "bookmark",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "bookmark",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 750,
+    "views": 429
+  },
+  {
+    "id": "emotions-bookmark-linear-25",
+    "name": "Bookmark Linear",
+    "category": "emotions",
+    "keywords": [
+      "bookmark",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "bookmark",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 838,
+    "views": 3141
+  },
+  {
+    "id": "emotions-thumbs-up-outline-26",
+    "name": "Thumbs-up Outline",
+    "category": "emotions",
+    "keywords": [
+      "thumbs-up",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "thumbs-up",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 396,
+    "views": 3861
+  },
+  {
+    "id": "emotions-thumbs-up-bold-26",
+    "name": "Thumbs-up Bold",
+    "category": "emotions",
+    "keywords": [
+      "thumbs-up",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "thumbs-up",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 47,
+    "views": 1919
+  },
+  {
+    "id": "emotions-thumbs-up-bulk-26",
+    "name": "Thumbs-up Bulk",
+    "category": "emotions",
+    "keywords": [
+      "thumbs-up",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "thumbs-up",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 50,
+    "views": 3386
+  },
+  {
+    "id": "emotions-thumbs-up-linear-26",
+    "name": "Thumbs-up Linear",
+    "category": "emotions",
+    "keywords": [
+      "thumbs-up",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "thumbs-up",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 396,
+    "views": 1431
+  },
+  {
+    "id": "emotions-thumbs-down-outline-27",
+    "name": "Thumbs-down Outline",
+    "category": "emotions",
+    "keywords": [
+      "thumbs-down",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "thumbs-down",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 437,
+    "views": 345
+  },
+  {
+    "id": "emotions-thumbs-down-bold-27",
+    "name": "Thumbs-down Bold",
+    "category": "emotions",
+    "keywords": [
+      "thumbs-down",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "thumbs-down",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 625,
+    "views": 4311
+  },
+  {
+    "id": "emotions-thumbs-down-bulk-27",
+    "name": "Thumbs-down Bulk",
+    "category": "emotions",
+    "keywords": [
+      "thumbs-down",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "thumbs-down",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 39,
+    "views": 506
+  },
+  {
+    "id": "emotions-thumbs-down-linear-27",
+    "name": "Thumbs-down Linear",
+    "category": "emotions",
+    "keywords": [
+      "thumbs-down",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "thumbs-down",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 698,
+    "views": 4146
+  },
+  {
+    "id": "emotions-clap-outline-28",
+    "name": "Clap Outline",
+    "category": "emotions",
+    "keywords": [
+      "clap",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "clap",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 713,
+    "views": 1066
+  },
+  {
+    "id": "emotions-clap-bold-28",
+    "name": "Clap Bold",
+    "category": "emotions",
+    "keywords": [
+      "clap",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "clap",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 563,
+    "views": 4867
+  },
+  {
+    "id": "emotions-clap-bulk-28",
+    "name": "Clap Bulk",
+    "category": "emotions",
+    "keywords": [
+      "clap",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "clap",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 806,
+    "views": 4508
+  },
+  {
+    "id": "emotions-clap-linear-28",
+    "name": "Clap Linear",
+    "category": "emotions",
+    "keywords": [
+      "clap",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "clap",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 146,
+    "views": 56
+  },
+  {
+    "id": "emotions-wink-outline-29",
+    "name": "Wink Outline",
+    "category": "emotions",
+    "keywords": [
+      "wink",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "wink",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 90,
+    "views": 1829
+  },
+  {
+    "id": "emotions-wink-bold-29",
+    "name": "Wink Bold",
+    "category": "emotions",
+    "keywords": [
+      "wink",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "wink",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 788,
+    "views": 2491
+  },
+  {
+    "id": "emotions-wink-bulk-29",
+    "name": "Wink Bulk",
+    "category": "emotions",
+    "keywords": [
+      "wink",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "wink",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 302,
+    "views": 2564
+  },
+  {
+    "id": "emotions-wink-linear-29",
+    "name": "Wink Linear",
+    "category": "emotions",
+    "keywords": [
+      "wink",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "wink",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 110,
+    "views": 4235
+  },
+  {
+    "id": "emotions-kiss-outline-30",
+    "name": "Kiss Outline",
+    "category": "emotions",
+    "keywords": [
+      "kiss",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "kiss",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 889,
+    "views": 1549
+  },
+  {
+    "id": "emotions-kiss-bold-30",
+    "name": "Kiss Bold",
+    "category": "emotions",
+    "keywords": [
+      "kiss",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "kiss",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 104,
+    "views": 3914
+  },
+  {
+    "id": "emotions-kiss-bulk-30",
+    "name": "Kiss Bulk",
+    "category": "emotions",
+    "keywords": [
+      "kiss",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "kiss",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 691,
+    "views": 3312
+  },
+  {
+    "id": "emotions-kiss-linear-30",
+    "name": "Kiss Linear",
+    "category": "emotions",
+    "keywords": [
+      "kiss",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "kiss",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 965,
+    "views": 532
+  },
+  {
+    "id": "emotions-hug-outline-31",
+    "name": "Hug Outline",
+    "category": "emotions",
+    "keywords": [
+      "hug",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "hug",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 432,
+    "views": 1770
+  },
+  {
+    "id": "emotions-hug-bold-31",
+    "name": "Hug Bold",
+    "category": "emotions",
+    "keywords": [
+      "hug",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "hug",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 195,
+    "views": 3994
+  },
+  {
+    "id": "emotions-hug-bulk-31",
+    "name": "Hug Bulk",
+    "category": "emotions",
+    "keywords": [
+      "hug",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "hug",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 153,
+    "views": 3617
+  },
+  {
+    "id": "emotions-hug-linear-31",
+    "name": "Hug Linear",
+    "category": "emotions",
+    "keywords": [
+      "hug",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "hug",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 467,
+    "views": 2814
+  },
+  {
+    "id": "emotions-wave-outline-32",
+    "name": "Wave Outline",
+    "category": "emotions",
+    "keywords": [
+      "wave",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "wave",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 759,
+    "views": 2327
+  },
+  {
+    "id": "emotions-wave-bold-32",
+    "name": "Wave Bold",
+    "category": "emotions",
+    "keywords": [
+      "wave",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "wave",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 64,
+    "views": 1322
+  },
+  {
+    "id": "emotions-wave-bulk-32",
+    "name": "Wave Bulk",
+    "category": "emotions",
+    "keywords": [
+      "wave",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "wave",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 173,
+    "views": 2686
+  },
+  {
+    "id": "emotions-wave-linear-32",
+    "name": "Wave Linear",
+    "category": "emotions",
+    "keywords": [
+      "wave",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "wave",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 74,
+    "views": 652
+  },
+  {
+    "id": "emotions-salute-outline-33",
+    "name": "Salute Outline",
+    "category": "emotions",
+    "keywords": [
+      "salute",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "salute",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 71,
+    "views": 785
+  },
+  {
+    "id": "emotions-salute-bold-33",
+    "name": "Salute Bold",
+    "category": "emotions",
+    "keywords": [
+      "salute",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "salute",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 729,
+    "views": 4208
+  },
+  {
+    "id": "emotions-salute-bulk-33",
+    "name": "Salute Bulk",
+    "category": "emotions",
+    "keywords": [
+      "salute",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "salute",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 562,
+    "views": 3107
+  },
+  {
+    "id": "emotions-salute-linear-33",
+    "name": "Salute Linear",
+    "category": "emotions",
+    "keywords": [
+      "salute",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "salute",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 660,
+    "views": 1732
+  },
+  {
+    "id": "emotions-peace-outline-34",
+    "name": "Peace Outline",
+    "category": "emotions",
+    "keywords": [
+      "peace",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "peace",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 293,
+    "views": 231
+  },
+  {
+    "id": "emotions-peace-bold-34",
+    "name": "Peace Bold",
+    "category": "emotions",
+    "keywords": [
+      "peace",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "peace",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 330,
+    "views": 527
+  },
+  {
+    "id": "emotions-peace-bulk-34",
+    "name": "Peace Bulk",
+    "category": "emotions",
+    "keywords": [
+      "peace",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "peace",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 794,
+    "views": 298
+  },
+  {
+    "id": "emotions-peace-linear-34",
+    "name": "Peace Linear",
+    "category": "emotions",
+    "keywords": [
+      "peace",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "peace",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 665,
+    "views": 3277
+  },
+  {
+    "id": "emotions-victory-outline-35",
+    "name": "Victory Outline",
+    "category": "emotions",
+    "keywords": [
+      "victory",
+      "emotions",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "victory",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 144,
+    "views": 1358
+  },
+  {
+    "id": "emotions-victory-bold-35",
+    "name": "Victory Bold",
+    "category": "emotions",
+    "keywords": [
+      "victory",
+      "emotions",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "victory",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 137,
+    "views": 4164
+  },
+  {
+    "id": "emotions-victory-bulk-35",
+    "name": "Victory Bulk",
+    "category": "emotions",
+    "keywords": [
+      "victory",
+      "emotions",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "victory",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 940,
+    "views": 1103
+  },
+  {
+    "id": "emotions-victory-linear-35",
+    "name": "Victory Linear",
+    "category": "emotions",
+    "keywords": [
+      "victory",
+      "emotions",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "emotions",
+      "victory",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.580Z",
+    "updatedAt": "2025-09-30T10:32:23.580Z",
+    "downloads": 248,
+    "views": 4112
+  }
+]

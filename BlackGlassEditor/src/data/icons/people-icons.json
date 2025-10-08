@@ -1,0 +1,4590 @@
+[
+  {
+    "id": "people-user-outline-1",
+    "name": "User Outline",
+    "category": "people",
+    "keywords": [
+      "user",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2\"/><circle cx=\"12\" cy=\"7\" r=\"4\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "user",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 950,
+    "views": 2155
+  },
+  {
+    "id": "people-user-bold-1",
+    "name": "User Bold",
+    "category": "people",
+    "keywords": [
+      "user",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2\"/><circle cx=\"12\" cy=\"7\" r=\"4\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "user",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 22,
+    "views": 1239
+  },
+  {
+    "id": "people-user-bulk-1",
+    "name": "User Bulk",
+    "category": "people",
+    "keywords": [
+      "user",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2\"/><circle cx=\"12\" cy=\"7\" r=\"4\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "user",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 986,
+    "views": 2870
+  },
+  {
+    "id": "people-user-linear-1",
+    "name": "User Linear",
+    "category": "people",
+    "keywords": [
+      "user",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2\"/><circle cx=\"12\" cy=\"7\" r=\"4\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "user",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 353,
+    "views": 2613
+  },
+  {
+    "id": "people-users-outline-2",
+    "name": "Users Outline",
+    "category": "people",
+    "keywords": [
+      "users",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M23 21v-2a4 4 0 0 0-3-3.87\"/><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "users",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 363,
+    "views": 4866
+  },
+  {
+    "id": "people-users-bold-2",
+    "name": "Users Bold",
+    "category": "people",
+    "keywords": [
+      "users",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M23 21v-2a4 4 0 0 0-3-3.87\"/><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "users",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 268,
+    "views": 3387
+  },
+  {
+    "id": "people-users-bulk-2",
+    "name": "Users Bulk",
+    "category": "people",
+    "keywords": [
+      "users",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M23 21v-2a4 4 0 0 0-3-3.87\"/><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "users",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 756,
+    "views": 793
+  },
+  {
+    "id": "people-users-linear-2",
+    "name": "Users Linear",
+    "category": "people",
+    "keywords": [
+      "users",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M23 21v-2a4 4 0 0 0-3-3.87\"/><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "users",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 289,
+    "views": 4146
+  },
+  {
+    "id": "people-person-outline-3",
+    "name": "Person Outline",
+    "category": "people",
+    "keywords": [
+      "person",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "person",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 379,
+    "views": 3505
+  },
+  {
+    "id": "people-person-bold-3",
+    "name": "Person Bold",
+    "category": "people",
+    "keywords": [
+      "person",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "person",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 897,
+    "views": 3398
+  },
+  {
+    "id": "people-person-bulk-3",
+    "name": "Person Bulk",
+    "category": "people",
+    "keywords": [
+      "person",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "person",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 627,
+    "views": 1047
+  },
+  {
+    "id": "people-person-linear-3",
+    "name": "Person Linear",
+    "category": "people",
+    "keywords": [
+      "person",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "person",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 105,
+    "views": 3195
+  },
+  {
+    "id": "people-people-outline-4",
+    "name": "People Outline",
+    "category": "people",
+    "keywords": [
+      "people",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "people",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 477,
+    "views": 391
+  },
+  {
+    "id": "people-people-bold-4",
+    "name": "People Bold",
+    "category": "people",
+    "keywords": [
+      "people",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "people",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 711,
+    "views": 23
+  },
+  {
+    "id": "people-people-bulk-4",
+    "name": "People Bulk",
+    "category": "people",
+    "keywords": [
+      "people",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "people",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 881,
+    "views": 4226
+  },
+  {
+    "id": "people-people-linear-4",
+    "name": "People Linear",
+    "category": "people",
+    "keywords": [
+      "people",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "people",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 577,
+    "views": 4171
+  },
+  {
+    "id": "people-man-outline-5",
+    "name": "Man Outline",
+    "category": "people",
+    "keywords": [
+      "man",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "man",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 188,
+    "views": 1680
+  },
+  {
+    "id": "people-man-bold-5",
+    "name": "Man Bold",
+    "category": "people",
+    "keywords": [
+      "man",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "man",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 764,
+    "views": 158
+  },
+  {
+    "id": "people-man-bulk-5",
+    "name": "Man Bulk",
+    "category": "people",
+    "keywords": [
+      "man",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "man",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 465,
+    "views": 2963
+  },
+  {
+    "id": "people-man-linear-5",
+    "name": "Man Linear",
+    "category": "people",
+    "keywords": [
+      "man",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "man",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 171,
+    "views": 925
+  },
+  {
+    "id": "people-woman-outline-6",
+    "name": "Woman Outline",
+    "category": "people",
+    "keywords": [
+      "woman",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "woman",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 434,
+    "views": 2778
+  },
+  {
+    "id": "people-woman-bold-6",
+    "name": "Woman Bold",
+    "category": "people",
+    "keywords": [
+      "woman",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "woman",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 105,
+    "views": 3735
+  },
+  {
+    "id": "people-woman-bulk-6",
+    "name": "Woman Bulk",
+    "category": "people",
+    "keywords": [
+      "woman",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "woman",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 116,
+    "views": 3526
+  },
+  {
+    "id": "people-woman-linear-6",
+    "name": "Woman Linear",
+    "category": "people",
+    "keywords": [
+      "woman",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "woman",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 671,
+    "views": 868
+  },
+  {
+    "id": "people-child-outline-7",
+    "name": "Child Outline",
+    "category": "people",
+    "keywords": [
+      "child",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "child",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 779,
+    "views": 3555
+  },
+  {
+    "id": "people-child-bold-7",
+    "name": "Child Bold",
+    "category": "people",
+    "keywords": [
+      "child",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "child",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 830,
+    "views": 4315
+  },
+  {
+    "id": "people-child-bulk-7",
+    "name": "Child Bulk",
+    "category": "people",
+    "keywords": [
+      "child",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "child",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 198,
+    "views": 1209
+  },
+  {
+    "id": "people-child-linear-7",
+    "name": "Child Linear",
+    "category": "people",
+    "keywords": [
+      "child",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "child",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 857,
+    "views": 887
+  },
+  {
+    "id": "people-baby-outline-8",
+    "name": "Baby Outline",
+    "category": "people",
+    "keywords": [
+      "baby",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "baby",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 788,
+    "views": 904
+  },
+  {
+    "id": "people-baby-bold-8",
+    "name": "Baby Bold",
+    "category": "people",
+    "keywords": [
+      "baby",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "baby",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 906,
+    "views": 764
+  },
+  {
+    "id": "people-baby-bulk-8",
+    "name": "Baby Bulk",
+    "category": "people",
+    "keywords": [
+      "baby",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "baby",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 161,
+    "views": 2649
+  },
+  {
+    "id": "people-baby-linear-8",
+    "name": "Baby Linear",
+    "category": "people",
+    "keywords": [
+      "baby",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "baby",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 225,
+    "views": 3435
+  },
+  {
+    "id": "people-profile-outline-9",
+    "name": "Profile Outline",
+    "category": "people",
+    "keywords": [
+      "profile",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><circle cx=\"12\" cy=\"8\" r=\"3\"/><path d=\"M7 20.662A9.955 9.955 0 0 1 12 18c2.34 0 4.29.655 5.958 1.662\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "profile",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 191,
+    "views": 2635
+  },
+  {
+    "id": "people-profile-bold-9",
+    "name": "Profile Bold",
+    "category": "people",
+    "keywords": [
+      "profile",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><circle cx=\"12\" cy=\"8\" r=\"3\"/><path d=\"M7 20.662A9.955 9.955 0 0 1 12 18c2.34 0 4.29.655 5.958 1.662\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "profile",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 888,
+    "views": 184
+  },
+  {
+    "id": "people-profile-bulk-9",
+    "name": "Profile Bulk",
+    "category": "people",
+    "keywords": [
+      "profile",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><circle cx=\"12\" cy=\"8\" r=\"3\"/><path d=\"M7 20.662A9.955 9.955 0 0 1 12 18c2.34 0 4.29.655 5.958 1.662\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "profile",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 199,
+    "views": 3292
+  },
+  {
+    "id": "people-profile-linear-9",
+    "name": "Profile Linear",
+    "category": "people",
+    "keywords": [
+      "profile",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><circle cx=\"12\" cy=\"8\" r=\"3\"/><path d=\"M7 20.662A9.955 9.955 0 0 1 12 18c2.34 0 4.29.655 5.958 1.662\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "profile",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 466,
+    "views": 208
+  },
+  {
+    "id": "people-avatar-outline-10",
+    "name": "Avatar Outline",
+    "category": "people",
+    "keywords": [
+      "avatar",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "avatar",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 614,
+    "views": 1247
+  },
+  {
+    "id": "people-avatar-bold-10",
+    "name": "Avatar Bold",
+    "category": "people",
+    "keywords": [
+      "avatar",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "avatar",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 180,
+    "views": 3763
+  },
+  {
+    "id": "people-avatar-bulk-10",
+    "name": "Avatar Bulk",
+    "category": "people",
+    "keywords": [
+      "avatar",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "avatar",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 990,
+    "views": 402
+  },
+  {
+    "id": "people-avatar-linear-10",
+    "name": "Avatar Linear",
+    "category": "people",
+    "keywords": [
+      "avatar",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "avatar",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 839,
+    "views": 1255
+  },
+  {
+    "id": "people-face-outline-11",
+    "name": "Face Outline",
+    "category": "people",
+    "keywords": [
+      "face",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "face",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 909,
+    "views": 1323
+  },
+  {
+    "id": "people-face-bold-11",
+    "name": "Face Bold",
+    "category": "people",
+    "keywords": [
+      "face",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "face",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 87,
+    "views": 2568
+  },
+  {
+    "id": "people-face-bulk-11",
+    "name": "Face Bulk",
+    "category": "people",
+    "keywords": [
+      "face",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "face",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 835,
+    "views": 3137
+  },
+  {
+    "id": "people-face-linear-11",
+    "name": "Face Linear",
+    "category": "people",
+    "keywords": [
+      "face",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "face",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 740,
+    "views": 4536
+  },
+  {
+    "id": "people-head-outline-12",
+    "name": "Head Outline",
+    "category": "people",
+    "keywords": [
+      "head",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "head",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 433,
+    "views": 2728
+  },
+  {
+    "id": "people-head-bold-12",
+    "name": "Head Bold",
+    "category": "people",
+    "keywords": [
+      "head",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "head",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 132,
+    "views": 2181
+  },
+  {
+    "id": "people-head-bulk-12",
+    "name": "Head Bulk",
+    "category": "people",
+    "keywords": [
+      "head",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "head",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 907,
+    "views": 4959
+  },
+  {
+    "id": "people-head-linear-12",
+    "name": "Head Linear",
+    "category": "people",
+    "keywords": [
+      "head",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "head",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 775,
+    "views": 403
+  },
+  {
+    "id": "people-body-outline-13",
+    "name": "Body Outline",
+    "category": "people",
+    "keywords": [
+      "body",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "body",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 875,
+    "views": 3831
+  },
+  {
+    "id": "people-body-bold-13",
+    "name": "Body Bold",
+    "category": "people",
+    "keywords": [
+      "body",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "body",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 465,
+    "views": 203
+  },
+  {
+    "id": "people-body-bulk-13",
+    "name": "Body Bulk",
+    "category": "people",
+    "keywords": [
+      "body",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "body",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 325,
+    "views": 2172
+  },
+  {
+    "id": "people-body-linear-13",
+    "name": "Body Linear",
+    "category": "people",
+    "keywords": [
+      "body",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "body",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 313,
+    "views": 1559
+  },
+  {
+    "id": "people-hand-outline-14",
+    "name": "Hand Outline",
+    "category": "people",
+    "keywords": [
+      "hand",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "hand",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 3,
+    "views": 2583
+  },
+  {
+    "id": "people-hand-bold-14",
+    "name": "Hand Bold",
+    "category": "people",
+    "keywords": [
+      "hand",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "hand",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 27,
+    "views": 1293
+  },
+  {
+    "id": "people-hand-bulk-14",
+    "name": "Hand Bulk",
+    "category": "people",
+    "keywords": [
+      "hand",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "hand",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 657,
+    "views": 3377
+  },
+  {
+    "id": "people-hand-linear-14",
+    "name": "Hand Linear",
+    "category": "people",
+    "keywords": [
+      "hand",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "hand",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 464,
+    "views": 3900
+  },
+  {
+    "id": "people-finger-outline-15",
+    "name": "Finger Outline",
+    "category": "people",
+    "keywords": [
+      "finger",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "finger",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 356,
+    "views": 4642
+  },
+  {
+    "id": "people-finger-bold-15",
+    "name": "Finger Bold",
+    "category": "people",
+    "keywords": [
+      "finger",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "finger",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 974,
+    "views": 898
+  },
+  {
+    "id": "people-finger-bulk-15",
+    "name": "Finger Bulk",
+    "category": "people",
+    "keywords": [
+      "finger",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "finger",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 225,
+    "views": 3843
+  },
+  {
+    "id": "people-finger-linear-15",
+    "name": "Finger Linear",
+    "category": "people",
+    "keywords": [
+      "finger",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "finger",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 653,
+    "views": 811
+  },
+  {
+    "id": "people-thumb-outline-16",
+    "name": "Thumb Outline",
+    "category": "people",
+    "keywords": [
+      "thumb",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "thumb",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 484,
+    "views": 1986
+  },
+  {
+    "id": "people-thumb-bold-16",
+    "name": "Thumb Bold",
+    "category": "people",
+    "keywords": [
+      "thumb",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "thumb",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 673,
+    "views": 483
+  },
+  {
+    "id": "people-thumb-bulk-16",
+    "name": "Thumb Bulk",
+    "category": "people",
+    "keywords": [
+      "thumb",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "thumb",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 137,
+    "views": 2147
+  },
+  {
+    "id": "people-thumb-linear-16",
+    "name": "Thumb Linear",
+    "category": "people",
+    "keywords": [
+      "thumb",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "thumb",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 334,
+    "views": 4283
+  },
+  {
+    "id": "people-team-outline-17",
+    "name": "Team Outline",
+    "category": "people",
+    "keywords": [
+      "team",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "team",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 679,
+    "views": 1267
+  },
+  {
+    "id": "people-team-bold-17",
+    "name": "Team Bold",
+    "category": "people",
+    "keywords": [
+      "team",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "team",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 569,
+    "views": 4120
+  },
+  {
+    "id": "people-team-bulk-17",
+    "name": "Team Bulk",
+    "category": "people",
+    "keywords": [
+      "team",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "team",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 791,
+    "views": 2627
+  },
+  {
+    "id": "people-team-linear-17",
+    "name": "Team Linear",
+    "category": "people",
+    "keywords": [
+      "team",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "team",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 372,
+    "views": 4467
+  },
+  {
+    "id": "people-group-outline-18",
+    "name": "Group Outline",
+    "category": "people",
+    "keywords": [
+      "group",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "group",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 504,
+    "views": 1885
+  },
+  {
+    "id": "people-group-bold-18",
+    "name": "Group Bold",
+    "category": "people",
+    "keywords": [
+      "group",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "group",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 148,
+    "views": 406
+  },
+  {
+    "id": "people-group-bulk-18",
+    "name": "Group Bulk",
+    "category": "people",
+    "keywords": [
+      "group",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "group",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 627,
+    "views": 1182
+  },
+  {
+    "id": "people-group-linear-18",
+    "name": "Group Linear",
+    "category": "people",
+    "keywords": [
+      "group",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "group",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 429,
+    "views": 1266
+  },
+  {
+    "id": "people-crowd-outline-19",
+    "name": "Crowd Outline",
+    "category": "people",
+    "keywords": [
+      "crowd",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "crowd",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 670,
+    "views": 751
+  },
+  {
+    "id": "people-crowd-bold-19",
+    "name": "Crowd Bold",
+    "category": "people",
+    "keywords": [
+      "crowd",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "crowd",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 974,
+    "views": 4452
+  },
+  {
+    "id": "people-crowd-bulk-19",
+    "name": "Crowd Bulk",
+    "category": "people",
+    "keywords": [
+      "crowd",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "crowd",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 350,
+    "views": 3257
+  },
+  {
+    "id": "people-crowd-linear-19",
+    "name": "Crowd Linear",
+    "category": "people",
+    "keywords": [
+      "crowd",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "crowd",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 910,
+    "views": 831
+  },
+  {
+    "id": "people-audience-outline-20",
+    "name": "Audience Outline",
+    "category": "people",
+    "keywords": [
+      "audience",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "audience",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 895,
+    "views": 330
+  },
+  {
+    "id": "people-audience-bold-20",
+    "name": "Audience Bold",
+    "category": "people",
+    "keywords": [
+      "audience",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "audience",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 429,
+    "views": 4729
+  },
+  {
+    "id": "people-audience-bulk-20",
+    "name": "Audience Bulk",
+    "category": "people",
+    "keywords": [
+      "audience",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "audience",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 827,
+    "views": 1091
+  },
+  {
+    "id": "people-audience-linear-20",
+    "name": "Audience Linear",
+    "category": "people",
+    "keywords": [
+      "audience",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "audience",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 158,
+    "views": 138
+  },
+  {
+    "id": "people-family-outline-21",
+    "name": "Family Outline",
+    "category": "people",
+    "keywords": [
+      "family",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "family",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 279,
+    "views": 2368
+  },
+  {
+    "id": "people-family-bold-21",
+    "name": "Family Bold",
+    "category": "people",
+    "keywords": [
+      "family",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "family",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 856,
+    "views": 466
+  },
+  {
+    "id": "people-family-bulk-21",
+    "name": "Family Bulk",
+    "category": "people",
+    "keywords": [
+      "family",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "family",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 293,
+    "views": 4945
+  },
+  {
+    "id": "people-family-linear-21",
+    "name": "Family Linear",
+    "category": "people",
+    "keywords": [
+      "family",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "family",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 356,
+    "views": 1763
+  },
+  {
+    "id": "people-couple-outline-22",
+    "name": "Couple Outline",
+    "category": "people",
+    "keywords": [
+      "couple",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "couple",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 903,
+    "views": 3887
+  },
+  {
+    "id": "people-couple-bold-22",
+    "name": "Couple Bold",
+    "category": "people",
+    "keywords": [
+      "couple",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "couple",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 63,
+    "views": 1022
+  },
+  {
+    "id": "people-couple-bulk-22",
+    "name": "Couple Bulk",
+    "category": "people",
+    "keywords": [
+      "couple",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "couple",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 655,
+    "views": 2781
+  },
+  {
+    "id": "people-couple-linear-22",
+    "name": "Couple Linear",
+    "category": "people",
+    "keywords": [
+      "couple",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "couple",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 377,
+    "views": 4605
+  },
+  {
+    "id": "people-friends-outline-23",
+    "name": "Friends Outline",
+    "category": "people",
+    "keywords": [
+      "friends",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "friends",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 843,
+    "views": 2755
+  },
+  {
+    "id": "people-friends-bold-23",
+    "name": "Friends Bold",
+    "category": "people",
+    "keywords": [
+      "friends",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "friends",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 76,
+    "views": 3820
+  },
+  {
+    "id": "people-friends-bulk-23",
+    "name": "Friends Bulk",
+    "category": "people",
+    "keywords": [
+      "friends",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "friends",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 374,
+    "views": 3171
+  },
+  {
+    "id": "people-friends-linear-23",
+    "name": "Friends Linear",
+    "category": "people",
+    "keywords": [
+      "friends",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "friends",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 730,
+    "views": 1648
+  },
+  {
+    "id": "people-doctor-outline-24",
+    "name": "Doctor Outline",
+    "category": "people",
+    "keywords": [
+      "doctor",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "doctor",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 104,
+    "views": 2590
+  },
+  {
+    "id": "people-doctor-bold-24",
+    "name": "Doctor Bold",
+    "category": "people",
+    "keywords": [
+      "doctor",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "doctor",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 661,
+    "views": 87
+  },
+  {
+    "id": "people-doctor-bulk-24",
+    "name": "Doctor Bulk",
+    "category": "people",
+    "keywords": [
+      "doctor",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "doctor",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 233,
+    "views": 3434
+  },
+  {
+    "id": "people-doctor-linear-24",
+    "name": "Doctor Linear",
+    "category": "people",
+    "keywords": [
+      "doctor",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "doctor",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 95,
+    "views": 889
+  },
+  {
+    "id": "people-nurse-outline-25",
+    "name": "Nurse Outline",
+    "category": "people",
+    "keywords": [
+      "nurse",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "nurse",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 996,
+    "views": 1131
+  },
+  {
+    "id": "people-nurse-bold-25",
+    "name": "Nurse Bold",
+    "category": "people",
+    "keywords": [
+      "nurse",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "nurse",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 478,
+    "views": 1259
+  },
+  {
+    "id": "people-nurse-bulk-25",
+    "name": "Nurse Bulk",
+    "category": "people",
+    "keywords": [
+      "nurse",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "nurse",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 260,
+    "views": 2008
+  },
+  {
+    "id": "people-nurse-linear-25",
+    "name": "Nurse Linear",
+    "category": "people",
+    "keywords": [
+      "nurse",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "nurse",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 738,
+    "views": 1876
+  },
+  {
+    "id": "people-teacher-outline-26",
+    "name": "Teacher Outline",
+    "category": "people",
+    "keywords": [
+      "teacher",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "teacher",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 240,
+    "views": 4987
+  },
+  {
+    "id": "people-teacher-bold-26",
+    "name": "Teacher Bold",
+    "category": "people",
+    "keywords": [
+      "teacher",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "teacher",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 209,
+    "views": 4772
+  },
+  {
+    "id": "people-teacher-bulk-26",
+    "name": "Teacher Bulk",
+    "category": "people",
+    "keywords": [
+      "teacher",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "teacher",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 463,
+    "views": 1155
+  },
+  {
+    "id": "people-teacher-linear-26",
+    "name": "Teacher Linear",
+    "category": "people",
+    "keywords": [
+      "teacher",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "teacher",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 269,
+    "views": 2996
+  },
+  {
+    "id": "people-student-outline-27",
+    "name": "Student Outline",
+    "category": "people",
+    "keywords": [
+      "student",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "student",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 663,
+    "views": 3301
+  },
+  {
+    "id": "people-student-bold-27",
+    "name": "Student Bold",
+    "category": "people",
+    "keywords": [
+      "student",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "student",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 497,
+    "views": 2031
+  },
+  {
+    "id": "people-student-bulk-27",
+    "name": "Student Bulk",
+    "category": "people",
+    "keywords": [
+      "student",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "student",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 492,
+    "views": 4285
+  },
+  {
+    "id": "people-student-linear-27",
+    "name": "Student Linear",
+    "category": "people",
+    "keywords": [
+      "student",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "student",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 138,
+    "views": 1736
+  },
+  {
+    "id": "people-worker-outline-28",
+    "name": "Worker Outline",
+    "category": "people",
+    "keywords": [
+      "worker",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "worker",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 812,
+    "views": 1547
+  },
+  {
+    "id": "people-worker-bold-28",
+    "name": "Worker Bold",
+    "category": "people",
+    "keywords": [
+      "worker",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "worker",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 965,
+    "views": 589
+  },
+  {
+    "id": "people-worker-bulk-28",
+    "name": "Worker Bulk",
+    "category": "people",
+    "keywords": [
+      "worker",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "worker",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 960,
+    "views": 4690
+  },
+  {
+    "id": "people-worker-linear-28",
+    "name": "Worker Linear",
+    "category": "people",
+    "keywords": [
+      "worker",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "worker",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 789,
+    "views": 2115
+  },
+  {
+    "id": "people-manager-outline-29",
+    "name": "Manager Outline",
+    "category": "people",
+    "keywords": [
+      "manager",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "manager",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 992,
+    "views": 4716
+  },
+  {
+    "id": "people-manager-bold-29",
+    "name": "Manager Bold",
+    "category": "people",
+    "keywords": [
+      "manager",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "manager",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 113,
+    "views": 1330
+  },
+  {
+    "id": "people-manager-bulk-29",
+    "name": "Manager Bulk",
+    "category": "people",
+    "keywords": [
+      "manager",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "manager",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 389,
+    "views": 2948
+  },
+  {
+    "id": "people-manager-linear-29",
+    "name": "Manager Linear",
+    "category": "people",
+    "keywords": [
+      "manager",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "manager",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 173,
+    "views": 3580
+  },
+  {
+    "id": "people-boss-outline-30",
+    "name": "Boss Outline",
+    "category": "people",
+    "keywords": [
+      "boss",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "boss",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 329,
+    "views": 2815
+  },
+  {
+    "id": "people-boss-bold-30",
+    "name": "Boss Bold",
+    "category": "people",
+    "keywords": [
+      "boss",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "boss",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 983,
+    "views": 1161
+  },
+  {
+    "id": "people-boss-bulk-30",
+    "name": "Boss Bulk",
+    "category": "people",
+    "keywords": [
+      "boss",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "boss",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 206,
+    "views": 1775
+  },
+  {
+    "id": "people-boss-linear-30",
+    "name": "Boss Linear",
+    "category": "people",
+    "keywords": [
+      "boss",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "boss",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 915,
+    "views": 3137
+  },
+  {
+    "id": "people-customer-outline-31",
+    "name": "Customer Outline",
+    "category": "people",
+    "keywords": [
+      "customer",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "customer",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 386,
+    "views": 4041
+  },
+  {
+    "id": "people-customer-bold-31",
+    "name": "Customer Bold",
+    "category": "people",
+    "keywords": [
+      "customer",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "customer",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 956,
+    "views": 3248
+  },
+  {
+    "id": "people-customer-bulk-31",
+    "name": "Customer Bulk",
+    "category": "people",
+    "keywords": [
+      "customer",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "customer",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 623,
+    "views": 3740
+  },
+  {
+    "id": "people-customer-linear-31",
+    "name": "Customer Linear",
+    "category": "people",
+    "keywords": [
+      "customer",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "customer",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 310,
+    "views": 3035
+  },
+  {
+    "id": "people-client-outline-32",
+    "name": "Client Outline",
+    "category": "people",
+    "keywords": [
+      "client",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "client",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 544,
+    "views": 1915
+  },
+  {
+    "id": "people-client-bold-32",
+    "name": "Client Bold",
+    "category": "people",
+    "keywords": [
+      "client",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "client",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 312,
+    "views": 780
+  },
+  {
+    "id": "people-client-bulk-32",
+    "name": "Client Bulk",
+    "category": "people",
+    "keywords": [
+      "client",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "client",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 797,
+    "views": 2062
+  },
+  {
+    "id": "people-client-linear-32",
+    "name": "Client Linear",
+    "category": "people",
+    "keywords": [
+      "client",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "client",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 165,
+    "views": 162
+  },
+  {
+    "id": "people-visitor-outline-33",
+    "name": "Visitor Outline",
+    "category": "people",
+    "keywords": [
+      "visitor",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "visitor",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 44,
+    "views": 2457
+  },
+  {
+    "id": "people-visitor-bold-33",
+    "name": "Visitor Bold",
+    "category": "people",
+    "keywords": [
+      "visitor",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "visitor",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 697,
+    "views": 635
+  },
+  {
+    "id": "people-visitor-bulk-33",
+    "name": "Visitor Bulk",
+    "category": "people",
+    "keywords": [
+      "visitor",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "visitor",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 732,
+    "views": 1633
+  },
+  {
+    "id": "people-visitor-linear-33",
+    "name": "Visitor Linear",
+    "category": "people",
+    "keywords": [
+      "visitor",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "visitor",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 721,
+    "views": 2931
+  },
+  {
+    "id": "people-guest-outline-34",
+    "name": "Guest Outline",
+    "category": "people",
+    "keywords": [
+      "guest",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "guest",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 550,
+    "views": 928
+  },
+  {
+    "id": "people-guest-bold-34",
+    "name": "Guest Bold",
+    "category": "people",
+    "keywords": [
+      "guest",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "guest",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 259,
+    "views": 4625
+  },
+  {
+    "id": "people-guest-bulk-34",
+    "name": "Guest Bulk",
+    "category": "people",
+    "keywords": [
+      "guest",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "guest",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 822,
+    "views": 345
+  },
+  {
+    "id": "people-guest-linear-34",
+    "name": "Guest Linear",
+    "category": "people",
+    "keywords": [
+      "guest",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "guest",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 730,
+    "views": 513
+  },
+  {
+    "id": "people-host-outline-35",
+    "name": "Host Outline",
+    "category": "people",
+    "keywords": [
+      "host",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "host",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 624,
+    "views": 3079
+  },
+  {
+    "id": "people-host-bold-35",
+    "name": "Host Bold",
+    "category": "people",
+    "keywords": [
+      "host",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "host",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 554,
+    "views": 2318
+  },
+  {
+    "id": "people-host-bulk-35",
+    "name": "Host Bulk",
+    "category": "people",
+    "keywords": [
+      "host",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "host",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 989,
+    "views": 4474
+  },
+  {
+    "id": "people-host-linear-35",
+    "name": "Host Linear",
+    "category": "people",
+    "keywords": [
+      "host",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "host",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 383,
+    "views": 24
+  },
+  {
+    "id": "people-celebrity-outline-36",
+    "name": "Celebrity Outline",
+    "category": "people",
+    "keywords": [
+      "celebrity",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "celebrity",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 367,
+    "views": 1721
+  },
+  {
+    "id": "people-celebrity-bold-36",
+    "name": "Celebrity Bold",
+    "category": "people",
+    "keywords": [
+      "celebrity",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "celebrity",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 70,
+    "views": 2393
+  },
+  {
+    "id": "people-celebrity-bulk-36",
+    "name": "Celebrity Bulk",
+    "category": "people",
+    "keywords": [
+      "celebrity",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "celebrity",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 979,
+    "views": 431
+  },
+  {
+    "id": "people-celebrity-linear-36",
+    "name": "Celebrity Linear",
+    "category": "people",
+    "keywords": [
+      "celebrity",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "celebrity",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 443,
+    "views": 4415
+  },
+  {
+    "id": "people-star-outline-37",
+    "name": "Star Outline",
+    "category": "people",
+    "keywords": [
+      "star",
+      "people",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><polygon points=\"12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26 12,2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "star",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 214,
+    "views": 2204
+  },
+  {
+    "id": "people-star-bold-37",
+    "name": "Star Bold",
+    "category": "people",
+    "keywords": [
+      "star",
+      "people",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><polygon points=\"12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26 12,2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "star",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 144,
+    "views": 2484
+  },
+  {
+    "id": "people-star-bulk-37",
+    "name": "Star Bulk",
+    "category": "people",
+    "keywords": [
+      "star",
+      "people",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><polygon points=\"12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26 12,2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "star",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 833,
+    "views": 3677
+  },
+  {
+    "id": "people-star-linear-37",
+    "name": "Star Linear",
+    "category": "people",
+    "keywords": [
+      "star",
+      "people",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><polygon points=\"12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26 12,2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "people",
+      "star",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 316,
+    "views": 3482
+  }
+]

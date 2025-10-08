@@ -1,0 +1,636 @@
+{
+  "timestamp": "2025-09-30T23:14:18.270Z",
+  "testName": "Image Editor Functionality Test",
+  "status": "completed",
+  "tests": {
+    "pageLoad": {
+      "status": "passed",
+      "message": "Page loaded successfully",
+      "url": "http://localhost:3001"
+    },
+    "canvasDetection": {
+      "status": "passed",
+      "message": "Canvas found and accessible",
+      "details": {
+        "found": true,
+        "width": 1080,
+        "height": 1080,
+        "displayWidth": 1080,
+        "displayHeight": 1080,
+        "position": {
+          "x": 49,
+          "y": 49
+        },
+        "stage": true,
+        "stageChildren": 1
+      }
+    },
+    "uiComponents": {
+      "status": "passed",
+      "message": "Found 31 buttons, 0 toolbars",
+      "details": {
+        "totalButtons": 31,
+        "buttonTexts": [
+          "Font",
+          "Normal"
+        ],
+        "toolbars": 0,
+        "leftToolbar": false,
+        "topToolbar": false,
+        "propertiesPanel": false,
+        "allElements": [
+          {
+            "tagName": "HTML",
+            "className": "",
+            "id": "",
+            "textContent": "import { injectIntoGlobalHook } from \"/@react-refr"
+          },
+          {
+            "tagName": "HEAD",
+            "className": "",
+            "id": "",
+            "textContent": "import { injectIntoGlobalHook } from \"/@react-refr"
+          },
+          {
+            "tagName": "SCRIPT",
+            "className": "",
+            "id": "",
+            "textContent": "import { injectIntoGlobalHook } from \"/@react-refr"
+          },
+          {
+            "tagName": "TITLE",
+            "className": "",
+            "id": "",
+            "textContent": "Master Image Editor"
+          },
+          {
+            "tagName": "STYLE",
+            "className": "",
+            "id": "",
+            "textContent": "*, ::before, ::after {\n  --tw-border-spacing-x: 0;"
+          },
+          {
+            "tagName": "STYLE",
+            "className": "",
+            "id": "",
+            "textContent": "*, ::before, ::after {\n  --tw-border-spacing-x: 0;"
+          },
+          {
+            "tagName": "BODY",
+            "className": "",
+            "id": "",
+            "textContent": "100%FontOpacityThemeHow to use:• Select a tool fro"
+          },
+          {
+            "tagName": "DIV",
+            "className": "",
+            "id": "root",
+            "textContent": "100%FontOpacityThemeHow to use:• Select a tool fro"
+          },
+          {
+            "tagName": "DIV",
+            "className": "size-full flex flex-col bg-gray-900 dark",
+            "id": "",
+            "textContent": "100%FontOpacityThemeHow to use:• Select a tool fro"
+          },
+          {
+            "tagName": "DIV",
+            "className": "h-12 flex items-center px-4 gap-3 bg-black/80 backdrop-blur-md border-b border-white/10 text-white",
+            "id": "",
+            "textContent": "100%FontOpacityTheme"
+          },
+          {
+            "tagName": "DIV",
+            "className": "flex items-center gap-2",
+            "id": "",
+            "textContent": "100%"
+          },
+          {
+            "tagName": "SPAN",
+            "className": "text-sm min-w-12 text-center opacity-80",
+            "id": "",
+            "textContent": "100%"
+          },
+          {
+            "tagName": "DIV",
+            "className": "flex items-center gap-2",
+            "id": "",
+            "textContent": "Font"
+          },
+          {
+            "tagName": "BUTTON",
+            "className": "data-[placeholder]:text-muted-foreground [&_svg:not([class*='text-'])]:text-muted-foreground focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive dark:bg-input/30 dark:hover:bg-input/50 flex items-center justify-between gap-2 rounded-md border px-3 py-2 text-sm whitespace-nowrap transition-[color,box-shadow] outline-none focus-visible:ring-[3px] disabled:cursor-not-allowed disabled:opacity-50 data-[size=default]:h-9 data-[size=sm]:h-8 *:data-[slot=select-value]:line-clamp-1 *:data-[slot=select-value]:flex *:data-[slot=select-value]:items-center *:data-[slot=select-value]:gap-2 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 w-32 h-8 bg-white/5 border-white/20 text-white/80",
+            "id": "",
+            "textContent": "Font"
+          },
+          {
+            "tagName": "SPAN",
+            "className": "",
+            "id": "",
+            "textContent": "Font"
+          },
+          {
+            "tagName": "DIV",
+            "className": "flex items-center gap-2 min-w-24",
+            "id": "",
+            "textContent": "Opacity"
+          },
+          {
+            "tagName": "SPAN",
+            "className": "text-xs opacity-60",
+            "id": "",
+            "textContent": "Opacity"
+          },
+          {
+            "tagName": "DIV",
+            "className": "flex items-center gap-2",
+            "id": "",
+            "textContent": "Theme"
+          },
+          {
+            "tagName": "SPAN",
+            "className": "text-xs text-white/60 mr-1",
+            "id": "",
+            "textContent": "Theme"
+          },
+          {
+            "tagName": "DIV",
+            "className": "flex-1 flex overflow-hidden",
+            "id": "",
+            "textContent": "How to use:• Select a tool from the left• Click on"
+          },
+          {
+            "tagName": "DIV",
+            "className": "flex-1 relative",
+            "id": "",
+            "textContent": "How to use:• Select a tool from the left• Click on"
+          },
+          {
+            "tagName": "DIV",
+            "className": "absolute top-4 left-4 bg-black/80 text-white p-3 rounded-lg text-sm max-w-xs",
+            "id": "",
+            "textContent": "How to use:• Select a tool from the left• Click on"
+          },
+          {
+            "tagName": "H3",
+            "className": "font-semibold mb-2",
+            "id": "",
+            "textContent": "How to use:"
+          },
+          {
+            "tagName": "UL",
+            "className": "space-y-1 text-xs",
+            "id": "",
+            "textContent": "• Select a tool from the left• Click on canvas to "
+          },
+          {
+            "tagName": "LI",
+            "className": "",
+            "id": "",
+            "textContent": "• Select a tool from the left"
+          },
+          {
+            "tagName": "LI",
+            "className": "",
+            "id": "",
+            "textContent": "• Click on canvas to add objects"
+          },
+          {
+            "tagName": "LI",
+            "className": "",
+            "id": "",
+            "textContent": "• Click objects to select them"
+          },
+          {
+            "tagName": "LI",
+            "className": "",
+            "id": "",
+            "textContent": "• Drag to move objects"
+          },
+          {
+            "tagName": "LI",
+            "className": "",
+            "id": "",
+            "textContent": "• Use handles to resize/rotate"
+          },
+          {
+            "tagName": "LI",
+            "className": "",
+            "id": "",
+            "textContent": "• Press Delete to remove"
+          },
+          {
+            "tagName": "LI",
+            "className": "",
+            "id": "",
+            "textContent": "• Double-click text to edit"
+          },
+          {
+            "tagName": "DIV",
+            "className": "w-64 overflow-y-auto bg-black/80 backdrop-blur-md border-l border-white/10",
+            "id": "",
+            "textContent": "Layer PropertiesNo SelectionOpacityBlend ModeNorma"
+          },
+          {
+            "tagName": "DIV",
+            "className": "p-4 space-y-4",
+            "id": "",
+            "textContent": "Layer PropertiesNo SelectionOpacityBlend ModeNorma"
+          },
+          {
+            "tagName": "DIV",
+            "className": "text-card-foreground flex flex-col gap-6 rounded-xl border bg-white/5 border-white/20",
+            "id": "",
+            "textContent": "Layer PropertiesNo SelectionOpacityBlend ModeNorma"
+          },
+          {
+            "tagName": "DIV",
+            "className": "@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-1.5 px-6 pt-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6 pb-3",
+            "id": "",
+            "textContent": "Layer Properties"
+          },
+          {
+            "tagName": "H4",
+            "className": "leading-none text-white/90",
+            "id": "",
+            "textContent": "Layer Properties"
+          },
+          {
+            "tagName": "DIV",
+            "className": "px-6 [&:last-child]:pb-6 space-y-3",
+            "id": "",
+            "textContent": "No SelectionOpacityBlend ModeNormal"
+          },
+          {
+            "tagName": "DIV",
+            "className": "flex items-center justify-between",
+            "id": "",
+            "textContent": "No Selection"
+          },
+          {
+            "tagName": "LABEL",
+            "className": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50 text-white/80",
+            "id": "",
+            "textContent": "No Selection"
+          },
+          {
+            "tagName": "DIV",
+            "className": "space-y-2",
+            "id": "",
+            "textContent": "Opacity"
+          },
+          {
+            "tagName": "LABEL",
+            "className": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50 text-white/80",
+            "id": "",
+            "textContent": "Opacity"
+          },
+          {
+            "tagName": "DIV",
+            "className": "space-y-2",
+            "id": "",
+            "textContent": "Blend ModeNormal"
+          },
+          {
+            "tagName": "LABEL",
+            "className": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50 text-white/80",
+            "id": "",
+            "textContent": "Blend Mode"
+          },
+          {
+            "tagName": "BUTTON",
+            "className": "data-[placeholder]:text-muted-foreground [&_svg:not([class*='text-'])]:text-muted-foreground focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive dark:bg-input/30 dark:hover:bg-input/50 flex w-full items-center justify-between gap-2 rounded-md border px-3 py-2 text-sm whitespace-nowrap transition-[color,box-shadow] outline-none focus-visible:ring-[3px] disabled:cursor-not-allowed disabled:opacity-50 data-[size=default]:h-9 data-[size=sm]:h-8 *:data-[slot=select-value]:line-clamp-1 *:data-[slot=select-value]:flex *:data-[slot=select-value]:items-center *:data-[slot=select-value]:gap-2 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 bg-white/5 border-white/20 text-white/80",
+            "id": "",
+            "textContent": "Normal"
+          },
+          {
+            "tagName": "SPAN",
+            "className": "",
+            "id": "",
+            "textContent": "Normal"
+          },
+          {
+            "tagName": "DIV",
+            "className": "text-card-foreground flex flex-col gap-6 rounded-xl border bg-white/5 border-white/20",
+            "id": "",
+            "textContent": "TransformXYWidthHeightRotation"
+          },
+          {
+            "tagName": "DIV",
+            "className": "@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-1.5 px-6 pt-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6 pb-3",
+            "id": "",
+            "textContent": "Transform"
+          },
+          {
+            "tagName": "H4",
+            "className": "leading-none text-white/90",
+            "id": "",
+            "textContent": "Transform"
+          },
+          {
+            "tagName": "DIV",
+            "className": "px-6 [&:last-child]:pb-6 space-y-3",
+            "id": "",
+            "textContent": "XYWidthHeightRotation"
+          },
+          {
+            "tagName": "DIV",
+            "className": "grid grid-cols-2 gap-2",
+            "id": "",
+            "textContent": "XY"
+          },
+          {
+            "tagName": "DIV",
+            "className": "space-y-1",
+            "id": "",
+            "textContent": "X"
+          },
+          {
+            "tagName": "LABEL",
+            "className": "flex items-center gap-2 font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50 text-white/80 text-xs",
+            "id": "",
+            "textContent": "X"
+          },
+          {
+            "tagName": "DIV",
+            "className": "space-y-1",
+            "id": "",
+            "textContent": "Y"
+          },
+          {
+            "tagName": "LABEL",
+            "className": "flex items-center gap-2 font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50 text-white/80 text-xs",
+            "id": "",
+            "textContent": "Y"
+          },
+          {
+            "tagName": "DIV",
+            "className": "grid grid-cols-2 gap-2",
+            "id": "",
+            "textContent": "WidthHeight"
+          },
+          {
+            "tagName": "DIV",
+            "className": "space-y-1",
+            "id": "",
+            "textContent": "Width"
+          },
+          {
+            "tagName": "LABEL",
+            "className": "flex items-center gap-2 font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50 text-white/80 text-xs",
+            "id": "",
+            "textContent": "Width"
+          },
+          {
+            "tagName": "DIV",
+            "className": "space-y-1",
+            "id": "",
+            "textContent": "Height"
+          },
+          {
+            "tagName": "LABEL",
+            "className": "flex items-center gap-2 font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50 text-white/80 text-xs",
+            "id": "",
+            "textContent": "Height"
+          },
+          {
+            "tagName": "DIV",
+            "className": "space-y-2",
+            "id": "",
+            "textContent": "Rotation"
+          },
+          {
+            "tagName": "LABEL",
+            "className": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50 text-white/80",
+            "id": "",
+            "textContent": "Rotation"
+          },
+          {
+            "tagName": "DIV",
+            "className": "text-card-foreground flex flex-col gap-6 rounded-xl border bg-white/5 border-white/20",
+            "id": "",
+            "textContent": "Fill & StrokeFill ColorStroke ColorStroke Width"
+          },
+          {
+            "tagName": "DIV",
+            "className": "@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-1.5 px-6 pt-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6 pb-3",
+            "id": "",
+            "textContent": "Fill & Stroke"
+          },
+          {
+            "tagName": "H4",
+            "className": "leading-none text-white/90",
+            "id": "",
+            "textContent": "Fill & Stroke"
+          },
+          {
+            "tagName": "DIV",
+            "className": "px-6 [&:last-child]:pb-6 space-y-3",
+            "id": "",
+            "textContent": "Fill ColorStroke ColorStroke Width"
+          },
+          {
+            "tagName": "DIV",
+            "className": "space-y-2",
+            "id": "",
+            "textContent": "Fill Color"
+          },
+          {
+            "tagName": "LABEL",
+            "className": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50 text-white/80",
+            "id": "",
+            "textContent": "Fill Color"
+          },
+          {
+            "tagName": "DIV",
+            "className": "space-y-2",
+            "id": "",
+            "textContent": "Stroke Color"
+          },
+          {
+            "tagName": "LABEL",
+            "className": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50 text-white/80",
+            "id": "",
+            "textContent": "Stroke Color"
+          },
+          {
+            "tagName": "DIV",
+            "className": "space-y-2",
+            "id": "",
+            "textContent": "Stroke Width"
+          },
+          {
+            "tagName": "LABEL",
+            "className": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50 text-white/80",
+            "id": "",
+            "textContent": "Stroke Width"
+          },
+          {
+            "tagName": "DIV",
+            "className": "text-card-foreground flex flex-col gap-6 rounded-xl border bg-white/5 border-white/20",
+            "id": "",
+            "textContent": "EffectsShadowBlurBrightness"
+          },
+          {
+            "tagName": "DIV",
+            "className": "@container/card-header grid auto-rows-min grid-rows-[auto_auto] items-start gap-1.5 px-6 pt-6 has-data-[slot=card-action]:grid-cols-[1fr_auto] [.border-b]:pb-6 pb-3",
+            "id": "",
+            "textContent": "Effects"
+          },
+          {
+            "tagName": "H4",
+            "className": "leading-none text-white/90",
+            "id": "",
+            "textContent": "Effects"
+          },
+          {
+            "tagName": "DIV",
+            "className": "px-6 [&:last-child]:pb-6 space-y-3",
+            "id": "",
+            "textContent": "ShadowBlurBrightness"
+          },
+          {
+            "tagName": "DIV",
+            "className": "space-y-2",
+            "id": "",
+            "textContent": "Shadow"
+          },
+          {
+            "tagName": "LABEL",
+            "className": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50 text-white/80",
+            "id": "",
+            "textContent": "Shadow"
+          },
+          {
+            "tagName": "DIV",
+            "className": "space-y-2",
+            "id": "",
+            "textContent": "Blur"
+          },
+          {
+            "tagName": "LABEL",
+            "className": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50 text-white/80",
+            "id": "",
+            "textContent": "Blur"
+          },
+          {
+            "tagName": "DIV",
+            "className": "space-y-2",
+            "id": "",
+            "textContent": "Brightness"
+          },
+          {
+            "tagName": "LABEL",
+            "className": "flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50 text-white/80",
+            "id": "",
+            "textContent": "Brightness"
+          }
+        ]
+      }
+    },
+    "toolSelection": {
+      "status": "failed",
+      "message": "Found 0 tool buttons",
+      "details": {
+        "toolButtonsFound": 0,
+        "toolButtonTexts": [],
+        "canClickTools": false
+      }
+    },
+    "canvasInteraction": {
+      "status": "failed",
+      "message": "Canvas clicks: 0/3 created objects",
+      "details": {
+        "canvasRect": {
+          "x": 49,
+          "y": 49,
+          "width": 1080,
+          "height": 1080
+        },
+        "clickResults": [
+          {
+            "click": 1,
+            "position": {
+              "x": 149,
+              "y": 149
+            },
+            "objectsBefore": 1,
+            "objectsAfter": 1,
+            "objectsCreated": 0
+          },
+          {
+            "click": 2,
+            "position": {
+              "x": 199,
+              "y": 199
+            },
+            "objectsBefore": 1,
+            "objectsAfter": 1,
+            "objectsCreated": 0
+          },
+          {
+            "click": 3,
+            "position": {
+              "x": 249,
+              "y": 249
+            },
+            "objectsBefore": 1,
+            "objectsAfter": 1,
+            "objectsCreated": 0
+          }
+        ],
+        "totalObjectsCreated": 0
+      }
+    },
+    "dragAndDrop": {
+      "status": "completed",
+      "message": "Drag operation completed",
+      "details": {
+        "startPosition": {
+          "x": 589,
+          "y": 589
+        },
+        "endPosition": {
+          "x": 639,
+          "y": 639
+        }
+      }
+    },
+    "errorDetection": {
+      "status": "passed",
+      "message": "React errors: false, Console errors: 0",
+      "details": {
+        "reactErrorBoundary": false,
+        "errorElements": 0,
+        "consoleErrors": []
+      }
+    }
+  },
+  "errors": [],
+  "warnings": [],
+  "summary": {
+    "totalTests": 7,
+    "passed": 4,
+    "failed": 2,
+    "skipped": 0,
+    "successRate": "57%",
+    "overallStatus": "failed"
+  },
+  "consoleMessages": [
+    {
+      "type": "debug",
+      "text": "[vite] connecting...",
+      "timestamp": "2025-09-30T23:14:18.961Z"
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connected.",
+      "timestamp": "2025-09-30T23:14:18.976Z"
+    },
+    {
+      "type": "info",
+      "text": "%cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold",
+      "timestamp": "2025-09-30T23:14:19.002Z"
+    }
+  ]
+}

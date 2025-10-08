@@ -1,0 +1,3598 @@
+[
+  {
+    "id": "education-book-outline-1",
+    "name": "Book Outline",
+    "category": "education",
+    "keywords": [
+      "book",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M4 19.5A2.5 2.5 0 0 1 6.5 17H20\"/><path d=\"M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "book",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 477,
+    "views": 863
+  },
+  {
+    "id": "education-book-bold-1",
+    "name": "Book Bold",
+    "category": "education",
+    "keywords": [
+      "book",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M4 19.5A2.5 2.5 0 0 1 6.5 17H20\"/><path d=\"M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "book",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 600,
+    "views": 1418
+  },
+  {
+    "id": "education-book-bulk-1",
+    "name": "Book Bulk",
+    "category": "education",
+    "keywords": [
+      "book",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M4 19.5A2.5 2.5 0 0 1 6.5 17H20\"/><path d=\"M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "book",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 118,
+    "views": 4695
+  },
+  {
+    "id": "education-book-linear-1",
+    "name": "Book Linear",
+    "category": "education",
+    "keywords": [
+      "book",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M4 19.5A2.5 2.5 0 0 1 6.5 17H20\"/><path d=\"M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "book",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 462,
+    "views": 3925
+  },
+  {
+    "id": "education-books-outline-2",
+    "name": "Books Outline",
+    "category": "education",
+    "keywords": [
+      "books",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "books",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 382,
+    "views": 1026
+  },
+  {
+    "id": "education-books-bold-2",
+    "name": "Books Bold",
+    "category": "education",
+    "keywords": [
+      "books",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "books",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 906,
+    "views": 1888
+  },
+  {
+    "id": "education-books-bulk-2",
+    "name": "Books Bulk",
+    "category": "education",
+    "keywords": [
+      "books",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "books",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 80,
+    "views": 3466
+  },
+  {
+    "id": "education-books-linear-2",
+    "name": "Books Linear",
+    "category": "education",
+    "keywords": [
+      "books",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "books",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 177,
+    "views": 461
+  },
+  {
+    "id": "education-library-outline-3",
+    "name": "Library Outline",
+    "category": "education",
+    "keywords": [
+      "library",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "library",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 855,
+    "views": 1076
+  },
+  {
+    "id": "education-library-bold-3",
+    "name": "Library Bold",
+    "category": "education",
+    "keywords": [
+      "library",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "library",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 267,
+    "views": 4662
+  },
+  {
+    "id": "education-library-bulk-3",
+    "name": "Library Bulk",
+    "category": "education",
+    "keywords": [
+      "library",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "library",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 103,
+    "views": 3993
+  },
+  {
+    "id": "education-library-linear-3",
+    "name": "Library Linear",
+    "category": "education",
+    "keywords": [
+      "library",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "library",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 437,
+    "views": 2497
+  },
+  {
+    "id": "education-school-outline-4",
+    "name": "School Outline",
+    "category": "education",
+    "keywords": [
+      "school",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "school",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 595,
+    "views": 3779
+  },
+  {
+    "id": "education-school-bold-4",
+    "name": "School Bold",
+    "category": "education",
+    "keywords": [
+      "school",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "school",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 502,
+    "views": 1620
+  },
+  {
+    "id": "education-school-bulk-4",
+    "name": "School Bulk",
+    "category": "education",
+    "keywords": [
+      "school",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "school",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 352,
+    "views": 4286
+  },
+  {
+    "id": "education-school-linear-4",
+    "name": "School Linear",
+    "category": "education",
+    "keywords": [
+      "school",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "school",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 53,
+    "views": 1051
+  },
+  {
+    "id": "education-university-outline-5",
+    "name": "University Outline",
+    "category": "education",
+    "keywords": [
+      "university",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "university",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 828,
+    "views": 2689
+  },
+  {
+    "id": "education-university-bold-5",
+    "name": "University Bold",
+    "category": "education",
+    "keywords": [
+      "university",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "university",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 105,
+    "views": 601
+  },
+  {
+    "id": "education-university-bulk-5",
+    "name": "University Bulk",
+    "category": "education",
+    "keywords": [
+      "university",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "university",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 54,
+    "views": 3451
+  },
+  {
+    "id": "education-university-linear-5",
+    "name": "University Linear",
+    "category": "education",
+    "keywords": [
+      "university",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "university",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 222,
+    "views": 2640
+  },
+  {
+    "id": "education-college-outline-6",
+    "name": "College Outline",
+    "category": "education",
+    "keywords": [
+      "college",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "college",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 2,
+    "views": 3283
+  },
+  {
+    "id": "education-college-bold-6",
+    "name": "College Bold",
+    "category": "education",
+    "keywords": [
+      "college",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "college",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 186,
+    "views": 305
+  },
+  {
+    "id": "education-college-bulk-6",
+    "name": "College Bulk",
+    "category": "education",
+    "keywords": [
+      "college",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "college",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 955,
+    "views": 3283
+  },
+  {
+    "id": "education-college-linear-6",
+    "name": "College Linear",
+    "category": "education",
+    "keywords": [
+      "college",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "college",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 294,
+    "views": 4025
+  },
+  {
+    "id": "education-student-outline-7",
+    "name": "Student Outline",
+    "category": "education",
+    "keywords": [
+      "student",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "student",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 857,
+    "views": 1292
+  },
+  {
+    "id": "education-student-bold-7",
+    "name": "Student Bold",
+    "category": "education",
+    "keywords": [
+      "student",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "student",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 867,
+    "views": 2231
+  },
+  {
+    "id": "education-student-bulk-7",
+    "name": "Student Bulk",
+    "category": "education",
+    "keywords": [
+      "student",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "student",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 386,
+    "views": 4416
+  },
+  {
+    "id": "education-student-linear-7",
+    "name": "Student Linear",
+    "category": "education",
+    "keywords": [
+      "student",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "student",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 79,
+    "views": 4644
+  },
+  {
+    "id": "education-teacher-outline-8",
+    "name": "Teacher Outline",
+    "category": "education",
+    "keywords": [
+      "teacher",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "teacher",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 578,
+    "views": 4599
+  },
+  {
+    "id": "education-teacher-bold-8",
+    "name": "Teacher Bold",
+    "category": "education",
+    "keywords": [
+      "teacher",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "teacher",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 734,
+    "views": 4241
+  },
+  {
+    "id": "education-teacher-bulk-8",
+    "name": "Teacher Bulk",
+    "category": "education",
+    "keywords": [
+      "teacher",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "teacher",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 281,
+    "views": 3981
+  },
+  {
+    "id": "education-teacher-linear-8",
+    "name": "Teacher Linear",
+    "category": "education",
+    "keywords": [
+      "teacher",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "teacher",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 922,
+    "views": 725
+  },
+  {
+    "id": "education-professor-outline-9",
+    "name": "Professor Outline",
+    "category": "education",
+    "keywords": [
+      "professor",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "professor",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 976,
+    "views": 453
+  },
+  {
+    "id": "education-professor-bold-9",
+    "name": "Professor Bold",
+    "category": "education",
+    "keywords": [
+      "professor",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "professor",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 295,
+    "views": 3341
+  },
+  {
+    "id": "education-professor-bulk-9",
+    "name": "Professor Bulk",
+    "category": "education",
+    "keywords": [
+      "professor",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "professor",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 952,
+    "views": 906
+  },
+  {
+    "id": "education-professor-linear-9",
+    "name": "Professor Linear",
+    "category": "education",
+    "keywords": [
+      "professor",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "professor",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 834,
+    "views": 91
+  },
+  {
+    "id": "education-classroom-outline-10",
+    "name": "Classroom Outline",
+    "category": "education",
+    "keywords": [
+      "classroom",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "classroom",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 47,
+    "views": 3421
+  },
+  {
+    "id": "education-classroom-bold-10",
+    "name": "Classroom Bold",
+    "category": "education",
+    "keywords": [
+      "classroom",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "classroom",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 578,
+    "views": 3967
+  },
+  {
+    "id": "education-classroom-bulk-10",
+    "name": "Classroom Bulk",
+    "category": "education",
+    "keywords": [
+      "classroom",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "classroom",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 36,
+    "views": 1038
+  },
+  {
+    "id": "education-classroom-linear-10",
+    "name": "Classroom Linear",
+    "category": "education",
+    "keywords": [
+      "classroom",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "classroom",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 761,
+    "views": 2769
+  },
+  {
+    "id": "education-desk-outline-11",
+    "name": "Desk Outline",
+    "category": "education",
+    "keywords": [
+      "desk",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "desk",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 479,
+    "views": 3737
+  },
+  {
+    "id": "education-desk-bold-11",
+    "name": "Desk Bold",
+    "category": "education",
+    "keywords": [
+      "desk",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "desk",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 8,
+    "views": 2429
+  },
+  {
+    "id": "education-desk-bulk-11",
+    "name": "Desk Bulk",
+    "category": "education",
+    "keywords": [
+      "desk",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "desk",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 271,
+    "views": 1045
+  },
+  {
+    "id": "education-desk-linear-11",
+    "name": "Desk Linear",
+    "category": "education",
+    "keywords": [
+      "desk",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "desk",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 5,
+    "views": 380
+  },
+  {
+    "id": "education-chair-outline-12",
+    "name": "Chair Outline",
+    "category": "education",
+    "keywords": [
+      "chair",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "chair",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 403,
+    "views": 3913
+  },
+  {
+    "id": "education-chair-bold-12",
+    "name": "Chair Bold",
+    "category": "education",
+    "keywords": [
+      "chair",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "chair",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 938,
+    "views": 1693
+  },
+  {
+    "id": "education-chair-bulk-12",
+    "name": "Chair Bulk",
+    "category": "education",
+    "keywords": [
+      "chair",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "chair",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 874,
+    "views": 1942
+  },
+  {
+    "id": "education-chair-linear-12",
+    "name": "Chair Linear",
+    "category": "education",
+    "keywords": [
+      "chair",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "chair",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 251,
+    "views": 1244
+  },
+  {
+    "id": "education-pencil-outline-13",
+    "name": "Pencil Outline",
+    "category": "education",
+    "keywords": [
+      "pencil",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "pencil",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 44,
+    "views": 3578
+  },
+  {
+    "id": "education-pencil-bold-13",
+    "name": "Pencil Bold",
+    "category": "education",
+    "keywords": [
+      "pencil",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "pencil",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 0,
+    "views": 2746
+  },
+  {
+    "id": "education-pencil-bulk-13",
+    "name": "Pencil Bulk",
+    "category": "education",
+    "keywords": [
+      "pencil",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "pencil",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 569,
+    "views": 2371
+  },
+  {
+    "id": "education-pencil-linear-13",
+    "name": "Pencil Linear",
+    "category": "education",
+    "keywords": [
+      "pencil",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "pencil",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 254,
+    "views": 824
+  },
+  {
+    "id": "education-pen-outline-14",
+    "name": "Pen Outline",
+    "category": "education",
+    "keywords": [
+      "pen",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "pen",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 444,
+    "views": 1072
+  },
+  {
+    "id": "education-pen-bold-14",
+    "name": "Pen Bold",
+    "category": "education",
+    "keywords": [
+      "pen",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "pen",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 368,
+    "views": 1694
+  },
+  {
+    "id": "education-pen-bulk-14",
+    "name": "Pen Bulk",
+    "category": "education",
+    "keywords": [
+      "pen",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "pen",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 546,
+    "views": 3246
+  },
+  {
+    "id": "education-pen-linear-14",
+    "name": "Pen Linear",
+    "category": "education",
+    "keywords": [
+      "pen",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "pen",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 981,
+    "views": 3674
+  },
+  {
+    "id": "education-paper-outline-15",
+    "name": "Paper Outline",
+    "category": "education",
+    "keywords": [
+      "paper",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "paper",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 411,
+    "views": 1171
+  },
+  {
+    "id": "education-paper-bold-15",
+    "name": "Paper Bold",
+    "category": "education",
+    "keywords": [
+      "paper",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "paper",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 752,
+    "views": 1406
+  },
+  {
+    "id": "education-paper-bulk-15",
+    "name": "Paper Bulk",
+    "category": "education",
+    "keywords": [
+      "paper",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "paper",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 524,
+    "views": 3627
+  },
+  {
+    "id": "education-paper-linear-15",
+    "name": "Paper Linear",
+    "category": "education",
+    "keywords": [
+      "paper",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "paper",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 14,
+    "views": 2790
+  },
+  {
+    "id": "education-notebook-outline-16",
+    "name": "Notebook Outline",
+    "category": "education",
+    "keywords": [
+      "notebook",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "notebook",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 567,
+    "views": 3814
+  },
+  {
+    "id": "education-notebook-bold-16",
+    "name": "Notebook Bold",
+    "category": "education",
+    "keywords": [
+      "notebook",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "notebook",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 750,
+    "views": 55
+  },
+  {
+    "id": "education-notebook-bulk-16",
+    "name": "Notebook Bulk",
+    "category": "education",
+    "keywords": [
+      "notebook",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "notebook",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 540,
+    "views": 3007
+  },
+  {
+    "id": "education-notebook-linear-16",
+    "name": "Notebook Linear",
+    "category": "education",
+    "keywords": [
+      "notebook",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "notebook",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 411,
+    "views": 500
+  },
+  {
+    "id": "education-diary-outline-17",
+    "name": "Diary Outline",
+    "category": "education",
+    "keywords": [
+      "diary",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "diary",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 895,
+    "views": 2431
+  },
+  {
+    "id": "education-diary-bold-17",
+    "name": "Diary Bold",
+    "category": "education",
+    "keywords": [
+      "diary",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "diary",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 553,
+    "views": 107
+  },
+  {
+    "id": "education-diary-bulk-17",
+    "name": "Diary Bulk",
+    "category": "education",
+    "keywords": [
+      "diary",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "diary",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 237,
+    "views": 1795
+  },
+  {
+    "id": "education-diary-linear-17",
+    "name": "Diary Linear",
+    "category": "education",
+    "keywords": [
+      "diary",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "diary",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 286,
+    "views": 3025
+  },
+  {
+    "id": "education-journal-outline-18",
+    "name": "Journal Outline",
+    "category": "education",
+    "keywords": [
+      "journal",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "journal",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 86,
+    "views": 3574
+  },
+  {
+    "id": "education-journal-bold-18",
+    "name": "Journal Bold",
+    "category": "education",
+    "keywords": [
+      "journal",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "journal",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 355,
+    "views": 3487
+  },
+  {
+    "id": "education-journal-bulk-18",
+    "name": "Journal Bulk",
+    "category": "education",
+    "keywords": [
+      "journal",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "journal",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 6,
+    "views": 443
+  },
+  {
+    "id": "education-journal-linear-18",
+    "name": "Journal Linear",
+    "category": "education",
+    "keywords": [
+      "journal",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "journal",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 197,
+    "views": 3131
+  },
+  {
+    "id": "education-graduation-outline-19",
+    "name": "Graduation Outline",
+    "category": "education",
+    "keywords": [
+      "graduation",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M22 10v6M2 10l10-5 10 5-10 5z\"/><path d=\"M6 12v5c3 3 9 3 12 0v-5\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "graduation",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 544,
+    "views": 780
+  },
+  {
+    "id": "education-graduation-bold-19",
+    "name": "Graduation Bold",
+    "category": "education",
+    "keywords": [
+      "graduation",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M22 10v6M2 10l10-5 10 5-10 5z\"/><path d=\"M6 12v5c3 3 9 3 12 0v-5\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "graduation",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 666,
+    "views": 32
+  },
+  {
+    "id": "education-graduation-bulk-19",
+    "name": "Graduation Bulk",
+    "category": "education",
+    "keywords": [
+      "graduation",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M22 10v6M2 10l10-5 10 5-10 5z\"/><path d=\"M6 12v5c3 3 9 3 12 0v-5\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "graduation",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 510,
+    "views": 1535
+  },
+  {
+    "id": "education-graduation-linear-19",
+    "name": "Graduation Linear",
+    "category": "education",
+    "keywords": [
+      "graduation",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M22 10v6M2 10l10-5 10 5-10 5z\"/><path d=\"M6 12v5c3 3 9 3 12 0v-5\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "graduation",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 366,
+    "views": 4351
+  },
+  {
+    "id": "education-degree-outline-20",
+    "name": "Degree Outline",
+    "category": "education",
+    "keywords": [
+      "degree",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "degree",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 313,
+    "views": 3420
+  },
+  {
+    "id": "education-degree-bold-20",
+    "name": "Degree Bold",
+    "category": "education",
+    "keywords": [
+      "degree",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "degree",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 19,
+    "views": 625
+  },
+  {
+    "id": "education-degree-bulk-20",
+    "name": "Degree Bulk",
+    "category": "education",
+    "keywords": [
+      "degree",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "degree",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 71,
+    "views": 680
+  },
+  {
+    "id": "education-degree-linear-20",
+    "name": "Degree Linear",
+    "category": "education",
+    "keywords": [
+      "degree",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "degree",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 134,
+    "views": 788
+  },
+  {
+    "id": "education-certificate-outline-21",
+    "name": "Certificate Outline",
+    "category": "education",
+    "keywords": [
+      "certificate",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "certificate",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 747,
+    "views": 4598
+  },
+  {
+    "id": "education-certificate-bold-21",
+    "name": "Certificate Bold",
+    "category": "education",
+    "keywords": [
+      "certificate",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "certificate",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 126,
+    "views": 3086
+  },
+  {
+    "id": "education-certificate-bulk-21",
+    "name": "Certificate Bulk",
+    "category": "education",
+    "keywords": [
+      "certificate",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "certificate",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 648,
+    "views": 2996
+  },
+  {
+    "id": "education-certificate-linear-21",
+    "name": "Certificate Linear",
+    "category": "education",
+    "keywords": [
+      "certificate",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "certificate",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 387,
+    "views": 4206
+  },
+  {
+    "id": "education-diploma-outline-22",
+    "name": "Diploma Outline",
+    "category": "education",
+    "keywords": [
+      "diploma",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "diploma",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 717,
+    "views": 3905
+  },
+  {
+    "id": "education-diploma-bold-22",
+    "name": "Diploma Bold",
+    "category": "education",
+    "keywords": [
+      "diploma",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "diploma",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 363,
+    "views": 2549
+  },
+  {
+    "id": "education-diploma-bulk-22",
+    "name": "Diploma Bulk",
+    "category": "education",
+    "keywords": [
+      "diploma",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "diploma",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 578,
+    "views": 236
+  },
+  {
+    "id": "education-diploma-linear-22",
+    "name": "Diploma Linear",
+    "category": "education",
+    "keywords": [
+      "diploma",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "diploma",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 510,
+    "views": 4251
+  },
+  {
+    "id": "education-award-outline-23",
+    "name": "Award Outline",
+    "category": "education",
+    "keywords": [
+      "award",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "award",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 450,
+    "views": 4785
+  },
+  {
+    "id": "education-award-bold-23",
+    "name": "Award Bold",
+    "category": "education",
+    "keywords": [
+      "award",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "award",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 955,
+    "views": 3465
+  },
+  {
+    "id": "education-award-bulk-23",
+    "name": "Award Bulk",
+    "category": "education",
+    "keywords": [
+      "award",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "award",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 113,
+    "views": 341
+  },
+  {
+    "id": "education-award-linear-23",
+    "name": "Award Linear",
+    "category": "education",
+    "keywords": [
+      "award",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "award",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 693,
+    "views": 3226
+  },
+  {
+    "id": "education-research-outline-24",
+    "name": "Research Outline",
+    "category": "education",
+    "keywords": [
+      "research",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "research",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 458,
+    "views": 1844
+  },
+  {
+    "id": "education-research-bold-24",
+    "name": "Research Bold",
+    "category": "education",
+    "keywords": [
+      "research",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "research",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 635,
+    "views": 1873
+  },
+  {
+    "id": "education-research-bulk-24",
+    "name": "Research Bulk",
+    "category": "education",
+    "keywords": [
+      "research",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "research",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 587,
+    "views": 2365
+  },
+  {
+    "id": "education-research-linear-24",
+    "name": "Research Linear",
+    "category": "education",
+    "keywords": [
+      "research",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "research",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 44,
+    "views": 1055
+  },
+  {
+    "id": "education-study-outline-25",
+    "name": "Study Outline",
+    "category": "education",
+    "keywords": [
+      "study",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "study",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 431,
+    "views": 4406
+  },
+  {
+    "id": "education-study-bold-25",
+    "name": "Study Bold",
+    "category": "education",
+    "keywords": [
+      "study",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "study",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 113,
+    "views": 608
+  },
+  {
+    "id": "education-study-bulk-25",
+    "name": "Study Bulk",
+    "category": "education",
+    "keywords": [
+      "study",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "study",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 446,
+    "views": 3584
+  },
+  {
+    "id": "education-study-linear-25",
+    "name": "Study Linear",
+    "category": "education",
+    "keywords": [
+      "study",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "study",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 703,
+    "views": 127
+  },
+  {
+    "id": "education-learn-outline-26",
+    "name": "Learn Outline",
+    "category": "education",
+    "keywords": [
+      "learn",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "learn",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 414,
+    "views": 3464
+  },
+  {
+    "id": "education-learn-bold-26",
+    "name": "Learn Bold",
+    "category": "education",
+    "keywords": [
+      "learn",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "learn",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 380,
+    "views": 237
+  },
+  {
+    "id": "education-learn-bulk-26",
+    "name": "Learn Bulk",
+    "category": "education",
+    "keywords": [
+      "learn",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "learn",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 975,
+    "views": 2028
+  },
+  {
+    "id": "education-learn-linear-26",
+    "name": "Learn Linear",
+    "category": "education",
+    "keywords": [
+      "learn",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "learn",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 849,
+    "views": 3156
+  },
+  {
+    "id": "education-knowledge-outline-27",
+    "name": "Knowledge Outline",
+    "category": "education",
+    "keywords": [
+      "knowledge",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "knowledge",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 955,
+    "views": 4539
+  },
+  {
+    "id": "education-knowledge-bold-27",
+    "name": "Knowledge Bold",
+    "category": "education",
+    "keywords": [
+      "knowledge",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "knowledge",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 383,
+    "views": 3149
+  },
+  {
+    "id": "education-knowledge-bulk-27",
+    "name": "Knowledge Bulk",
+    "category": "education",
+    "keywords": [
+      "knowledge",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "knowledge",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 275,
+    "views": 107
+  },
+  {
+    "id": "education-knowledge-linear-27",
+    "name": "Knowledge Linear",
+    "category": "education",
+    "keywords": [
+      "knowledge",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "knowledge",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 788,
+    "views": 100
+  },
+  {
+    "id": "education-wisdom-outline-28",
+    "name": "Wisdom Outline",
+    "category": "education",
+    "keywords": [
+      "wisdom",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "wisdom",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 534,
+    "views": 798
+  },
+  {
+    "id": "education-wisdom-bold-28",
+    "name": "Wisdom Bold",
+    "category": "education",
+    "keywords": [
+      "wisdom",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "wisdom",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 722,
+    "views": 2969
+  },
+  {
+    "id": "education-wisdom-bulk-28",
+    "name": "Wisdom Bulk",
+    "category": "education",
+    "keywords": [
+      "wisdom",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "wisdom",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 7,
+    "views": 3076
+  },
+  {
+    "id": "education-wisdom-linear-28",
+    "name": "Wisdom Linear",
+    "category": "education",
+    "keywords": [
+      "wisdom",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "wisdom",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 231,
+    "views": 6
+  },
+  {
+    "id": "education-brain-outline-29",
+    "name": "Brain Outline",
+    "category": "education",
+    "keywords": [
+      "brain",
+      "education",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "brain",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 810,
+    "views": 4216
+  },
+  {
+    "id": "education-brain-bold-29",
+    "name": "Brain Bold",
+    "category": "education",
+    "keywords": [
+      "brain",
+      "education",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "brain",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 451,
+    "views": 4336
+  },
+  {
+    "id": "education-brain-bulk-29",
+    "name": "Brain Bulk",
+    "category": "education",
+    "keywords": [
+      "brain",
+      "education",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "brain",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 965,
+    "views": 4616
+  },
+  {
+    "id": "education-brain-linear-29",
+    "name": "Brain Linear",
+    "category": "education",
+    "keywords": [
+      "brain",
+      "education",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "education",
+      "brain",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.581Z",
+    "updatedAt": "2025-09-30T10:32:23.581Z",
+    "downloads": 222,
+    "views": 2101
+  }
+]

@@ -1,0 +1,5954 @@
+[
+  {
+    "id": "household-home-outline-1",
+    "name": "Home Outline",
+    "category": "household",
+    "keywords": [
+      "home",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"/><polyline points=\"9,22 9,12 15,12 15,22\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "home",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.578Z",
+    "updatedAt": "2025-09-30T10:32:23.578Z",
+    "downloads": 905,
+    "views": 1208
+  },
+  {
+    "id": "household-home-bold-1",
+    "name": "Home Bold",
+    "category": "household",
+    "keywords": [
+      "home",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"/><polyline points=\"9,22 9,12 15,12 15,22\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "home",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.578Z",
+    "updatedAt": "2025-09-30T10:32:23.578Z",
+    "downloads": 442,
+    "views": 4554
+  },
+  {
+    "id": "household-home-bulk-1",
+    "name": "Home Bulk",
+    "category": "household",
+    "keywords": [
+      "home",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"/><polyline points=\"9,22 9,12 15,12 15,22\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "home",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.578Z",
+    "updatedAt": "2025-09-30T10:32:23.578Z",
+    "downloads": 149,
+    "views": 2333
+  },
+  {
+    "id": "household-home-linear-1",
+    "name": "Home Linear",
+    "category": "household",
+    "keywords": [
+      "home",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"/><polyline points=\"9,22 9,12 15,12 15,22\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "home",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.578Z",
+    "updatedAt": "2025-09-30T10:32:23.578Z",
+    "downloads": 934,
+    "views": 74
+  },
+  {
+    "id": "household-building-outline-2",
+    "name": "Building Outline",
+    "category": "household",
+    "keywords": [
+      "building",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z\"/><path d=\"M6 12H4a2 2 0 0 0-2 2v8h20v-8a2 2 0 0 0-2-2h-2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "building",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.578Z",
+    "updatedAt": "2025-09-30T10:32:23.578Z",
+    "downloads": 482,
+    "views": 565
+  },
+  {
+    "id": "household-building-bold-2",
+    "name": "Building Bold",
+    "category": "household",
+    "keywords": [
+      "building",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z\"/><path d=\"M6 12H4a2 2 0 0 0-2 2v8h20v-8a2 2 0 0 0-2-2h-2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "building",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.578Z",
+    "updatedAt": "2025-09-30T10:32:23.578Z",
+    "downloads": 569,
+    "views": 1283
+  },
+  {
+    "id": "household-building-bulk-2",
+    "name": "Building Bulk",
+    "category": "household",
+    "keywords": [
+      "building",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z\"/><path d=\"M6 12H4a2 2 0 0 0-2 2v8h20v-8a2 2 0 0 0-2-2h-2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "building",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.578Z",
+    "updatedAt": "2025-09-30T10:32:23.578Z",
+    "downloads": 316,
+    "views": 354
+  },
+  {
+    "id": "household-building-linear-2",
+    "name": "Building Linear",
+    "category": "household",
+    "keywords": [
+      "building",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z\"/><path d=\"M6 12H4a2 2 0 0 0-2 2v8h20v-8a2 2 0 0 0-2-2h-2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "building",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.578Z",
+    "updatedAt": "2025-09-30T10:32:23.578Z",
+    "downloads": 775,
+    "views": 1541
+  },
+  {
+    "id": "household-house-outline-3",
+    "name": "House Outline",
+    "category": "household",
+    "keywords": [
+      "house",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "house",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.578Z",
+    "updatedAt": "2025-09-30T10:32:23.578Z",
+    "downloads": 432,
+    "views": 3338
+  },
+  {
+    "id": "household-house-bold-3",
+    "name": "House Bold",
+    "category": "household",
+    "keywords": [
+      "house",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "house",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 728,
+    "views": 2248
+  },
+  {
+    "id": "household-house-bulk-3",
+    "name": "House Bulk",
+    "category": "household",
+    "keywords": [
+      "house",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "house",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 445,
+    "views": 3405
+  },
+  {
+    "id": "household-house-linear-3",
+    "name": "House Linear",
+    "category": "household",
+    "keywords": [
+      "house",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "house",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 608,
+    "views": 3674
+  },
+  {
+    "id": "household-apartment-outline-4",
+    "name": "Apartment Outline",
+    "category": "household",
+    "keywords": [
+      "apartment",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "apartment",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 281,
+    "views": 4918
+  },
+  {
+    "id": "household-apartment-bold-4",
+    "name": "Apartment Bold",
+    "category": "household",
+    "keywords": [
+      "apartment",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "apartment",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 164,
+    "views": 2569
+  },
+  {
+    "id": "household-apartment-bulk-4",
+    "name": "Apartment Bulk",
+    "category": "household",
+    "keywords": [
+      "apartment",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "apartment",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 151,
+    "views": 2121
+  },
+  {
+    "id": "household-apartment-linear-4",
+    "name": "Apartment Linear",
+    "category": "household",
+    "keywords": [
+      "apartment",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "apartment",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 643,
+    "views": 2330
+  },
+  {
+    "id": "household-office-outline-5",
+    "name": "Office Outline",
+    "category": "household",
+    "keywords": [
+      "office",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "office",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 380,
+    "views": 4263
+  },
+  {
+    "id": "household-office-bold-5",
+    "name": "Office Bold",
+    "category": "household",
+    "keywords": [
+      "office",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "office",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 694,
+    "views": 493
+  },
+  {
+    "id": "household-office-bulk-5",
+    "name": "Office Bulk",
+    "category": "household",
+    "keywords": [
+      "office",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "office",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 303,
+    "views": 618
+  },
+  {
+    "id": "household-office-linear-5",
+    "name": "Office Linear",
+    "category": "household",
+    "keywords": [
+      "office",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "office",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 495,
+    "views": 1396
+  },
+  {
+    "id": "household-warehouse-outline-6",
+    "name": "Warehouse Outline",
+    "category": "household",
+    "keywords": [
+      "warehouse",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "warehouse",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 94,
+    "views": 4789
+  },
+  {
+    "id": "household-warehouse-bold-6",
+    "name": "Warehouse Bold",
+    "category": "household",
+    "keywords": [
+      "warehouse",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "warehouse",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 884,
+    "views": 2097
+  },
+  {
+    "id": "household-warehouse-bulk-6",
+    "name": "Warehouse Bulk",
+    "category": "household",
+    "keywords": [
+      "warehouse",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "warehouse",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 593,
+    "views": 4322
+  },
+  {
+    "id": "household-warehouse-linear-6",
+    "name": "Warehouse Linear",
+    "category": "household",
+    "keywords": [
+      "warehouse",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "warehouse",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 675,
+    "views": 3637
+  },
+  {
+    "id": "household-factory-outline-7",
+    "name": "Factory Outline",
+    "category": "household",
+    "keywords": [
+      "factory",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "factory",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 378,
+    "views": 1792
+  },
+  {
+    "id": "household-factory-bold-7",
+    "name": "Factory Bold",
+    "category": "household",
+    "keywords": [
+      "factory",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "factory",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 925,
+    "views": 2793
+  },
+  {
+    "id": "household-factory-bulk-7",
+    "name": "Factory Bulk",
+    "category": "household",
+    "keywords": [
+      "factory",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "factory",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 522,
+    "views": 2876
+  },
+  {
+    "id": "household-factory-linear-7",
+    "name": "Factory Linear",
+    "category": "household",
+    "keywords": [
+      "factory",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "factory",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 242,
+    "views": 2934
+  },
+  {
+    "id": "household-door-outline-8",
+    "name": "Door Outline",
+    "category": "household",
+    "keywords": [
+      "door",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2z\"/><path d=\"M15 12h.01\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "door",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 299,
+    "views": 2536
+  },
+  {
+    "id": "household-door-bold-8",
+    "name": "Door Bold",
+    "category": "household",
+    "keywords": [
+      "door",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2z\"/><path d=\"M15 12h.01\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "door",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 350,
+    "views": 4125
+  },
+  {
+    "id": "household-door-bulk-8",
+    "name": "Door Bulk",
+    "category": "household",
+    "keywords": [
+      "door",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2z\"/><path d=\"M15 12h.01\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "door",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 425,
+    "views": 3575
+  },
+  {
+    "id": "household-door-linear-8",
+    "name": "Door Linear",
+    "category": "household",
+    "keywords": [
+      "door",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2z\"/><path d=\"M15 12h.01\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "door",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 220,
+    "views": 398
+  },
+  {
+    "id": "household-window-outline-9",
+    "name": "Window Outline",
+    "category": "household",
+    "keywords": [
+      "window",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"2\" y=\"3\" width=\"20\" height=\"14\" rx=\"2\" ry=\"2\"/><line x1=\"8\" y1=\"21\" x2=\"16\" y2=\"21\"/><line x1=\"12\" y1=\"17\" x2=\"12\" y2=\"21\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "window",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 576,
+    "views": 1176
+  },
+  {
+    "id": "household-window-bold-9",
+    "name": "Window Bold",
+    "category": "household",
+    "keywords": [
+      "window",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"2\" y=\"3\" width=\"20\" height=\"14\" rx=\"2\" ry=\"2\"/><line x1=\"8\" y1=\"21\" x2=\"16\" y2=\"21\"/><line x1=\"12\" y1=\"17\" x2=\"12\" y2=\"21\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "window",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 178,
+    "views": 3092
+  },
+  {
+    "id": "household-window-bulk-9",
+    "name": "Window Bulk",
+    "category": "household",
+    "keywords": [
+      "window",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"2\" y=\"3\" width=\"20\" height=\"14\" rx=\"2\" ry=\"2\"/><line x1=\"8\" y1=\"21\" x2=\"16\" y2=\"21\"/><line x1=\"12\" y1=\"17\" x2=\"12\" y2=\"21\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "window",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 344,
+    "views": 4592
+  },
+  {
+    "id": "household-window-linear-9",
+    "name": "Window Linear",
+    "category": "household",
+    "keywords": [
+      "window",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"2\" y=\"3\" width=\"20\" height=\"14\" rx=\"2\" ry=\"2\"/><line x1=\"8\" y1=\"21\" x2=\"16\" y2=\"21\"/><line x1=\"12\" y1=\"17\" x2=\"12\" y2=\"21\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "window",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 870,
+    "views": 4904
+  },
+  {
+    "id": "household-gate-outline-10",
+    "name": "Gate Outline",
+    "category": "household",
+    "keywords": [
+      "gate",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "gate",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 788,
+    "views": 2986
+  },
+  {
+    "id": "household-gate-bold-10",
+    "name": "Gate Bold",
+    "category": "household",
+    "keywords": [
+      "gate",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "gate",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 33,
+    "views": 414
+  },
+  {
+    "id": "household-gate-bulk-10",
+    "name": "Gate Bulk",
+    "category": "household",
+    "keywords": [
+      "gate",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "gate",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 238,
+    "views": 4626
+  },
+  {
+    "id": "household-gate-linear-10",
+    "name": "Gate Linear",
+    "category": "household",
+    "keywords": [
+      "gate",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "gate",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 639,
+    "views": 2502
+  },
+  {
+    "id": "household-fence-outline-11",
+    "name": "Fence Outline",
+    "category": "household",
+    "keywords": [
+      "fence",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "fence",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 315,
+    "views": 2589
+  },
+  {
+    "id": "household-fence-bold-11",
+    "name": "Fence Bold",
+    "category": "household",
+    "keywords": [
+      "fence",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "fence",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 787,
+    "views": 4022
+  },
+  {
+    "id": "household-fence-bulk-11",
+    "name": "Fence Bulk",
+    "category": "household",
+    "keywords": [
+      "fence",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "fence",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 554,
+    "views": 3531
+  },
+  {
+    "id": "household-fence-linear-11",
+    "name": "Fence Linear",
+    "category": "household",
+    "keywords": [
+      "fence",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "fence",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 56,
+    "views": 1605
+  },
+  {
+    "id": "household-wall-outline-12",
+    "name": "Wall Outline",
+    "category": "household",
+    "keywords": [
+      "wall",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "wall",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 164,
+    "views": 1747
+  },
+  {
+    "id": "household-wall-bold-12",
+    "name": "Wall Bold",
+    "category": "household",
+    "keywords": [
+      "wall",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "wall",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 712,
+    "views": 2334
+  },
+  {
+    "id": "household-wall-bulk-12",
+    "name": "Wall Bulk",
+    "category": "household",
+    "keywords": [
+      "wall",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "wall",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 3,
+    "views": 4908
+  },
+  {
+    "id": "household-wall-linear-12",
+    "name": "Wall Linear",
+    "category": "household",
+    "keywords": [
+      "wall",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "wall",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 648,
+    "views": 1780
+  },
+  {
+    "id": "household-roof-outline-13",
+    "name": "Roof Outline",
+    "category": "household",
+    "keywords": [
+      "roof",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "roof",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 368,
+    "views": 1891
+  },
+  {
+    "id": "household-roof-bold-13",
+    "name": "Roof Bold",
+    "category": "household",
+    "keywords": [
+      "roof",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "roof",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 271,
+    "views": 3961
+  },
+  {
+    "id": "household-roof-bulk-13",
+    "name": "Roof Bulk",
+    "category": "household",
+    "keywords": [
+      "roof",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "roof",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 237,
+    "views": 3801
+  },
+  {
+    "id": "household-roof-linear-13",
+    "name": "Roof Linear",
+    "category": "household",
+    "keywords": [
+      "roof",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "roof",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 103,
+    "views": 3211
+  },
+  {
+    "id": "household-chimney-outline-14",
+    "name": "Chimney Outline",
+    "category": "household",
+    "keywords": [
+      "chimney",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "chimney",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 434,
+    "views": 4765
+  },
+  {
+    "id": "household-chimney-bold-14",
+    "name": "Chimney Bold",
+    "category": "household",
+    "keywords": [
+      "chimney",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "chimney",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 998,
+    "views": 4367
+  },
+  {
+    "id": "household-chimney-bulk-14",
+    "name": "Chimney Bulk",
+    "category": "household",
+    "keywords": [
+      "chimney",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "chimney",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 535,
+    "views": 1136
+  },
+  {
+    "id": "household-chimney-linear-14",
+    "name": "Chimney Linear",
+    "category": "household",
+    "keywords": [
+      "chimney",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "chimney",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 229,
+    "views": 2520
+  },
+  {
+    "id": "household-balcony-outline-15",
+    "name": "Balcony Outline",
+    "category": "household",
+    "keywords": [
+      "balcony",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "balcony",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 240,
+    "views": 4666
+  },
+  {
+    "id": "household-balcony-bold-15",
+    "name": "Balcony Bold",
+    "category": "household",
+    "keywords": [
+      "balcony",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "balcony",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 637,
+    "views": 2828
+  },
+  {
+    "id": "household-balcony-bulk-15",
+    "name": "Balcony Bulk",
+    "category": "household",
+    "keywords": [
+      "balcony",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "balcony",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 223,
+    "views": 1609
+  },
+  {
+    "id": "household-balcony-linear-15",
+    "name": "Balcony Linear",
+    "category": "household",
+    "keywords": [
+      "balcony",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "balcony",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 232,
+    "views": 4701
+  },
+  {
+    "id": "household-furniture-outline-16",
+    "name": "Furniture Outline",
+    "category": "household",
+    "keywords": [
+      "furniture",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "furniture",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 86,
+    "views": 2350
+  },
+  {
+    "id": "household-furniture-bold-16",
+    "name": "Furniture Bold",
+    "category": "household",
+    "keywords": [
+      "furniture",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "furniture",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 744,
+    "views": 3747
+  },
+  {
+    "id": "household-furniture-bulk-16",
+    "name": "Furniture Bulk",
+    "category": "household",
+    "keywords": [
+      "furniture",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "furniture",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 758,
+    "views": 44
+  },
+  {
+    "id": "household-furniture-linear-16",
+    "name": "Furniture Linear",
+    "category": "household",
+    "keywords": [
+      "furniture",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "furniture",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 246,
+    "views": 1039
+  },
+  {
+    "id": "household-chair-outline-17",
+    "name": "Chair Outline",
+    "category": "household",
+    "keywords": [
+      "chair",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "chair",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 392,
+    "views": 3998
+  },
+  {
+    "id": "household-chair-bold-17",
+    "name": "Chair Bold",
+    "category": "household",
+    "keywords": [
+      "chair",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "chair",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 952,
+    "views": 3338
+  },
+  {
+    "id": "household-chair-bulk-17",
+    "name": "Chair Bulk",
+    "category": "household",
+    "keywords": [
+      "chair",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "chair",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 919,
+    "views": 3680
+  },
+  {
+    "id": "household-chair-linear-17",
+    "name": "Chair Linear",
+    "category": "household",
+    "keywords": [
+      "chair",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "chair",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 593,
+    "views": 4013
+  },
+  {
+    "id": "household-table-outline-18",
+    "name": "Table Outline",
+    "category": "household",
+    "keywords": [
+      "table",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "table",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 413,
+    "views": 12
+  },
+  {
+    "id": "household-table-bold-18",
+    "name": "Table Bold",
+    "category": "household",
+    "keywords": [
+      "table",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "table",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 324,
+    "views": 4787
+  },
+  {
+    "id": "household-table-bulk-18",
+    "name": "Table Bulk",
+    "category": "household",
+    "keywords": [
+      "table",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "table",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 946,
+    "views": 2841
+  },
+  {
+    "id": "household-table-linear-18",
+    "name": "Table Linear",
+    "category": "household",
+    "keywords": [
+      "table",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "table",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 255,
+    "views": 3853
+  },
+  {
+    "id": "household-bed-outline-19",
+    "name": "Bed Outline",
+    "category": "household",
+    "keywords": [
+      "bed",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bed",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 233,
+    "views": 1332
+  },
+  {
+    "id": "household-bed-bold-19",
+    "name": "Bed Bold",
+    "category": "household",
+    "keywords": [
+      "bed",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bed",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 492,
+    "views": 2858
+  },
+  {
+    "id": "household-bed-bulk-19",
+    "name": "Bed Bulk",
+    "category": "household",
+    "keywords": [
+      "bed",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bed",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 14,
+    "views": 2115
+  },
+  {
+    "id": "household-bed-linear-19",
+    "name": "Bed Linear",
+    "category": "household",
+    "keywords": [
+      "bed",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bed",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 778,
+    "views": 4432
+  },
+  {
+    "id": "household-sofa-outline-20",
+    "name": "Sofa Outline",
+    "category": "household",
+    "keywords": [
+      "sofa",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "sofa",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 696,
+    "views": 1623
+  },
+  {
+    "id": "household-sofa-bold-20",
+    "name": "Sofa Bold",
+    "category": "household",
+    "keywords": [
+      "sofa",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "sofa",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 434,
+    "views": 3995
+  },
+  {
+    "id": "household-sofa-bulk-20",
+    "name": "Sofa Bulk",
+    "category": "household",
+    "keywords": [
+      "sofa",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "sofa",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 96,
+    "views": 1638
+  },
+  {
+    "id": "household-sofa-linear-20",
+    "name": "Sofa Linear",
+    "category": "household",
+    "keywords": [
+      "sofa",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "sofa",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 260,
+    "views": 4463
+  },
+  {
+    "id": "household-desk-outline-21",
+    "name": "Desk Outline",
+    "category": "household",
+    "keywords": [
+      "desk",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "desk",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 223,
+    "views": 3119
+  },
+  {
+    "id": "household-desk-bold-21",
+    "name": "Desk Bold",
+    "category": "household",
+    "keywords": [
+      "desk",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "desk",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 365,
+    "views": 380
+  },
+  {
+    "id": "household-desk-bulk-21",
+    "name": "Desk Bulk",
+    "category": "household",
+    "keywords": [
+      "desk",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "desk",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 26,
+    "views": 1532
+  },
+  {
+    "id": "household-desk-linear-21",
+    "name": "Desk Linear",
+    "category": "household",
+    "keywords": [
+      "desk",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "desk",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 591,
+    "views": 4916
+  },
+  {
+    "id": "household-shelf-outline-22",
+    "name": "Shelf Outline",
+    "category": "household",
+    "keywords": [
+      "shelf",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "shelf",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 3,
+    "views": 818
+  },
+  {
+    "id": "household-shelf-bold-22",
+    "name": "Shelf Bold",
+    "category": "household",
+    "keywords": [
+      "shelf",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "shelf",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 39,
+    "views": 1530
+  },
+  {
+    "id": "household-shelf-bulk-22",
+    "name": "Shelf Bulk",
+    "category": "household",
+    "keywords": [
+      "shelf",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "shelf",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 203,
+    "views": 3818
+  },
+  {
+    "id": "household-shelf-linear-22",
+    "name": "Shelf Linear",
+    "category": "household",
+    "keywords": [
+      "shelf",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "shelf",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 724,
+    "views": 4587
+  },
+  {
+    "id": "household-cabinet-outline-23",
+    "name": "Cabinet Outline",
+    "category": "household",
+    "keywords": [
+      "cabinet",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "cabinet",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 360,
+    "views": 3756
+  },
+  {
+    "id": "household-cabinet-bold-23",
+    "name": "Cabinet Bold",
+    "category": "household",
+    "keywords": [
+      "cabinet",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "cabinet",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 260,
+    "views": 887
+  },
+  {
+    "id": "household-cabinet-bulk-23",
+    "name": "Cabinet Bulk",
+    "category": "household",
+    "keywords": [
+      "cabinet",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "cabinet",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 428,
+    "views": 1295
+  },
+  {
+    "id": "household-cabinet-linear-23",
+    "name": "Cabinet Linear",
+    "category": "household",
+    "keywords": [
+      "cabinet",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "cabinet",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 695,
+    "views": 4524
+  },
+  {
+    "id": "household-lamp-outline-24",
+    "name": "Lamp Outline",
+    "category": "household",
+    "keywords": [
+      "lamp",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "lamp",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 308,
+    "views": 3580
+  },
+  {
+    "id": "household-lamp-bold-24",
+    "name": "Lamp Bold",
+    "category": "household",
+    "keywords": [
+      "lamp",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "lamp",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 444,
+    "views": 2585
+  },
+  {
+    "id": "household-lamp-bulk-24",
+    "name": "Lamp Bulk",
+    "category": "household",
+    "keywords": [
+      "lamp",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "lamp",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 922,
+    "views": 3511
+  },
+  {
+    "id": "household-lamp-linear-24",
+    "name": "Lamp Linear",
+    "category": "household",
+    "keywords": [
+      "lamp",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "lamp",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 547,
+    "views": 2276
+  },
+  {
+    "id": "household-light-outline-25",
+    "name": "Light Outline",
+    "category": "household",
+    "keywords": [
+      "light",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "light",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 857,
+    "views": 2126
+  },
+  {
+    "id": "household-light-bold-25",
+    "name": "Light Bold",
+    "category": "household",
+    "keywords": [
+      "light",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "light",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 624,
+    "views": 4868
+  },
+  {
+    "id": "household-light-bulk-25",
+    "name": "Light Bulk",
+    "category": "household",
+    "keywords": [
+      "light",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "light",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 260,
+    "views": 4494
+  },
+  {
+    "id": "household-light-linear-25",
+    "name": "Light Linear",
+    "category": "household",
+    "keywords": [
+      "light",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "light",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 889,
+    "views": 3467
+  },
+  {
+    "id": "household-bulb-outline-26",
+    "name": "Bulb Outline",
+    "category": "household",
+    "keywords": [
+      "bulb",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bulb",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 488,
+    "views": 4002
+  },
+  {
+    "id": "household-bulb-bold-26",
+    "name": "Bulb Bold",
+    "category": "household",
+    "keywords": [
+      "bulb",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bulb",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 738,
+    "views": 3846
+  },
+  {
+    "id": "household-bulb-bulk-26",
+    "name": "Bulb Bulk",
+    "category": "household",
+    "keywords": [
+      "bulb",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bulb",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 10,
+    "views": 3889
+  },
+  {
+    "id": "household-bulb-linear-26",
+    "name": "Bulb Linear",
+    "category": "household",
+    "keywords": [
+      "bulb",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bulb",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 468,
+    "views": 4877
+  },
+  {
+    "id": "household-candle-outline-27",
+    "name": "Candle Outline",
+    "category": "household",
+    "keywords": [
+      "candle",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "candle",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 555,
+    "views": 57
+  },
+  {
+    "id": "household-candle-bold-27",
+    "name": "Candle Bold",
+    "category": "household",
+    "keywords": [
+      "candle",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "candle",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 646,
+    "views": 2105
+  },
+  {
+    "id": "household-candle-bulk-27",
+    "name": "Candle Bulk",
+    "category": "household",
+    "keywords": [
+      "candle",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "candle",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 464,
+    "views": 960
+  },
+  {
+    "id": "household-candle-linear-27",
+    "name": "Candle Linear",
+    "category": "household",
+    "keywords": [
+      "candle",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "candle",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 526,
+    "views": 4977
+  },
+  {
+    "id": "household-chandelier-outline-28",
+    "name": "Chandelier Outline",
+    "category": "household",
+    "keywords": [
+      "chandelier",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "chandelier",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 37,
+    "views": 3500
+  },
+  {
+    "id": "household-chandelier-bold-28",
+    "name": "Chandelier Bold",
+    "category": "household",
+    "keywords": [
+      "chandelier",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "chandelier",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 715,
+    "views": 2603
+  },
+  {
+    "id": "household-chandelier-bulk-28",
+    "name": "Chandelier Bulk",
+    "category": "household",
+    "keywords": [
+      "chandelier",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "chandelier",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 197,
+    "views": 1705
+  },
+  {
+    "id": "household-chandelier-linear-28",
+    "name": "Chandelier Linear",
+    "category": "household",
+    "keywords": [
+      "chandelier",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "chandelier",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 542,
+    "views": 2170
+  },
+  {
+    "id": "household-ceiling-light-outline-29",
+    "name": "Ceiling-light Outline",
+    "category": "household",
+    "keywords": [
+      "ceiling-light",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "ceiling-light",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 671,
+    "views": 132
+  },
+  {
+    "id": "household-ceiling-light-bold-29",
+    "name": "Ceiling-light Bold",
+    "category": "household",
+    "keywords": [
+      "ceiling-light",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "ceiling-light",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 185,
+    "views": 1286
+  },
+  {
+    "id": "household-ceiling-light-bulk-29",
+    "name": "Ceiling-light Bulk",
+    "category": "household",
+    "keywords": [
+      "ceiling-light",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "ceiling-light",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 503,
+    "views": 3526
+  },
+  {
+    "id": "household-ceiling-light-linear-29",
+    "name": "Ceiling-light Linear",
+    "category": "household",
+    "keywords": [
+      "ceiling-light",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "ceiling-light",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 705,
+    "views": 3523
+  },
+  {
+    "id": "household-kitchen-outline-30",
+    "name": "Kitchen Outline",
+    "category": "household",
+    "keywords": [
+      "kitchen",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "kitchen",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 82,
+    "views": 305
+  },
+  {
+    "id": "household-kitchen-bold-30",
+    "name": "Kitchen Bold",
+    "category": "household",
+    "keywords": [
+      "kitchen",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "kitchen",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 138,
+    "views": 1232
+  },
+  {
+    "id": "household-kitchen-bulk-30",
+    "name": "Kitchen Bulk",
+    "category": "household",
+    "keywords": [
+      "kitchen",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "kitchen",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 715,
+    "views": 4556
+  },
+  {
+    "id": "household-kitchen-linear-30",
+    "name": "Kitchen Linear",
+    "category": "household",
+    "keywords": [
+      "kitchen",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "kitchen",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 666,
+    "views": 1296
+  },
+  {
+    "id": "household-stove-outline-31",
+    "name": "Stove Outline",
+    "category": "household",
+    "keywords": [
+      "stove",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "stove",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 678,
+    "views": 1331
+  },
+  {
+    "id": "household-stove-bold-31",
+    "name": "Stove Bold",
+    "category": "household",
+    "keywords": [
+      "stove",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "stove",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 94,
+    "views": 2120
+  },
+  {
+    "id": "household-stove-bulk-31",
+    "name": "Stove Bulk",
+    "category": "household",
+    "keywords": [
+      "stove",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "stove",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 437,
+    "views": 3827
+  },
+  {
+    "id": "household-stove-linear-31",
+    "name": "Stove Linear",
+    "category": "household",
+    "keywords": [
+      "stove",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "stove",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 834,
+    "views": 2060
+  },
+  {
+    "id": "household-oven-outline-32",
+    "name": "Oven Outline",
+    "category": "household",
+    "keywords": [
+      "oven",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "oven",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 306,
+    "views": 2393
+  },
+  {
+    "id": "household-oven-bold-32",
+    "name": "Oven Bold",
+    "category": "household",
+    "keywords": [
+      "oven",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "oven",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 653,
+    "views": 1056
+  },
+  {
+    "id": "household-oven-bulk-32",
+    "name": "Oven Bulk",
+    "category": "household",
+    "keywords": [
+      "oven",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "oven",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 66,
+    "views": 1338
+  },
+  {
+    "id": "household-oven-linear-32",
+    "name": "Oven Linear",
+    "category": "household",
+    "keywords": [
+      "oven",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "oven",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 940,
+    "views": 1467
+  },
+  {
+    "id": "household-refrigerator-outline-33",
+    "name": "Refrigerator Outline",
+    "category": "household",
+    "keywords": [
+      "refrigerator",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "refrigerator",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 35,
+    "views": 1801
+  },
+  {
+    "id": "household-refrigerator-bold-33",
+    "name": "Refrigerator Bold",
+    "category": "household",
+    "keywords": [
+      "refrigerator",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "refrigerator",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 779,
+    "views": 1649
+  },
+  {
+    "id": "household-refrigerator-bulk-33",
+    "name": "Refrigerator Bulk",
+    "category": "household",
+    "keywords": [
+      "refrigerator",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "refrigerator",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 950,
+    "views": 4787
+  },
+  {
+    "id": "household-refrigerator-linear-33",
+    "name": "Refrigerator Linear",
+    "category": "household",
+    "keywords": [
+      "refrigerator",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "refrigerator",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 872,
+    "views": 1144
+  },
+  {
+    "id": "household-sink-outline-34",
+    "name": "Sink Outline",
+    "category": "household",
+    "keywords": [
+      "sink",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "sink",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 419,
+    "views": 995
+  },
+  {
+    "id": "household-sink-bold-34",
+    "name": "Sink Bold",
+    "category": "household",
+    "keywords": [
+      "sink",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "sink",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 340,
+    "views": 2111
+  },
+  {
+    "id": "household-sink-bulk-34",
+    "name": "Sink Bulk",
+    "category": "household",
+    "keywords": [
+      "sink",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "sink",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 916,
+    "views": 3226
+  },
+  {
+    "id": "household-sink-linear-34",
+    "name": "Sink Linear",
+    "category": "household",
+    "keywords": [
+      "sink",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "sink",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 232,
+    "views": 3991
+  },
+  {
+    "id": "household-dishwasher-outline-35",
+    "name": "Dishwasher Outline",
+    "category": "household",
+    "keywords": [
+      "dishwasher",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "dishwasher",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 678,
+    "views": 2451
+  },
+  {
+    "id": "household-dishwasher-bold-35",
+    "name": "Dishwasher Bold",
+    "category": "household",
+    "keywords": [
+      "dishwasher",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "dishwasher",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 493,
+    "views": 2582
+  },
+  {
+    "id": "household-dishwasher-bulk-35",
+    "name": "Dishwasher Bulk",
+    "category": "household",
+    "keywords": [
+      "dishwasher",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "dishwasher",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 563,
+    "views": 1942
+  },
+  {
+    "id": "household-dishwasher-linear-35",
+    "name": "Dishwasher Linear",
+    "category": "household",
+    "keywords": [
+      "dishwasher",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "dishwasher",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 734,
+    "views": 1348
+  },
+  {
+    "id": "household-bathroom-outline-36",
+    "name": "Bathroom Outline",
+    "category": "household",
+    "keywords": [
+      "bathroom",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bathroom",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 21,
+    "views": 4466
+  },
+  {
+    "id": "household-bathroom-bold-36",
+    "name": "Bathroom Bold",
+    "category": "household",
+    "keywords": [
+      "bathroom",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bathroom",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 856,
+    "views": 2436
+  },
+  {
+    "id": "household-bathroom-bulk-36",
+    "name": "Bathroom Bulk",
+    "category": "household",
+    "keywords": [
+      "bathroom",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bathroom",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 13,
+    "views": 1683
+  },
+  {
+    "id": "household-bathroom-linear-36",
+    "name": "Bathroom Linear",
+    "category": "household",
+    "keywords": [
+      "bathroom",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M6 3h12l4 6-10 13L2 9l4-6z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bathroom",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 908,
+    "views": 2138
+  },
+  {
+    "id": "household-toilet-outline-37",
+    "name": "Toilet Outline",
+    "category": "household",
+    "keywords": [
+      "toilet",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "toilet",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 175,
+    "views": 2010
+  },
+  {
+    "id": "household-toilet-bold-37",
+    "name": "Toilet Bold",
+    "category": "household",
+    "keywords": [
+      "toilet",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "toilet",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 709,
+    "views": 199
+  },
+  {
+    "id": "household-toilet-bulk-37",
+    "name": "Toilet Bulk",
+    "category": "household",
+    "keywords": [
+      "toilet",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "toilet",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 349,
+    "views": 4131
+  },
+  {
+    "id": "household-toilet-linear-37",
+    "name": "Toilet Linear",
+    "category": "household",
+    "keywords": [
+      "toilet",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "toilet",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 761,
+    "views": 651
+  },
+  {
+    "id": "household-shower-outline-38",
+    "name": "Shower Outline",
+    "category": "household",
+    "keywords": [
+      "shower",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "shower",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 301,
+    "views": 2744
+  },
+  {
+    "id": "household-shower-bold-38",
+    "name": "Shower Bold",
+    "category": "household",
+    "keywords": [
+      "shower",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "shower",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 522,
+    "views": 4471
+  },
+  {
+    "id": "household-shower-bulk-38",
+    "name": "Shower Bulk",
+    "category": "household",
+    "keywords": [
+      "shower",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "shower",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 646,
+    "views": 674
+  },
+  {
+    "id": "household-shower-linear-38",
+    "name": "Shower Linear",
+    "category": "household",
+    "keywords": [
+      "shower",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "shower",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 443,
+    "views": 1864
+  },
+  {
+    "id": "household-bathtub-outline-39",
+    "name": "Bathtub Outline",
+    "category": "household",
+    "keywords": [
+      "bathtub",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bathtub",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 669,
+    "views": 267
+  },
+  {
+    "id": "household-bathtub-bold-39",
+    "name": "Bathtub Bold",
+    "category": "household",
+    "keywords": [
+      "bathtub",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bathtub",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 948,
+    "views": 2691
+  },
+  {
+    "id": "household-bathtub-bulk-39",
+    "name": "Bathtub Bulk",
+    "category": "household",
+    "keywords": [
+      "bathtub",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bathtub",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 65,
+    "views": 3396
+  },
+  {
+    "id": "household-bathtub-linear-39",
+    "name": "Bathtub Linear",
+    "category": "household",
+    "keywords": [
+      "bathtub",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "bathtub",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 999,
+    "views": 1383
+  },
+  {
+    "id": "household-mirror-outline-40",
+    "name": "Mirror Outline",
+    "category": "household",
+    "keywords": [
+      "mirror",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "mirror",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 315,
+    "views": 856
+  },
+  {
+    "id": "household-mirror-bold-40",
+    "name": "Mirror Bold",
+    "category": "household",
+    "keywords": [
+      "mirror",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "mirror",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 534,
+    "views": 248
+  },
+  {
+    "id": "household-mirror-bulk-40",
+    "name": "Mirror Bulk",
+    "category": "household",
+    "keywords": [
+      "mirror",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "mirror",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 99,
+    "views": 1771
+  },
+  {
+    "id": "household-mirror-linear-40",
+    "name": "Mirror Linear",
+    "category": "household",
+    "keywords": [
+      "mirror",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "mirror",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 406,
+    "views": 2248
+  },
+  {
+    "id": "household-towel-outline-41",
+    "name": "Towel Outline",
+    "category": "household",
+    "keywords": [
+      "towel",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "towel",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 790,
+    "views": 628
+  },
+  {
+    "id": "household-towel-bold-41",
+    "name": "Towel Bold",
+    "category": "household",
+    "keywords": [
+      "towel",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "towel",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 337,
+    "views": 4170
+  },
+  {
+    "id": "household-towel-bulk-41",
+    "name": "Towel Bulk",
+    "category": "household",
+    "keywords": [
+      "towel",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "towel",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 226,
+    "views": 4591
+  },
+  {
+    "id": "household-towel-linear-41",
+    "name": "Towel Linear",
+    "category": "household",
+    "keywords": [
+      "towel",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "towel",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 396,
+    "views": 1077
+  },
+  {
+    "id": "household-garden-outline-42",
+    "name": "Garden Outline",
+    "category": "household",
+    "keywords": [
+      "garden",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "garden",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 557,
+    "views": 1223
+  },
+  {
+    "id": "household-garden-bold-42",
+    "name": "Garden Bold",
+    "category": "household",
+    "keywords": [
+      "garden",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "garden",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 12,
+    "views": 568
+  },
+  {
+    "id": "household-garden-bulk-42",
+    "name": "Garden Bulk",
+    "category": "household",
+    "keywords": [
+      "garden",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "garden",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 295,
+    "views": 4540
+  },
+  {
+    "id": "household-garden-linear-42",
+    "name": "Garden Linear",
+    "category": "household",
+    "keywords": [
+      "garden",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "garden",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 372,
+    "views": 4119
+  },
+  {
+    "id": "household-tree-outline-43",
+    "name": "Tree Outline",
+    "category": "household",
+    "keywords": [
+      "tree",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M12 2v20\"/><path d=\"M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "tree",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 377,
+    "views": 3241
+  },
+  {
+    "id": "household-tree-bold-43",
+    "name": "Tree Bold",
+    "category": "household",
+    "keywords": [
+      "tree",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M12 2v20\"/><path d=\"M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "tree",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 594,
+    "views": 4927
+  },
+  {
+    "id": "household-tree-bulk-43",
+    "name": "Tree Bulk",
+    "category": "household",
+    "keywords": [
+      "tree",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M12 2v20\"/><path d=\"M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "tree",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 313,
+    "views": 3634
+  },
+  {
+    "id": "household-tree-linear-43",
+    "name": "Tree Linear",
+    "category": "household",
+    "keywords": [
+      "tree",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M12 2v20\"/><path d=\"M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "tree",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 565,
+    "views": 2615
+  },
+  {
+    "id": "household-flower-outline-44",
+    "name": "Flower Outline",
+    "category": "household",
+    "keywords": [
+      "flower",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "flower",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 419,
+    "views": 194
+  },
+  {
+    "id": "household-flower-bold-44",
+    "name": "Flower Bold",
+    "category": "household",
+    "keywords": [
+      "flower",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "flower",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 554,
+    "views": 540
+  },
+  {
+    "id": "household-flower-bulk-44",
+    "name": "Flower Bulk",
+    "category": "household",
+    "keywords": [
+      "flower",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "flower",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 310,
+    "views": 2255
+  },
+  {
+    "id": "household-flower-linear-44",
+    "name": "Flower Linear",
+    "category": "household",
+    "keywords": [
+      "flower",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "flower",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 918,
+    "views": 2136
+  },
+  {
+    "id": "household-plant-outline-45",
+    "name": "Plant Outline",
+    "category": "household",
+    "keywords": [
+      "plant",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "plant",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 829,
+    "views": 1333
+  },
+  {
+    "id": "household-plant-bold-45",
+    "name": "Plant Bold",
+    "category": "household",
+    "keywords": [
+      "plant",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "plant",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 856,
+    "views": 1141
+  },
+  {
+    "id": "household-plant-bulk-45",
+    "name": "Plant Bulk",
+    "category": "household",
+    "keywords": [
+      "plant",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "plant",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 174,
+    "views": 252
+  },
+  {
+    "id": "household-plant-linear-45",
+    "name": "Plant Linear",
+    "category": "household",
+    "keywords": [
+      "plant",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "plant",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 90,
+    "views": 1402
+  },
+  {
+    "id": "household-grass-outline-46",
+    "name": "Grass Outline",
+    "category": "household",
+    "keywords": [
+      "grass",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "grass",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 522,
+    "views": 624
+  },
+  {
+    "id": "household-grass-bold-46",
+    "name": "Grass Bold",
+    "category": "household",
+    "keywords": [
+      "grass",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "grass",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 783,
+    "views": 890
+  },
+  {
+    "id": "household-grass-bulk-46",
+    "name": "Grass Bulk",
+    "category": "household",
+    "keywords": [
+      "grass",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "grass",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 283,
+    "views": 934
+  },
+  {
+    "id": "household-grass-linear-46",
+    "name": "Grass Linear",
+    "category": "household",
+    "keywords": [
+      "grass",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "grass",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 917,
+    "views": 3572
+  },
+  {
+    "id": "household-fence-outline-47",
+    "name": "Fence Outline",
+    "category": "household",
+    "keywords": [
+      "fence",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "fence",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 816,
+    "views": 2904
+  },
+  {
+    "id": "household-fence-bold-47",
+    "name": "Fence Bold",
+    "category": "household",
+    "keywords": [
+      "fence",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "fence",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 57,
+    "views": 3227
+  },
+  {
+    "id": "household-fence-bulk-47",
+    "name": "Fence Bulk",
+    "category": "household",
+    "keywords": [
+      "fence",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "fence",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 185,
+    "views": 3578
+  },
+  {
+    "id": "household-fence-linear-47",
+    "name": "Fence Linear",
+    "category": "household",
+    "keywords": [
+      "fence",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><circle cx=\"12\" cy=\"12\" r=\"10\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "fence",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 733,
+    "views": 3305
+  },
+  {
+    "id": "household-gate-outline-48",
+    "name": "Gate Outline",
+    "category": "household",
+    "keywords": [
+      "gate",
+      "household",
+      "outline",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "gate",
+      "outline",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 159,
+    "views": 4702
+  },
+  {
+    "id": "household-gate-bold-48",
+    "name": "Gate Bold",
+    "category": "household",
+    "keywords": [
+      "gate",
+      "household",
+      "bold",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "gate",
+      "bold",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 137,
+    "views": 2334
+  },
+  {
+    "id": "household-gate-bulk-48",
+    "name": "Gate Bulk",
+    "category": "household",
+    "keywords": [
+      "gate",
+      "household",
+      "bulk",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "gate",
+      "bulk",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 874,
+    "views": 268
+  },
+  {
+    "id": "household-gate-linear-48",
+    "name": "Gate Linear",
+    "category": "household",
+    "keywords": [
+      "gate",
+      "household",
+      "linear",
+      "iconsax",
+      "icon"
+    ],
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"/></svg>",
+    "variants": [
+      "outline",
+      "bold",
+      "bulk",
+      "linear"
+    ],
+    "tags": [
+      "household",
+      "gate",
+      "linear",
+      "iconsax"
+    ],
+    "author": "Iconsax",
+    "license": "MIT",
+    "createdAt": "2025-09-30T10:32:23.579Z",
+    "updatedAt": "2025-09-30T10:32:23.579Z",
+    "downloads": 640,
+    "views": 3327
+  }
+]
