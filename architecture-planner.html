@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative Suite Architecture Planner</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0;
+            min-height: 80vh;
+        }
+
+        .left-panel {
+            padding: 30px;
+            background: #f8fafc;
+            border-right: 1px solid #e2e8f0;
+        }
+
+        .right-panel {
+            padding: 30px;
+            background: white;
+        }
+
+        .section {
+            margin-bottom: 30px;
+        }
+
+        .section h2 {
+            color: #1e293b;
+            margin-bottom: 15px;
+            font-size: 1.5rem;
+            border-bottom: 2px solid #3b82f6;
+            padding-bottom: 5px;
+        }
+
+        .checklist {
+            list-style: none;
+        }
+
+        .checklist li {
+            display: flex;
+            align-items: center;
+            padding: 12px 0;
+            border-bottom: 1px solid #e2e8f0;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .checklist li:hover {
+            background: #f1f5f9;
+            margin: 0 -15px;
+            padding-left: 15px;
+            padding-right: 15px;
+            border-radius: 8px;
+        }
+
+        .checklist input[type="checkbox"] {
+            margin-right: 12px;
+            transform: scale(1.2);
+            accent-color: #3b82f6;
+        }
+
+        .checklist label {
+            flex: 1;
+            cursor: pointer;
+            font-weight: 500;
+        }
+
+        .checklist .status {
+            font-size: 0.8rem;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-weight: 600;
+        }
+
+        .status.pending {
+            background: #fef3c7;
+            color: #92400e;
+        }
+
+        .status.in-progress {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+
+        .status.completed {
+            background: #d1fae5;
+            color: #065f46;
+        }
+
+        .architecture-diagram {
+            background: #f8fafc;
+            border: 2px dashed #cbd5e1;
+            border-radius: 12px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+
+        .domain {
+            background: white;
+            border: 2px solid #3b82f6;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 10px 0;
+            position: relative;
+        }
+
+        .domain.main {
+            background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+            color: white;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .domain.subdomain {
+            margin-left: 30px;
+            border-color: #10b981;
+        }
+
+        .domain.subdomain::before {
+            content: "└─";
+            position: absolute;
+            left: -25px;
+            color: #6b7280;
+            font-weight: bold;
+        }
+
+        .domain h3 {
+            margin-bottom: 8px;
+            font-size: 1.1rem;
+        }
+
+        .domain p {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        .tech-stack {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+
+        .tech-item {
+            background: white;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 15px;
+            text-align: center;
+        }
+
+        .tech-item h4 {
+            color: #3b82f6;
+            margin-bottom: 5px;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: #e2e8f0;
+            border-radius: 4px;
+            overflow: hidden;
+            margin: 10px 0;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #3b82f6, #10b981);
+            transition: width 0.3s ease;
+        }
+
+        .code-snippet {
+            background: #1e293b;
+            color: #e2e8f0;
+            padding: 15px;
+            border-radius: 8px;
+            font-family: 'Monaco', 'Menlo', monospace;
+            font-size: 0.9rem;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+
+        .highlight {
+            background: #fef3c7;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+
+        @media (max-width: 768px) {
+            .content {
+                grid-template-columns: 1fr;
+            }
+            
+            .left-panel {
+                border-right: none;
+                border-bottom: 1px solid #e2e8f0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎨 Creative Suite Architecture</h1>
+            <p>Microservices Architecture with Subdomains</p>
+        </div>
+
+        <div class="content">
+            <div class="left-panel">
+                <div class="section">
+                    <h2>📋 Implementation Checklist</h2>
+                    <ul class="checklist">
+                        <li>
+                            <input type="checkbox" id="main-domain" onchange="updateProgress()">
+                            <label for="main-domain">Set up main domain (www.example.com)</label>
+                            <span class="status pending">Pending</span>
+                        </li>
+                        <li>
+                            <input type="checkbox" id="email-tools" onchange="updateProgress()">
+                            <label for="email-tools">Consolidate email tools (email.example.com)</label>
+                            <span class="status in-progress">In Progress</span>
+                        </li>
+                        <li>
+                            <input type="checkbox" id="editor-2in1" onchange="updateProgress()">
+                            <label for="editor-2in1">Enhance BlackGlass Editor for video (editor.example.com)</label>
+                            <span class="status pending">Pending</span>
+                        </li>
+                        <li>
+                            <input type="checkbox" id="lookbook-tool" onchange="updateProgress()">
+                            <label for="lookbook-tool">Create lookbook creator (lookbook.example.com)</label>
+                            <span class="status pending">Pending</span>
+                        </li>
+                        <li>
+                            <input type="checkbox" id="social-tool" onchange="updateProgress()">
+                            <label for="social-tool">Build social media planner (social.example.com)</label>
+                            <span class="status pending">Pending</span>
+                        </li>
+                        <li>
+                            <input type="checkbox" id="asset-hub" onchange="updateProgress()">
+                            <label for="asset-hub">Create asset management hub (hub.example.com)</label>
+                            <span class="status pending">Pending</span>
+                        </li>
+                        <li>
+                            <input type="checkbox" id="cross-communication" onchange="updateProgress()">
+                            <label for="cross-communication">Implement cross-tool communication</label>
+                            <span class="status pending">Pending</span>
+                        </li>
+                        <li>
+                            <input type="checkbox" id="auth-system" onchange="updateProgress()">
+                            <label for="auth-system">Set up unified authentication</label>
+                            <span class="status pending">Pending</span>
+                        </li>
+                        <li>
+                            <input type="checkbox" id="deployment" onchange="updateProgress()">
+                            <label for="deployment">Configure deployment pipeline</label>
+                            <span class="status pending">Pending</span>
+                        </li>
+                    </ul>
+                    
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progress-fill" style="width: 10%"></div>
+                    </div>
+                    <p style="text-align: center; margin-top: 10px; font-weight: 600;">
+                        Progress: <span id="progress-text">1/9</span> completed
+                    </p>
+                </div>
+
+                <div class="section">
+                    <h2>🛠️ Tech Stack</h2>
+                    <div class="tech-stack">
+                        <div class="tech-item">
+                            <h4>Frontend</h4>
+                            <p>React + Vite</p>
+                        </div>
+                        <div class="tech-item">
+                            <h4>Styling</h4>
+                            <p>Tailwind CSS</p>
+                        </div>
+                        <div class="tech-item">
+                            <h4>Canvas</h4>
+                            <p>Konva.js</p>
+                        </div>
+                        <div class="tech-item">
+                            <h4>Backend</h4>
+                            <p>Firebase</p>
+                        </div>
+                        <div class="tech-item">
+                            <h4>Deployment</h4>
+                            <p>Vercel/Netlify</p>
+                        </div>
+                        <div class="tech-item">
+                            <h4>Video</h4>
+                            <p>WebCodecs API</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="right-panel">
+                <div class="section">
+                    <h2>🏗️ Architecture Overview</h2>
+                    <div class="architecture-diagram">
+                        <div class="domain main">
+                            <h3>www.example.com</h3>
+                            <p>Main Hub - Tool launcher, authentication, shared services</p>
+                        </div>
+                        
+                        <div class="domain subdomain">
+                            <h3>email.example.com</h3>
+                            <p>Email Tools - Planner, Generator, Editor, Product Search, Collections</p>
+                        </div>
+                        
+                        <div class="domain subdomain">
+                            <h3>editor.example.com</h3>
+                            <p>2-in-1 Image + Video Editor - BlackGlass Editor enhanced</p>
+                        </div>
+                        
+                        <div class="domain subdomain">
+                            <h3>lookbook.example.com</h3>
+                            <p>Campaign Creator - Lookbook generation, product styling</p>
+                        </div>
+                        
+                        <div class="domain subdomain">
+                            <h3>social.example.com</h3>
+                            <p>Social Media - Post planning, ad previews, content calendar</p>
+                        </div>
+                        
+                        <div class="domain subdomain">
+                            <h3>hub.example.com</h3>
+                            <p>Asset Management - Centralized library, organization, sharing</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="section">
+                    <h2>💡 Key Features</h2>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="padding: 8px 0; border-bottom: 1px solid #e2e8f0;">✅ <strong>Progressive Image Editing:</strong> Mini editor → Full BlackGlass Editor</li>
+                        <li style="padding: 8px 0; border-bottom: 1px solid #e2e8f0;">✅ <strong>Cross-Tool Communication:</strong> Seamless asset sharing between tools</li>
+                        <li style="padding: 8px 0; border-bottom: 1px solid #e2e8f0;">✅ <strong>Unified Authentication:</strong> Single sign-on across all subdomains</li>
+                        <li style="padding: 8px 0; border-bottom: 1px solid #e2e8f0;">✅ <strong>Independent Deployment:</strong> Each tool can be updated separately</li>
+                        <li style="padding: 8px 0; border-bottom: 1px solid #e2e8f0;">✅ <strong>2-in-1 Editor:</strong> Image and video editing in one tool</li>
+                        <li style="padding: 8px 0; border-bottom: 1px solid #e2e8f0;">✅ <strong>Microservices:</strong> Scalable, maintainable architecture</li>
+                    </ul>
+                </div>
+
+                <div class="section">
+                    <h2>🔗 Cross-Tool Communication</h2>
+                    <div class="code-snippet">
+// Shared communication service
+class ToolCommunication {
+  static sendToTool(tool: string, data: any) {
+    const toolUrls = {
+      email: 'https://email.example.com',
+      editor: 'https://editor.example.com',
+      lookbook: 'https://lookbook.example.com',
+      social: 'https://social.example.com',
+      hub: 'https://hub.example.com'
+    };
+    
+    const url = new URL(toolUrls[tool]);
+    url.searchParams.set('data', JSON.stringify(data));
+    window.open(url.toString(), '_blank');
+  }
+  
+  static listenForMessages(callback: (data: any) => void) {
+    window.addEventListener('message', (event) => {
+      if (event.origin.includes('example.com')) {
+        callback(event.data);
+      }
+    });
+  }
+}
+                    </div>
+                </div>
+
+                <div class="section">
+                    <h2>🎯 Next Steps</h2>
+                    <ol style="padding-left: 20px; line-height: 1.6;">
+                        <li>Start with <span class="highlight">email.example.com</span> consolidation</li>
+                        <li>Enhance BlackGlass Editor for video capabilities</li>
+                        <li>Set up main domain as tool launcher</li>
+                        <li>Implement cross-tool communication</li>
+                        <li>Add remaining tools one by one</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function updateProgress() {
+            const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+            const checked = document.querySelectorAll('input[type="checkbox"]:checked');
+            const progress = (checked.length / checkboxes.length) * 100;
+            
+            document.getElementById('progress-fill').style.width = progress + '%';
+            document.getElementById('progress-text').textContent = `${checked.length}/${checkboxes.length}`;
+            
+            // Update status indicators
+            checkboxes.forEach(checkbox => {
+                const status = checkbox.parentElement.querySelector('.status');
+                if (checkbox.checked) {
+                    status.textContent = 'Completed';
+                    status.className = 'status completed';
+                } else {
+                    status.textContent = 'Pending';
+                    status.className = 'status pending';
+                }
+            });
+        }
+
+        // Initialize progress on page load
+        document.addEventListener('DOMContentLoaded', updateProgress);
+    </script>
+</body>
+</html>

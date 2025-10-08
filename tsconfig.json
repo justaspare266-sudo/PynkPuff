@@ -1,0 +1,60 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "paths": {
+      "@/*": ["./tools/*"]
+    },
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "incremental": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "esnext",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "maxNodeModuleJsDepth": 0,
+    "disableSourceOfProjectReferenceRedirect": true,
+    "disableSizeLimit": false,
+    "noResolve": false,
+    "preserveSymlinks": true
+  },
+  "include": [
+    "next-env.d.ts",
+    ".next/types/**/*.ts",
+    "tools/**/*.ts",
+    "tools/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules/**/*",
+    "**/node_modules/**/*",
+    "node_modules/@types/**/*",
+    "functions/**/*",
+    "**/*.test.ts",
+    "**/*.test.tsx",
+    "**/*.spec.ts",
+    "**/*.spec.tsx",
+    "public/**/*",
+    "public/html-tools/**/*",
+    "dataconnect-generated/**/*",
+    ".next/**/*",
+    "dist/**/*",
+    "build/**/*",
+    "**/*.html",
+    "**/*.js",
+    "**/*.d.ts",
+    "**/.*"
+  ]
+}
